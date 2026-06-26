@@ -4,11 +4,11 @@ description: >-
   percentage-based or fixed-amount discounts.
 ---
 
-# How to Apply Percentage or Fixed Discounts (Promo Codes) in Cloudwaitress
+# How to Apply Percentage or Fixed Discounts (Promo Codes) in Restoflow
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, find the account where you want to add the discount and click “Manage".
 
     ![](<../.gitbook/assets/unknown (15) (1).png>)

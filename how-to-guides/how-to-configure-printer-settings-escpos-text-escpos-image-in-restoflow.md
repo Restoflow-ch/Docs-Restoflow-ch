@@ -4,11 +4,11 @@ description: >-
   logos by selecting between ESCPOS Text Only or ESCPOS Image modes.
 ---
 
-# How to Configure Printer Settings (ESCPOS Text / ESCPOS Image) in Cloudwaitress
+# How to Configure Printer Settings (ESCPOS Text / ESCPOS Image) in Restoflow
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, find the account you want to update and click "**Manage**".
 
     ![](<../.gitbook/assets/unknown (25).png>)

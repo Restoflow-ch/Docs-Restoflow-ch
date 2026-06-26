@@ -8,7 +8,7 @@ description: >-
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, select the account you want to update and click “**Manage**”.
 
     ![](<../.gitbook/assets/unknown (12).png>)

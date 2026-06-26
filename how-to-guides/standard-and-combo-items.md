@@ -108,9 +108,9 @@ Try placing a test order to confirm everything looks right.&#x20;
 
 ### Related Articles
 
-1. **How to Create and Manage Your Menus** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
-2. **Setup Your Menus** – [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
-3. **Export/Import Menu Feature** – [https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature](https://support.cloudwaitress.com/how-to-guides/export-import-menu-feature)
+1. **How to Create and Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+2. **Setup Your Menus** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+3. **Export/Import Menu Feature** – [https://support.restoflow.ch/how-to-guides/export-import-menu-feature](https://support.restoflow.ch/how-to-guides/export-import-menu-feature)
 
 
 
@@ -119,5 +119,5 @@ Try placing a test order to confirm everything looks right.&#x20;
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

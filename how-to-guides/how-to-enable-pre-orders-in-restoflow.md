@@ -4,7 +4,7 @@ description: >-
   them the flexibility to select a preferred pickup or delivery time.
 ---
 
-# How to Enable Pre-Orders in CloudWaitress
+# How to Enable Pre-Orders in Restoflow
 
 Here’s how to set up pre-orders and improve convenience for your customers.<br>
 
@@ -12,7 +12,7 @@ Here’s how to set up pre-orders and improve convenience for your customers.<br
 
 ### Step1: Enable Pre-Orders for Your Menu
 
-1. Log in to [CloudWaitress](https://cloudwaitress.com/)  and navigate to your **Dashboard.**
+1. Log in to [Restoflow](https://restoflow.ch/)  and navigate to your **Dashboard.**
 2. Go to the **Menu** section and select the menu for which you want to enable pre-orders.
 3. Scroll down to the **Pre-Order Settings** and toggle the option to **Enable Pre-Orders**.
 4. Define how many days in advance customers can place pre-orders by configuring the **Pre-Order Cut-Off Time**. This will help prevent last-minute orders.
@@ -42,7 +42,7 @@ Here’s how to set up pre-orders and improve convenience for your customers.<br
 
 ### Additional Resources
 
-* How to Configure Services in CloudWaitress
+* How to Configure Services in Restoflow
 * Managing Your Online Store
 * How to Set Up Order Timing
 
@@ -50,12 +50,12 @@ Here’s how to set up pre-orders and improve convenience for your customers.<br
 
 ### Related Articles
 
-1. **Set Maximum Orders Per Time Interval** - [https://support.cloudwaitress.com/how-to-guides/set-maximum-orders-per-time-interval](https://support.cloudwaitress.com/how-to-guides/set-maximum-orders-per-time-interval)
-2. **Managing Orders & Bookings** - [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
-3. **Configure Your Services (Order Timing)** - [https://support.cloudwaitress.com/getting-started/configure-your-services](https://support.cloudwaitress.com/getting-started/configure-your-services)
+1. **Set Maximum Orders Per Time Interval** - [https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval](https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval)
+2. **Managing Orders & Bookings** - [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **Configure Your Services (Order Timing)** - [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
 {% endhint %}

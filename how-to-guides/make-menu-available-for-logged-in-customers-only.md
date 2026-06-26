@@ -19,5 +19,5 @@ With this feature, your menu is visible only to customers who are logged in. Itâ
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

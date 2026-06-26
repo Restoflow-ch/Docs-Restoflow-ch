@@ -19,7 +19,7 @@ description: >-
 
 #### Checking Printer Status (Online Dashboard)
 
-1. Log in as admin at admin.cloudwaitress.com.
+1. Log in as admin at admin.restoflow.ch.
 2.  Locate the account you want to check and click "**Manage**".
 
     ![](<../.gitbook/assets/unknown (39).png>)
@@ -64,4 +64,4 @@ description: >-
    * If the printer still does not work after reconfiguring, reinstall it.
    * For detailed installation steps, follow the appropriate printer installation guides provided in the links.
 
-{% embed url="https://support.cloudwaitress.com/getting-started/hardware-requirements-1#printers" %}
+{% embed url="https://support.restoflow.ch/getting-started/hardware-requirements-1#printers" %}

@@ -16,7 +16,7 @@ The Facebook pixel is an excellent tool for measuring your return on investment 
 
 ### Steps:
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Settings** > **Integrations** > **Facebook Pixel**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-20 at 12.50.46 PM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -62,5 +62,5 @@ If you don't see any Pixels listed, you'll need to create one first:
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}

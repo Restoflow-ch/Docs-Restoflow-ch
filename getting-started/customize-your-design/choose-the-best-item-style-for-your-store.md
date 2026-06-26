@@ -1,10 +1,10 @@
 # Choose the Best Item Style for Your Store
 
-Explore the three item styles available in CloudWaitress and learn how to update or change them. Item styles determine how your product images are positioned and displayed, helping you choose the layout that best matches your store’s design.
+Explore the three item styles available in Restoflow and learn how to update or change them. Item styles determine how your product images are positioned and displayed, helping you choose the layout that best matches your store’s design.
 
 ### Steps:
 
-1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Settings** > **Website** > **Item Style**
 
 <figure><img src="../../.gitbook/assets/unknown (8) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

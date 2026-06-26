@@ -1,14 +1,14 @@
 ---
 description: >-
   Use these steps to add an alert banner for announcements or promotions on your
-  Cloudwaitress website.
+  Restoflow website.
 ---
 
 # How to Create Alerts for Announcements and Promotions
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, find the account where you want to add the alert and click “Manage”.
 
     ![](<../.gitbook/assets/unknown (14) (1).png>)

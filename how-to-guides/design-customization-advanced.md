@@ -1,7 +1,7 @@
 ---
 description: >-
   Additional guides explaining more in-depth customization options within the
-  CloudWaitress platform.
+  Restoflow platform.
 ---
 
 # Design Customization - Advanced

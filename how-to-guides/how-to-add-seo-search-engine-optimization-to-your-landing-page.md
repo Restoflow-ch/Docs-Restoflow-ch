@@ -8,7 +8,7 @@ description: >-
 
 ### Steps:
 
-1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Landing Page**
 
 <figure><img src="../.gitbook/assets/unknown (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -4,11 +4,11 @@ description: >-
   Walletly points.
 ---
 
-# How To Integrate Walletly with CloudWaitress
+# How To Integrate Walletly with Restoflow
 
-### Setting up CloudWaitress > Walletly Integration
+### Setting up Restoflow > Walletly Integration
 
-1. Log in to your CloudWaitress account at [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your Restoflow account at [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Get API key for Walletly, Go to Developers&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-26 at 12.43.02 PM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -17,7 +17,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-26 at 12.44.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Copy the API key generated from Cloudwaitress
+* Copy the API key generated from Restoflow
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 5.03.05 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -25,13 +25,13 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 5.08.32 PM.png" alt=""><figcaption></figcaption></figure>
 
-6. Paste the CloudWaitress API key once signed up.
-7. Your Walletly and CloudWaitress account will be automatically integrated and you are now ready to start the loyalty rewards program for your customers.&#x20;
+6. Paste the Restoflow API key once signed up.
+7. Your Walletly and Restoflow account will be automatically integrated and you are now ready to start the loyalty rewards program for your customers.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
 
 

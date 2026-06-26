@@ -1,7 +1,7 @@
 ---
 description: >-
   A list of gateways and set-up guides to accept online ordering payments on
-  your CloudWaitress website.
+  your Restoflow website.
 ---
 
 # Accepting Payments

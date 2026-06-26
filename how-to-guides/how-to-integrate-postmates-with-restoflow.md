@@ -2,19 +2,19 @@
 description: Postmates is a last mile delivery services operating in the USA.
 ---
 
-# How to integrate Postmates with CloudWaitress
+# How to integrate Postmates with Restoflow
 
 ## POSTMATES Integration
 
 {% hint style="info" %}
 **Which cities is Postmates available in?**
 
-[This is the updated list of cities where Postmates is available](https://www.notion.so/cloudwaitresswiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
+[This is the updated list of cities where Postmates is available](https://www.notion.so/restoflowwiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
 
 
 
-## How to set-up CloudWaitress > Postmates integration
+## How to set-up Restoflow > Postmates integration
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
@@ -36,7 +36,7 @@ Confirm = On at 0mins
 
 Ready= On at 0min
 
-![](../.gitbook/assets/postmates-testing-settings-cloudwaitress.png)
+![](../.gitbook/assets/postmates-testing-settings-restoflow.png)
 {% endtab %}
 
 {% tab title="Required keys" %}
@@ -61,7 +61,7 @@ Post mates will show during the checkout;
 
 Postmates deliveries will show on the dashboard with the Postmates logo;
 
-![Postmates logo shows in the CloudWaitress order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
+![Postmates logo shows in the Restoflow order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
 {% endtab %}
 {% endtabs %}
 
@@ -81,7 +81,7 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In Cloudwaitress the following settings must be applied;**
+**In Restoflow the following settings must be applied;**
 
 1\. Generate and add the webhook to Postmates (details above)
 
@@ -111,4 +111,4 @@ Note: You can set different timings for these fields and you can use the other f
 
 *   **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
 
-    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the CloudWaitress Admin Dashboard.
+    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the Restoflow Admin Dashboard.

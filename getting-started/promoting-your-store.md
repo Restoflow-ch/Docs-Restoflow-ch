@@ -40,7 +40,7 @@ SEO which stands for search engine optimization is the process of making your si
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+By default, your online store can be found on a sub-domain of "restoflow.ch". It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
@@ -62,6 +62,6 @@ Once you have a custom domain, visit [https://search.google.com/search-console](
 
 We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
 
-* [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
-* [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
-* [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
+* [Online Marketing - Google My Business](https://www.restoflow.ch/blog/online-restaurant-marketing-google-my-business)
+* [Online Marketing - Facebook](https://www.restoflow.ch/blog/online-restaurant-marketing-facebook-advertising)
+* [Creative Marketing Ideas For Restaurants](https://www.restoflow.ch/blog/creative-marketing-ideas-restaurants)

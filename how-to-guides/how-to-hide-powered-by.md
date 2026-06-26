@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-30 at 4.41.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Settings** > **Website** > **Footer** > **Hide Poweredn By**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-30 at 4.48.29 AM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -23,6 +23,6 @@ description: >-
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
 

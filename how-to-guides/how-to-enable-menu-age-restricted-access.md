@@ -4,7 +4,7 @@ Learn how to restrict access to certain menu items based on age. This feature en
 
 ### Steps:
 
-1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Settings** > **Systems** > **Age Verification**.
 
 <figure><img src="../.gitbook/assets/unknown (28) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -42,5 +42,5 @@ Check your store to verify the changes. A warning message will appear when a cus
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

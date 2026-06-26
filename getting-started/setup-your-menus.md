@@ -141,5 +141,5 @@ We highly recommend that you use the website [https://www.birme.net](https://www
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get any assistance.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get any assistance.
 {% endhint %}

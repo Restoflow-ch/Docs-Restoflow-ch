@@ -49,14 +49,14 @@ Here's a guide on how this feature works&#x20;
 
 ### Related Articles
 
-1. **Public Holiday Surcharge** - [https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge](https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge)
-2. **Managing Orders & Bookings** - [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
-3. How to Create & Manage Your Menus - [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Public Holiday Surcharge** - [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
+2. **Managing Orders & Bookings** - [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. How to Create & Manage Your Menus - [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance maaging this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance maaging this feature.
 {% endhint %}

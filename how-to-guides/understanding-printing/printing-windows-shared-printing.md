@@ -16,13 +16,13 @@ description: how to guide to connect a USB printer
 
 ![](../../.gitbook/assets/untitled-2.png)
 
-#### 4. If your printer is not showing use these instructions to set it up. [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 4. If your printer is not showing use these instructions to set it up. [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
 #### 5. To test that the printer is working, please press Print Test Page
 
 ![](<../../.gitbook/assets/untitled-3 (3).png>)
 
-#### 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
 #### 6. If the test page does print, please share the printer with the following settings;
 
@@ -44,9 +44,9 @@ description: how to guide to connect a USB printer
 
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Restoflow.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Restoflow.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -58,5 +58,5 @@ description: how to guide to connect a USB printer
 
 
 
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  The CloudWaitress reseller account is designed for businesses which want to
+  The Restoflow reseller account is designed for businesses which want to
   re-sell our online ordering system to their customers under their own brand
   name and at their own rates.
 ---
@@ -22,5 +22,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Find out more about becoming a reseller or affiliate at CloudWaitress.com](https://www.cloudwaitress.com/resellers/)
+[Find out more about becoming a reseller or affiliate at restoflow.ch](https://www.restoflow.ch/resellers/)
 {% endhint %}

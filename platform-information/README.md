@@ -19,5 +19,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Go back to CloudWaitress.com](https://www.cloudwaitress.com)
+[Go back to restoflow.ch](https://www.restoflow.ch)
 {% endhint %}

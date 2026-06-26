@@ -11,7 +11,7 @@ Selecting a location will instantly redirect customers to that store's ordering 
 \
 Here's how to set up a landing page:
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to Landing Page
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-16 at 1.27.13 PM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -29,5 +29,5 @@ Here's how to set up a landing page:
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

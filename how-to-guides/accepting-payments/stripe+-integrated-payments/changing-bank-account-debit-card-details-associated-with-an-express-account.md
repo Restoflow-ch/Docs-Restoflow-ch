@@ -11,4 +11,4 @@ If the external account (debit card or bank account) in question has previously 
 
 
 
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).

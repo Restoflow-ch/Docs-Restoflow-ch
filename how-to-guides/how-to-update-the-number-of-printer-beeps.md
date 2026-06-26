@@ -6,7 +6,7 @@ By increasing or customizing the number of beeps, you can better manage high-vol
 
 ### Steps:
 
-1. Log in to your account[ https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2. Go to **Settings** > **System**, then select **Receipt Printing**.
 
 <figure><img src="../.gitbook/assets/unknown (17) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

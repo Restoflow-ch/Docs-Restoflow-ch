@@ -63,9 +63,9 @@ With the Order Dashboard, your team can deliver faster, stay better organized, a
 
 ### Related Articles
 
-1. **Managing Orders & Bookings** – [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings) [CloudWaitress Support](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
-2. **How to Create and Manage Your Menus** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus) [CloudWaitress Support](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus?utm_source=chatgpt.com)
-3. **Set Maximum Orders Per Time Interval** – [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
+1. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings) [Restoflow Support](https://support.restoflow.ch/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
+2. **How to Create and Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus) [Restoflow Support](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus?utm_source=chatgpt.com)
+3. **Set Maximum Orders Per Time Interval** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
 
 <br>
 

@@ -4,11 +4,11 @@ description: >-
   page footer so they appear on the website.
 ---
 
-# How to Add Footer Icons in Cloudwaitress
+# How to Add Footer Icons in Restoflow
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the account list, find the account you want to add a footer and click "**Manage"**.
 
     ![](<../.gitbook/assets/unknown (17).png>)

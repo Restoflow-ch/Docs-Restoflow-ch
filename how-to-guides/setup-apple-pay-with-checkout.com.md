@@ -14,7 +14,7 @@ Customers with Apple Pay-compatible devices can utilize this payment method to e
 
 ## Requirements
 
-In order to configure and use Apple Pay with CloudWaitress, you need to prepare some business accounts and tools as follows:
+In order to configure and use Apple Pay with Restoflow, you need to prepare some business accounts and tools as follows:
 
 * A Checkout.com business account. You can send an inquiry to create a new account to Checkout.com here - [https://www.checkout.com/contact-sales](https://www.checkout.com/contact-sales)
 * An Apple developer account; make sure you have a proper role to create identifiers and certificates.
@@ -57,7 +57,7 @@ Demo from Checkout.com
 2. Under the Merchant Domains section, click Add Domain.
 3. Enter the domain for your business and click Save.
 4. Click Download to get the `.txt` file.
-5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the CloudWaitress.
+5. You should store this file in an accessible place. The domain verification step is not completed yet. We're going to get back to this as we configure Apple Pay on the Restoflow.
 
 ### Create your Apple Pay Certificates
 
@@ -91,11 +91,11 @@ After going through all the above steps, you should have the following at your h
 * A `apple-developer-merchantid-domain-association.txt` file that is provided by Apple when you add the domain.
 * A `.key` and `.pem` certificate files.
 
-## Enable Apple Pay in CloudWaitress Dashboard
+## Enable Apple Pay in Restoflow Dashboard
 
-After configuring Apple Developer Account and Checkout.com, we need to do some steps on the CloudWaitress dashboard to make Apple Pay fully functional.
+After configuring Apple Developer Account and Checkout.com, we need to do some steps on the Restoflow dashboard to make Apple Pay fully functional.
 
-1. Head over your restaurant settings in your CloudWaitress dashboard.
+1. Head over your restaurant settings in your Restoflow dashboard.
 2. Click on the **Payments** tab and click **Add Payment Method**.
 3. Select **Apple Pay (Checkout.com)** in the payment method list, and click **Add Method**.
 

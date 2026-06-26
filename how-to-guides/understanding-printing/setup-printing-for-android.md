@@ -1,14 +1,14 @@
 ---
 description: >-
   Complete guide to adding a Bluetooth, Wi-Fi, or network printer to Android for
-  automatic order printing with CloudWaitress.
+  automatic order printing with Restoflow.
 ---
 
 # How to Set Up a Printer on Android
 
 Setting up a **printer on Android** allows restaurants, cafés, and businesses to **automatically print order receipts** directly from their **Android device**. Whether you use a Bluetooth, Wi-F&#x69;**, or network printer**, this guide will walk you through configuring **Android printing settings** for seamless order processing.
 
-With CloudWaitress, you can:\
+With Restoflow, you can:\
 ✅ **Print orders automatically** using an Android-compatible receipt printer.\
 ✅ **Connect a printer to Android** via **Bluetooth or Wi-Fi**.\
 ✅ **Print from Android to a network printer** with a fixed IP address.\
@@ -18,7 +18,7 @@ With CloudWaitress, you can:\
 This guide will help you **add a printer to Android**, configure **Android printer settings**, and troubleshoot any printing issues.
 
 {% hint style="info" %}
-We are happy to set up your printer remotely for you. We know this step can trip up many people because every printer is different. Please [contact us](https://www.cloudwaitress.com) via live chat if you would like assistance.
+We are happy to set up your printer remotely for you. We know this step can trip up many people because every printer is different. Please [contact us](https://www.restoflow.ch) via live chat if you would like assistance.
 {% endhint %}
 
 ### **Requirements**
@@ -33,7 +33,7 @@ Before you start, ensure you have:
 
 ### Step 1: Create a Printer Configuration
 
-1. Open your [**CloudWaitress dashboard**](https://admin.cloudwaitress.com).
+1. Open your [**Restoflow dashboard**](https://admin.restoflow.ch).
 2. Go to **Settings > Receipt Printing > Create Printer**.
 3. Fill in:
    * **Printer Name -** i.e. "Android Kitchen Printer"
@@ -67,9 +67,9 @@ Before you start, ensure you have:
      * Select your printer from the list.
    * If using a **Network (IP Printer)**, select **"Network"** and **manually enter the printer's IP address**.
      * Ensure the printer and Android device are on the same Wi-Fi network.
-3. Enter the **API Key** from your CloudWaitress dashboard. The API key can be found on the restaurant's printer settings. (Settings > Receipt Printing)
+3. Enter the **API Key** from your Restoflow dashboard. The API key can be found on the restaurant's printer settings. (Settings > Receipt Printing)
 4. If prompted, enter the default printer PIN (**0000** or **1234**).
-5. Confirm that the **printer status is "Connected"** in your CloudWaitress dashboard.
+5. Confirm that the **printer status is "Connected"** in your Restoflow dashboard.
 6. Once all the details are filled out, check the status of the printer on your restaurant’s settings. Make sure it appears as connected.
 
 <div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/push3.png" alt="" width="318"><figcaption><p>Press the "+” sign on the top to configure a printing service. Make sure that the printer is on.</p></figcaption></figure></div>
@@ -86,7 +86,7 @@ Before you start, ensure you have:
 
 ### **Step 4: Test Printing**
 
-1. Visit the **Orders Page** in CloudWaitress.
+1. Visit the **Orders Page** in Restoflow.
 2. Select an order, then choose **"Print"**.\
    (We recommend printing both short and long orders to ensure that there is nothing being cut out vertically.)
 3. If you enabled **auto-printing**, place a test order to ensure automatic printing is enabled.
@@ -100,7 +100,7 @@ Before you start, ensure you have:
 {% hint style="success" %}
 **Contact Us**
 
-We have successfully setup 100's of printers; there is a good chance we can save you lots of headaches, so please don't hesitate to [contact us via chat](https://www.cloudwaitress.com).
+We have successfully setup 100's of printers; there is a good chance we can save you lots of headaches, so please don't hesitate to [contact us via chat](https://www.restoflow.ch).
 {% endhint %}
 
 #### **1. Sides of the receipt are cut off**
@@ -109,7 +109,7 @@ We have successfully setup 100's of printers; there is a good chance we can save
 
 #### **2. Invalid API Key**
 
-✅ Verify that the **API key matches** the one in your CloudWaitress printer settings.
+✅ Verify that the **API key matches** the one in your Restoflow printer settings.
 
 #### **3. Printer is connected, but no printouts**
 
@@ -129,7 +129,7 @@ We have successfully setup 100's of printers; there is a good chance we can save
 📌 **Cloud Printing Support:** Print from anywhere when using a **network printer with a fixed IP**.
 
 {% hint style="info" %}
-Get started for free at [www.cloudwaitress.com/signup](https://www.cloudwaitress.com/signup/)
+Get started for free at [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
 {% endhint %}
 
 

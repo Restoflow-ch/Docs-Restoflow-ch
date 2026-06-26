@@ -9,7 +9,7 @@ description: >-
 
 ### Steps to Set Up Stripe+ Payments:
 
-1. **Login:** Access your admin dashboard at [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
+1. **Login:** Access your admin dashboard at [admin.restoflow.ch](https://admin.restoflow.ch).
 2. **Navigate to Settings:** Go to **Settings > Payments > Add Payment Method > Stripe > Add Method**.
 
 <figure><img src="../.gitbook/assets/Settings-payments-Stripe.png" alt=""><figcaption><p>Settings > Payments > Add Payment Method > Stripe > Add Method</p></figcaption></figure>
@@ -33,7 +33,7 @@ description: >-
 
 3. **Save Settings:** Press **Save** to apply the settings.
 4. **Test Your Setup:** Launch your store and place a live test order using your card, Google Pay, or Apple Pay.
-5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature.<br>
+5. **Get Assistance:** For any issues or to activate your SC Account ID, please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature.<br>
 
 
 
@@ -42,12 +42,12 @@ description: >-
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}
 
-### Don't Have a CloudWaitress Account?
+### Don't Have a Restoflow Account?
 
-Visit [www.cloudwaitress.com](https://www.cloudwaitress.com) and click the **Sign Up** button on the top right to create your account.
+Visit [www.restoflow.ch](https://www.restoflow.ch) and click the **Sign Up** button on the top right to create your account.
 
 {% content-ref url="using-stripe-integrated.md" %}
 [using-stripe-integrated.md](using-stripe-integrated.md)

@@ -1,7 +1,7 @@
 ---
 description: >-
   More information on how to use and customise the language settings inside of
-  CloudWaitress.
+  Restoflow.
 ---
 
 # Understanding Languages

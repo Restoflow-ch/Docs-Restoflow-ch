@@ -8,7 +8,7 @@ description: >-
 
 ## Changing Subscription Plan
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
+1. Visit [https://admin.restoflow.ch](https://admin.restoflow.ch) and login
 2. Click **billing** on a restaurant in your restaurant list
 3. In the popup, select your subscription plan and press "Edit Subscription"
 4. Choose your plan from the drop down and press "Update Subscription"
@@ -19,7 +19,7 @@ description: >-
 
 We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
+1. Visit [https://admin.restoflow.ch](https://admin.restoflow.ch) and login
 2. Click **billing** on a restaurant in your restaurant list
 3. In the popup, select "Payment Methods" and enter your card details
 

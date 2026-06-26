@@ -42,10 +42,10 @@ A domain is any web address, for example, 'google.com' is a domain.
 
 ### **Your Sub-domain**
 
-Your store will be accessible on your own unique subdomain that you can choose. Your subdomain will always be hosted under "example.cloudwaitress.com". Every subdomain must be unique and is taken on a first come first serve basis.
+Your store will be accessible on your own unique subdomain that you can choose. Your subdomain will always be hosted under "example.restoflow.ch". Every subdomain must be unique and is taken on a first come first serve basis.
 
 ### **Custom Domain**
 
 A custom domain is a domain name you purchase and connect to our service. You can register any domain name available such as "yourbusiness.com" and connect it to our service. This way customers can go directly your domain name to find your online ordering system.
 
-It is often desirable to have your own domain name for your store in order to better promote your own brand and business. It is much easier to tell your customers to find you at "order.yourbusiness.com" instead of "yourbusiness.cloudwaitress.com".
+It is often desirable to have your own domain name for your store in order to better promote your own brand and business. It is much easier to tell your customers to find you at "order.yourbusiness.com" instead of "yourbusiness.restoflow.ch".

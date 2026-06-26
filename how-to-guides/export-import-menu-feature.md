@@ -53,14 +53,14 @@ Please also note that the option sets of the menu you exported will not be inclu
 
 ### Related Articles
 
-1. **Setup Your Menus** - [https://support.cloudwaitress.com/getting-started/setup-your-menus](https://support.cloudwaitress.com/getting-started/setup-your-menus)
-2. **How to Create & Import a Menu Using a Spreadsheet** - [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
-3. **How to Create and Manage Your Menus** -[https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Setup Your Menus** - [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+2. **How to Create & Import a Menu Using a Spreadsheet** - [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+3. **How to Create and Manage Your Menus** -[https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}

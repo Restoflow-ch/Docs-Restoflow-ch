@@ -1,4 +1,4 @@
-# How to add Cloudwaitress to your Google Business Profile
+# How to add Restoflow to your Google Business Profile
 
 **Time estimate:** 5 minutes
 
@@ -13,7 +13,7 @@
 
 ***
 
-### Granting Access to CloudWaitress
+### Granting Access to Restoflow
 
 #### Step 1: Access Google Account Settings
 
@@ -30,10 +30,10 @@
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Step 4: Add CloudWaitress as a Manager
+#### Step 4: Add Restoflow as a Manager
 
 * Click the "Add people" or "Invite" button
-* Enter the email: [cloudwaitressonline@gmail.com](mailto:cloudwaitressonline@gmail.com)
+* Enter the email: [info@restoflow.ch](mailto:info@restoflow.ch)
 * Select **"Manager"** from the permission level dropdown
 * Click "Invite" or "Send invitation"
 
@@ -41,7 +41,7 @@
 
 #### Step 5: Verify the Access
 
-You should see [cloudwaitressonline@gmail.com](mailto:cloudwaitressonline@gmail.com) listed as a "Manager" in your People and Access list with a "Pending" or "Active" status.
+You should see [info@restoflow.ch](mailto:info@restoflow.ch) listed as a "Manager" in your People and Access list with a "Pending" or "Active" status.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -49,7 +49,7 @@ You should see [cloudwaitressonline@gmail.com](mailto:cloudwaitressonline@gmail.
 
 #### Why This Matters
 
-By granting Manager permissions, you maintain full ownership and control of your Google Business Profile. CloudWaitress can access your profile to:
+By granting Manager permissions, you maintain full ownership and control of your Google Business Profile. Restoflow can access your profile to:
 
 * Optimize your listing for better visibility
 * Run promotions and special offers
@@ -58,7 +58,7 @@ By granting Manager permissions, you maintain full ownership and control of your
 * Add posts and updates
 * Improve your profile for better sales performance
 
-**Important:** You retain owner access and can revoke CloudWaitress permissions at any time.
+**Important:** You retain owner access and can revoke Restoflow permissions at any time.
 
 ***
 
@@ -72,7 +72,7 @@ By granting Manager permissions, you maintain full ownership and control of your
 
 **Email address not accepted?**
 
-* Double-check the email: [cloudwaitressonline@gmail.com](mailto:cloudwaitressonline@gmail.com)
+* Double-check the email: [info@restoflow.ch](mailto:info@restoflow.ch)
 * Make sure there are no extra spaces
 * Try using the "Add by email" option instead of searching
 
@@ -91,16 +91,16 @@ By granting Manager permissions, you maintain full ownership and control of your
 
 ### What Happens Next?
 
-1. CloudWaitress will receive an email invitation to access your profile
+1. Restoflow will receive an email invitation to access your profile
 2. Once accepted, you'll see the status change from "Pending" to "Active"
-3. CloudWaitress will reach out to confirm access and discuss optimization plans
-4. You can monitor all changes CloudWaitress makes through your owner dashboard
+3. Restoflow will reach out to confirm access and discuss optimization plans
+4. You can monitor all changes Restoflow makes through your owner dashboard
 
 ***
 
 ### Need Help?
 
-If you encounter any issues completing these steps, contact the CloudWaitress support team at [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or reach out to your account manager.
+If you encounter any issues completing these steps, contact the Restoflow support team at [info@restoflow.ch](mailto:info@restoflow.ch) or reach out to your account manager.
 
 
 

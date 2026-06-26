@@ -2,7 +2,7 @@
 description: >-
   Driver Tracking powered by Shipday.com (previously know as QuestTag.com) sends
   customer notifications with real-time delivery driver tracking for
-  CloudWaitress delivery orders.
+  Restoflow delivery orders.
 ---
 
 # How To Add Driver Tracking
@@ -10,7 +10,7 @@ description: >-
 ## Features
 
 * Easy-to-use dashboard
-* CloudWaitress orders automatically added
+* Restoflow orders automatically added
 * Real-time tracking of drivers for restaurant and customer
 * Mobile app for drivers
 * Customer email notifications
@@ -22,7 +22,7 @@ description: >-
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" %}
 
-1. Open your CloudWaitress account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com/).
+1. Open your Restoflow account - [admin.restoflow.ch](https://admin.restoflow.ch/).
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' > 'Integrations' > Click on the 'Shipday Logo'.
 4. Paste the Shipday API key from your Shipday.com account.
@@ -39,5 +39,5 @@ Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise
 
 
 
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).
 

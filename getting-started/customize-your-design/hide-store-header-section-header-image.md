@@ -1,5 +1,5 @@
 ---
-description: How to Hide the Store Header Section in your CloudWaitress store.
+description: How to Hide the Store Header Section in your Restoflow store.
 ---
 
 # Hide Store Header Section (header image)
@@ -10,7 +10,7 @@ description: How to Hide the Store Header Section in your CloudWaitress store.
 
 <figure><img src="../../.gitbook/assets/Remove Header Image.png" alt=""><figcaption><p>Example of store before and after disabling the header image option</p></figcaption></figure>
 
-### 1. [Go to admin.cloudwaitress.com](https://admin.cloudwaitress.com/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
+### 1. [Go to admin.restoflow.ch](https://admin.restoflow.ch/restaurant/RESsnHW7AjTKYMCr7aOF6NrP)
 
 ### 2. Click on Settings
 

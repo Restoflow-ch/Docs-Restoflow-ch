@@ -61,5 +61,5 @@ Click Save to activate your audio settings.
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
 {% endhint %}

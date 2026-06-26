@@ -26,14 +26,14 @@ Note:  Make sure to enable the 'Wait Time & Auto Statuses' setting to ensure ord
 
 ### Related Articles
 
-1. **How to Enable Pre‑Orders in CloudWaitress** – [https://support.cloudwaitress.com/how-to-guides/how-to-enable-pre-orders-in-cloudwaitress](https://support.cloudwaitress.com/how-to-guides/how-to-enable-pre-orders-in-cloudwaitress)
-2. **Managing Orders & Bookings** – [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
-3. **Configure Your Services (Order Timing settings)** – [https://support.cloudwaitress.com/getting-started/configure-your-services](https://support.cloudwaitress.com/getting-started/configure-your-services)
+1. **How to Enable Pre‑Orders in Restoflow** – [https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow](https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow)
+2. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **Configure Your Services (Order Timing settings)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}

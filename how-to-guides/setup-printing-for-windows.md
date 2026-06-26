@@ -123,6 +123,6 @@ Please ensure that Windows detects your printer. Try restarting your printer or 
 
 
 {% hint style="info" %}
-Get started for free at [www.cloudwaitress.com/signup](https://www.cloudwaitress.com/signup/)
+Get started for free at [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
 {% endhint %}
 

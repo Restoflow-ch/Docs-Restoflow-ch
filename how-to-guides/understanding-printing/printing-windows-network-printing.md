@@ -24,7 +24,7 @@ description: How to guide to print with a network printer
 
 ![](<../../.gitbook/assets/untitled-3 (1).png>)
 
-6\. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+6\. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
 7\. Open the PushPrinter for Windows program application
 
@@ -58,9 +58,9 @@ description: How to guide to print with a network printer
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of Restoflow.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of Restoflow.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -77,4 +77,4 @@ description: How to guide to print with a network printer
 
 
 
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).

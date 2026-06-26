@@ -12,7 +12,7 @@ Quickstart video tutorial
 
 ## Quick-start Steps
 
-1. Visit https://www.cloudwaitress.com and sign up for an account
+1. Visit https://www.restoflow.ch and sign up for an account
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard
@@ -29,4 +29,4 @@ At this point, you can customise the system as you please and begin accepting or
 
 \
 \
-For further assistance, feel free to [contact us](https://www.cloudwaitress.com/contact/).
+For further assistance, feel free to [contact us](https://www.restoflow.ch/contact/).

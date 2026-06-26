@@ -14,4 +14,4 @@ If there is no existing printer.  Create the printer.  If there is an existing p
 
 \
 \
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).

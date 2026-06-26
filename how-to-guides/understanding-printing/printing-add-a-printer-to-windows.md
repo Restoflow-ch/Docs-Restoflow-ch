@@ -39,5 +39,5 @@ Use simple naming conventions for easy servicing in the future. i.e. Kitchen, Pi
 7\. Your printer is now setup.
 
 {% hint style="info" %}
-Still need help setting up for receipt printer? Start a chat with our support team at cloudwaitress.com or book a set-up appointment with us [here](https://calendly.com/cloudwaitress).
+Still need help setting up for receipt printer? Start a chat with our support team at restoflow.ch or book a set-up appointment with us [here](https://calendly.com/restoflow).
 {% endhint %}

@@ -25,7 +25,7 @@ Note: Adding Staff  Account still depends on the level of your access
 
 ### 1. Create a Staff Account
 
-&#x20;      1\.  Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)\
+&#x20;      1\.  Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)\
 &#x20;      2\. From the dashboard, go to **Staff i**n the left-hand menu
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-12 at 12.35.24 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
@@ -78,5 +78,5 @@ Once configured, click **Save.** Share the login credentials with the staff memb
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
 {% endhint %}

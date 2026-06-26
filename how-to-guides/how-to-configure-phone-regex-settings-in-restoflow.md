@@ -4,11 +4,11 @@ description: >-
   allowing form submission.
 ---
 
-# How to Configure Phone Regex Settings in Cloudwaitress
+# How to Configure Phone Regex Settings in Restoflow
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, find the account you want to configure and click "**Manage**".
 
     ![](<../.gitbook/assets/unknown (21).png>)

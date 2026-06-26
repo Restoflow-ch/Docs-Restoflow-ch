@@ -1,14 +1,14 @@
 ---
 description: >-
   Follow these steps to add or update social media links for a specific
-  Cloudwaitress account.
+  Restoflow account.
 ---
 
-# How to Add Social Media Links (Cloudwaitress Account) Page
+# How to Add Social Media Links (Restoflow Account) Page
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the list of accounts, find the account you want to edit and click “Manage.”
 
     ![](<../.gitbook/assets/unknown (7) (1).png>)

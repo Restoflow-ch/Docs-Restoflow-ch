@@ -6,7 +6,7 @@ description: >-
 
 # Printing - API Key
 
-1\. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings>System>Receipt Printing>Create Printer.
+1\. Login to your Restoflow account at [admin.restoflow.ch](https://admin.restoflow.ch/login?redirect=%2F) and go to Settings>System>Receipt Printing>Create Printer.
 
 ![](../../.gitbook/assets/1-create-printer.png)
 
@@ -35,4 +35,4 @@ description: >-
 
 
 
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).

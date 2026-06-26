@@ -1,11 +1,11 @@
 ---
 description: >-
-  Conditional Fees in CloudWaitress allow you to apply additional charges based
+  Conditional Fees in Restoflow allow you to apply additional charges based
   on specific order conditions such as payment methods, order times, and special
   days.
 ---
 
-# How to Set Up Conditional Fees in CloudWaitress
+# How to Set Up Conditional Fees in Restoflow
 
 This feature helps businesses manage surcharges effectively and automate pricing adjustments.\
 \
@@ -14,9 +14,9 @@ Here's a video on how to set up this feature.
 
 {% embed url="https://youtu.be/LVZGVFHK8UA" %}
 
-### Step 1: Log In to CloudWaitress
+### Step 1: Log In to Restoflow
 
-1. Go to [CloudWaitress](https://cloudwaitress.com/) and log into your account.
+1. Go to [Restoflow](https://restoflow.ch/) and log into your account.
 2. Navigate to your **Dashboard**.
 
 ### Step 2: Access Conditional Fees Settings
@@ -48,22 +48,22 @@ Here's a video on how to set up this feature.
 ### Additional Resources
 
 * How to configure Payment Method
-* Managing Service Types in CloudWaitress
+* Managing Service Types in Restoflow
 * Customizing Your Online Ordering Page
 
 
 
 ### Related Articles
 
-1. **Public Holiday Surcharge** – [https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge](https://support.cloudwaitress.com/platform-information/special-features/public-holiday-surcharge)
-2. **Managing Orders & Bookings** – [https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings](https://support.cloudwaitress.com/getting-started/managing-orders-and-bookings)
-3. **How to Create & Manage Your Menus** – [https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus](https://support.cloudwaitress.com/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Public Holiday Surcharge** – [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
+2. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **How to Create & Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
 {% endhint %}
 

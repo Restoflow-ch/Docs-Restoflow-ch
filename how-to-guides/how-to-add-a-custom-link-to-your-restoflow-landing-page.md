@@ -2,11 +2,11 @@
 description: Follow the steps below to add a custom link to your website’s navigation bar.
 ---
 
-# How to Add a Custom Link to Your Cloudwaitress Landing Page
+# How to Add a Custom Link to Your Restoflow Landing Page
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com
+1. Log in as Admin at admin.restoflow.ch
 2.  On the top navigation tabs, look for and click “Landing Page.”
 
     ![](<../.gitbook/assets/unknown (3) (1).png>)

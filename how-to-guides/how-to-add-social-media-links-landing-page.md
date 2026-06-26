@@ -1,6 +1,6 @@
 ---
 description: >-
-  Use this guide to add social media links to the footer of your Cloudwaitress
+  Use this guide to add social media links to the footer of your Restoflow
   landing page.
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ### Steps:
 
-1. Log in as Admin at admin.cloudwaitress.com.
+1. Log in as Admin at admin.restoflow.ch.
 2.  From the top navigation tabs, click “Landing Page.”
 
     ![](<../.gitbook/assets/unknown (10) (1).png>)

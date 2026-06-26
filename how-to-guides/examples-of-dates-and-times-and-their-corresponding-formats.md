@@ -6,7 +6,7 @@ When setting up a “Receipt Printing” the system allows you to customize the 
 
 ## Steps
 
-1. Log in to your account [https://admin.cloudwaitress.com/login](https://admin.cloudwaitress.com/login)
+1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
 2.  Go to Settings > System > Receipt Printing > Printer Setup > Click on the current printer
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-13 at 12.27.51 PM.png" alt=""><figcaption></figcaption></figure>
@@ -23,4 +23,4 @@ When setting up a “Receipt Printing” the system allows you to customize the 
 <figure><img src="../.gitbook/assets/Screen Shot 2023-10-11 at 8.46.51 AM.png" alt=""><figcaption></figcaption></figure>
 
 \
-For further assistance, feel free to [contact us](https://cloudwaitress.com/contact).
+For further assistance, feel free to [contact us](https://restoflow.ch/contact).

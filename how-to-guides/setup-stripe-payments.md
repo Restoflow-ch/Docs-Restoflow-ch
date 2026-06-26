@@ -44,7 +44,7 @@ To withdraw online payments to your bank, you will need to ensure your Stripe ac
 
 ## Stripe Fee's
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudWaitress account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your Restoflow account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
 
@@ -61,5 +61,5 @@ Stripe refunds can be processed from your order management dashboard or the Stri
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance activating this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
 {% endhint %}

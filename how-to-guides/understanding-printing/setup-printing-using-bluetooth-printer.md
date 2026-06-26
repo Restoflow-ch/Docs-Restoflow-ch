@@ -10,7 +10,7 @@ description: >-
 
 ### Step 1: Create a Printer Configuration
 
-1. Open your [**CloudWaitress dashboard**](https://admin.cloudwaitress.com).
+1. Open your [**Restoflow dashboard**](https://admin.restoflow.ch).
 2. Go to **Settings > Receipt Printing > Create Printer**.
 3. Fill in:
    * **Printer Name -** i.e. "Android Kitchen Printer"
@@ -36,12 +36,12 @@ description: >-
    * If using **Bluetooth**, the app will **automatically scan** for available printers.
      * Ensure your printer is powered on and in pairing mode.
      * Select your printer from the list.
-3. Enter the **API Key** from your CloudWaitress dashboard. The API key can be found on the restaurant's printer settings. (Settings > Receipt Printing)
+3. Enter the **API Key** from your Restoflow dashboard. The API key can be found on the restaurant's printer settings. (Settings > Receipt Printing)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-30 at 4.25.31 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. If prompted, enter the default printer PIN (**0000** or **1234**).
-5. Confirm that the **printer status is "Connected"** in your CloudWaitress dashboard.
+5. Confirm that the **printer status is "Connected"** in your Restoflow dashboard.
 6. Once all the details are filled out, check the status of the printer on your restaurant’s settings. Make sure it appears as connected.
 7. Click "Test Print" if setting up is successful, it will do a test print
 8. Once successful, do an order test
@@ -54,5 +54,5 @@ description: >-
 
 
 {% hint style="danger" %}
-Please email [support@cloudwaitress.com](mailto:support@cloudwaitress.com) or use the chat support feature to get assistance managing this feature.
+Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
 {% endhint %}
