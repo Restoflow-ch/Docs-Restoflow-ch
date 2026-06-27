@@ -1,11 +1,11 @@
 ---
 description: >-
-  Staff accounts allow you to control who can access which parts of your system.
-  With customizable roles and permission settings, you can make sure each team
-  member sees only what they need.
+  Mit Mitarbeiterkonten können Sie steuern, wer auf welche Teile Ihres Systems zugreifen kann.
+  Mit anpassbaren Rollen und Berechtigungseinstellungen können Sie sicherstellen, dass jedes Team
+  Das Mitglied sieht nur das, was es braucht.
 ---
 
-# Managing Staff Accounts
+# Mitarbeiterkonten verwalten
 
 
 
@@ -13,57 +13,57 @@ description: >-
 
 <br>
 
-Having a staff account is crucial for several reasons:
+Ein Mitarbeiterkonto ist aus mehreren Gründen von entscheidender Bedeutung:
 
-* **Access Control**: Ensures that only authorized personnel have access to sensitive information and systems.
-* **Resource Allocation**: Helps in assigning and tracking resources efficiently among staff members.
-* **Security**: Enhances security by enabling activity monitoring and auditing
+* **Zugriffskontrolle**: Stellt sicher, dass nur autorisiertes Personal Zugriff auf vertrauliche Informationen und Systeme hat.
+* **Ressourcenzuweisung**: Hilft bei der effizienten Zuweisung und Nachverfolgung von Ressourcen unter den Mitarbeitern.
+* **Sicherheit**: Erhöht die Sicherheit durch die Aktivierung von Aktivitätsüberwachung und -prüfung
 
 {% hint style="info" %}
-Note: Adding Staff  Account still depends on the level of your access
+Hinweis: Das Hinzufügen eines Mitarbeiterkontos hängt immer noch von der Ebene Ihres Zugriffs ab
 {% endhint %}
 
-### 1. Create a Staff Account
+### 1. Erstellen Sie ein Mitarbeiterkonto
 
-&#x20;      1\.  Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)\
-&#x20;      2\. From the dashboard, go to **Staff i**n the left-hand menu
+&#x20;      1\.  Melden Sie sich bei Ihrem Konto [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login) an.
+&#x20;      2\. Gehen Sie im Dashboard im Menü auf der linken Seite zu **Personal**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-12 at 12.35.24 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-&#x20;      3\. Click **Create Staff**
+&#x20;      3\. Klicken Sie auf **Personal erstellen**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-12 at 12.53.29 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-&#x20;      4, Enter the staff member's **email** and **password**
+&#x20;      4. Geben Sie die **E-Mail-Adresse** und das **Passwort** des Mitarbeiters ein.
 
-&#x20;      5\. Choose the **restaurant location** (for multi-branch setups)
+&#x20;      5\. Wählen Sie den **Restaurantstandort** (für Einrichtungen mit mehreren Filialen)
 
-### 2. Assign a Role
+### 2. Weisen Sie eine Rolle zu
 
-Use **Restriction Presets** to quickly assign common roles
+Verwenden Sie **Einschränkungsvoreinstellungen**, um schnell gemeinsame Rollen zuzuweisen
 
-* **Manager -** full access
-* **Front Staff** - limited to order views and bookings
-* **Kitchen** - access to kitchen screens only
-* **Driver** - for delivery staff
-* **Menu Manager** - for users managing items and menus
+* **Manager -** Vollzugriff
+* **Frontpersonal** – beschränkt auf Bestellansichten und Buchungen
+* **Küche** – nur Zugang zu den Küchenbildschirmen
+* **Fahrer** – für Zusteller
+* **Menü-Manager** – für Benutzer, die Elemente und Menüs verwalten
 
-### 3. Customize Permissions
+### 3. Passen Sie die Berechtigungen an
 
-Start with a preset, then adjust:
+Beginnen Sie mit einer Voreinstellung und passen Sie sie dann an:
 
-* **Menu Editor**
-* **Reports**
-* **Customer Info (view only / edit)**
-* **Store Pages**
+* **Menü-Editor**
+* **Berichte**
+* **Kundeninformationen (nur anzeigen/bearbeiten)**
+* **Store-Seiten**
 
-You can fine-tune permissions down to whether users can view, edit, or delete data.&#x20;
+Sie können die Berechtigungen dahingehend verfeinern, ob Benutzer Daten anzeigen, bearbeiten oder löschen können.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-12 at 1.00.55 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### 4. Save and Share Login Details
+### 4. Anmeldedaten speichern und teilen
 
-Once configured, click **Save.** Share the login credentials with the staff member. They'll only see what they're allowed to access - no more, no less.&#x20;
+Klicken Sie nach der Konfiguration auf **Speichern**. Teilen Sie die Anmeldeinformationen mit dem Mitarbeiter. Sie sehen nur das, worauf sie zugreifen dürfen – nicht mehr und nicht weniger.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-12 at 1.02.59 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -78,5 +78,5 @@ Once configured, click **Save.** Share the login credentials with the staff memb
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

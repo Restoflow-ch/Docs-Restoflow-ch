@@ -1,49 +1,49 @@
-# Set up Bancontact Payments
+# Bancontact-Zahlungen einrichten
 
 <figure><img src="https://www.restoflow.ch/wp-content/uploads/2023/04/Bancontact-Logo-1.svg" alt="Bancontact for Restoflow"><figcaption></figcaption></figure>
 
-Restoflow is a custom-branded online ordering platform explicitly designed for the hospitality industry. With our seamless integration with Bancontact ([https://www.bancontact.com/](https://www.bancontact.com/)), restaurant and cafe owners based in Belgium can now accept mobile and desktop payments effortlessly within their online ordering flow. This article explains the integration process and the benefits of using Bancontact for your business.
+Restoflow ist eine maßgeschneiderte Online-Bestellplattform, die speziell für das Gastgewerbe entwickelt wurde. Dank unserer nahtlosen Integration mit Bancontact ([https://www.bancontact.com/](https://www.bancontact.com/)) können in Belgien ansässige Restaurant- und Cafébesitzer jetzt problemlos mobile und Desktop-Zahlungen in ihrem Online-Bestellablauf akzeptieren. In diesem Artikel werden der Integrationsprozess und die Vorteile der Verwendung von Bancontact für Ihr Unternehmen erläutert.
 
-**Benefits of Bancontact Integration**
+**Vorteile der Bancontact-Integration**
 
-By integrating Bancontact with [Restoflow](https://restoflow.ch/), you can offer your customers the convenience of paying using one of Belgium’s most popular payment methods. This integration enables you to:
+Durch die Integration von Bancontact mit [Restoflow](https://restoflow.ch/) können Sie Ihren Kunden den Komfort bieten, mit einer der beliebtesten Zahlungsmethoden Belgiens zu bezahlen. Diese Integration ermöglicht Ihnen:
 
-1. Accept mobile and desktop payments: Cater to a broader audience by offering customers the flexibility to pay using their preferred device.
-2. Streamline the online ordering process: The Bancontact integration is fully integrated into the online ordering flow, ensuring a smooth and hassle-free experience for your customers.
+1. Akzeptieren Sie mobile und Desktop-Zahlungen: Sprechen Sie ein breiteres Publikum an, indem Sie Kunden die Flexibilität bieten, mit ihrem bevorzugten Gerät zu bezahlen.
+2. Optimieren Sie den Online-Bestellprozess: Die Bancontact-Integration ist vollständig in den Online-Bestellablauf integriert und sorgt so für ein reibungsloses und problemloses Erlebnis für Ihre Kunden.
 
-**Setting Up the Integration**
+**Einrichten der Integration**
 
-To integrate Bancontact with your Restoflow platform, follow these simple steps:
+Um Bancontact in Ihre Restoflow-Plattform zu integrieren, befolgen Sie diese einfachen Schritte:
 
-1. Ensure you have an active Stripe account.
-2. Obtain your SC Account Id from Restoflow by contacting chat support via the restoflow.ch website.
-3. Go to Settings > Payments > Add Payment Method in your Restoflow account.
-4. Select both Stripe and Bancontact and complete the fields on the screen.
+1. Stellen Sie sicher, dass Sie über ein aktives Stripe-Konto verfügen.
+2. Erhalten Sie Ihre SC-Konto-ID von Restoflow, indem Sie den Chat-Support über die Website restoflow.ch kontaktieren.
+3. Gehen Sie in Ihrem Restoflow-Konto zu Einstellungen > Zahlungen > Zahlungsmethode hinzufügen.
+4. Wählen Sie sowohl Stripe als auch Bancontact aus und füllen Sie die Felder auf dem Bildschirm aus.
 
 <figure><img src="https://www.restoflow.ch/wp-content/uploads/2023/04/Screen-Shot-2023-04-20-at-11.26.44-am-700x324.png" alt="Adding Bancontact"><figcaption></figcaption></figure>
 
-**No Additional Charges and Full Support**
+**Keine zusätzlichen Kosten und voller Support**
 
-There are no extra charges from Restoflow for integrating Bancontact into your online ordering platform. Additionally, we offer complete assistance throughout the integration process via our [chat support](https://www.restoflow.ch/).
+Für die Integration von Bancontact in Ihre Online-Bestellplattform fallen seitens Restoflow keine zusätzlichen Kosten an. Darüber hinaus bieten wir über unseren [Chat-Support](https://www.restoflow.ch/) umfassende Unterstützung während des gesamten Integrationsprozesses.
 
 <figure><img src="https://www.restoflow.ch/wp-content/uploads/2023/04/Screen-Shot-2023-04-20-at-11.37.10-am-609x400.png" alt="Get Support for Bancontact"><figcaption></figcaption></figure>
 
-**Conclusion**
+**Schlussfolgerung**
 
-By integrating Bancontact into your Restoflow platform, you can offer your customers in Belgium a seamless and convenient payment experience. Take advantage of the opportunity to grow your business and better serve your customers with this powerful integration.
+Durch die Integration von Bancontact in Ihre Restoflow-Plattform können Sie Ihren Kunden in Belgien ein nahtloses und bequemes Zahlungserlebnis bieten. Nutzen Sie die Chance, Ihr Geschäft auszubauen und Ihre Kunden mit dieser leistungsstarken Integration besser zu bedienen.
 
-| Step Number | Step Description                                           | Component           |
+| Schrittnummer | Schrittbeschreibung | Komponente |
 | ----------- | ---------------------------------------------------------- | ------------------- |
-| 1           | Visit [Restoflow](https://restoflow.ch/) platform | Customer            |
-| 2           | Browse menu                                                | Customer            |
-| 3           | Add items to cart                                          | Customer            |
-| 4           | Proceed to checkout                                        | Customer            |
-| 5           | Enter personal details                                     | Customer            |
-| 6           | Select Bancontact as payment method                        | Customer            |
-| 7           | Confirm payment                                            | Customer/Bancontact |
-| 8           | Receive order confirmation                                 | Customer            |
-| 9           | Prepare and deliver order                                  | Restaurant/Cafe     |
+| 1 | Besuchen Sie die Plattform [Restoflow](https://restoflow.ch/) | Kunde |
+| 2 | Menü durchsuchen | Kunde |
+| 3 | Artikel in den Warenkorb legen | Kunde |
+| 4 | Zur Kasse gehen | Kunde |
+| 5 | Persönliche Daten eingeben | Kunde |
+| 6 | Wählen Sie Bancontact als Zahlungsmethode | Kunde |
+| 7 | Zahlung bestätigen | Kunde/Bankkontakt |
+| 8 | Bestellbestätigung erhalten | Kunde |
+| 9 | Bestellung vorbereiten und liefern | Restaurant/Café |
 
 
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).

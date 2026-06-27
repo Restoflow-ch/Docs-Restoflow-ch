@@ -1,28 +1,28 @@
 ---
 description: >-
-  This feature validates phone numbers using a custom JavaScript RegExp before
-  allowing form submission.
+  Diese Funktion validiert Telefonnummern zuvor mithilfe eines benutzerdefinierten JavaScript-RegExp
+  Formulareinreichung ermöglichen.
 ---
 
-# How to Configure Phone Regex Settings in Restoflow
+# So konfigurieren Sie Telefon-Regex-Einstellungen in Restoflow
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, find the account you want to configure and click "**Manage**".
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Suchen Sie in der Liste der Konten das Konto, das Sie konfigurieren möchten, und klicken Sie auf „**Verwalten**“.
 
-    ![](<../.gitbook/assets/unknown (21).png>)
-3.  In the left-side menu, click "**Settings**".
+![](<../.gitbook/assets/unknown (21).png>)
+3. Klicken Sie im Menü auf der linken Seite auf „**Einstellungen**“.
 
-    ![](<../.gitbook/assets/unknown (20).png>)
-4. Select the "**System"** tab.
-5.  Scroll down to the "**Misc**" section.
+![](<../.gitbook/assets/unknown (20).png>)
+4. Wählen Sie die Registerkarte „**System“**.
+5. Scrollen Sie nach unten zum Abschnitt „**Verschiedenes**“.
 
-    ![](<../.gitbook/assets/unknown (19).png>)
-6.  In **Phone Number RegExp**, enter your custom JavaScript Regex.
+![](<../.gitbook/assets/unknown (19).png>)
+6. Geben Sie unter **Phone Number RegExp** Ihren benutzerdefinierten JavaScript-Regex ein.
 
-    **Note**: This is a DIY feature. If you’re unsure about the correct pattern, ask your technical team to provide the proper JavaScript RegExp for your phone format.
+**Hinweis**: Dies ist eine DIY-Funktion. Wenn Sie sich über das richtige Muster nicht sicher sind, bitten Sie Ihr technisches Team, das richtige JavaScript RegExp für Ihr Telefonformat bereitzustellen.
 
-    ![](<../.gitbook/assets/unknown (18).png>)
-7.  Once added, click Save.
+![](<../.gitbook/assets/unknown (18).png>)
+7. Klicken Sie nach dem Hinzufügen auf Speichern.
 

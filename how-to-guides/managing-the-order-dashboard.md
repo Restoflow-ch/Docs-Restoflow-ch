@@ -1,74 +1,74 @@
 ---
 description: >-
-  The Order Dashboard gives you a complete, real-time view of all incoming
-  orders—helping you stay organized and efficient.
+  Das Bestell-Dashboard bietet Ihnen eine vollständige Echtzeitansicht aller eingehenden Aufträge
+  Bestellungen – damit Sie organisiert und effizient bleiben.
 ---
 
-# Managing the Order Dashboard
+# Verwalten des Bestell-Dashboards
 
 {% embed url="https://www.youtube.com/watch?v=gV9vniCHpI4" %}
 
-It includes three different views, each tailored for different use cases:
+Es umfasst drei verschiedene Ansichten, die jeweils auf unterschiedliche Anwendungsfälle zugeschnitten sind:
 
-### Accessing the Order Dashboard
+### Zugriff auf das Bestell-Dashboard
 
-* Go to your admin dashboard.
-* Click Orders from the left-hand menu to access the dashboard.
+* Gehen Sie zu Ihrem Admin-Dashboard.
+* Klicken Sie im linken Menü auf „Bestellungen“, um auf das Dashboard zuzugreifen.
 
-### Dashboard Views
+### Dashboard-Ansichten
 
-**1. Board View (Recommended for Real-Time Management)**
+**1. Board-Ansicht (empfohlen für Echtzeit-Management)**
 
-* Real-time updates: No need to refresh the page.
-* Orders move left to right across status columns.
-* The icon on the left of each order indicates the service type (Pickup, Delivery, Dine-in).
-* Color coding shows the current order status at a glance.
-* Click on any order to:
-  * View details
-  * Change the order status
-  * Modify estimated ready time
-  * Take additional actions
+* Aktualisierungen in Echtzeit: Die Seite muss nicht aktualisiert werden.
+* Bestellungen bewegen sich von links nach rechts über die Statusspalten.
+* Das Symbol links neben jeder Bestellung zeigt die Serviceart an (Abholung, Lieferung, Abendessen).
+* Farbcodierung zeigt auf einen Blick den aktuellen Bestellstatus.
+* Klicken Sie auf eine beliebige Bestellung, um:
+* Details anzeigen
+* Ändern Sie den Bestellstatus
+* Geschätzte Bereitschaftszeit ändern
+* Ergreifen Sie zusätzliche Maßnahmen
 
-<mark style="color:red;">**Extra Tools at the Top:**</mark>
+<mark style="color:red;">**Zusätzliche Tools oben:**</mark>
 
-* Zoom in/out for better readability
-* Toggle unconfirmed orders visibility
-* Adjust quick service settings for each service type
+* Vergrößern/verkleinern für bessere Lesbarkeit
+* Sichtbarkeit unbestätigter Bestellungen umschalten
+* Passen Sie die Schnelldiensteinstellungen für jeden Diensttyp an
 
-**2. List View (Ideal for Searching & Reporting)**
+**2. Listenansicht (ideal für Suche und Berichterstellung)**
 
-* Displays the latest 10, 25, or 50 orders.
-* Not ideal for active order tracking, but perfect for:
-  * Searching for specific orders
-  * Filtering by customer, date, or service type
-  * Exporting data for reports
+* Zeigt die letzten 10, 25 oder 50 Bestellungen an.
+* Nicht ideal für die aktive Auftragsverfolgung, aber perfekt für:
+* Suche nach bestimmten Bestellungen
+* Filtern nach Kunde, Datum oder Servicetyp
+* Exportieren von Daten für Berichte
 
-Use filters to quickly find and manage individual orders.
+Nutzen Sie Filter, um einzelne Bestellungen schnell zu finden und zu verwalten.
 
-**3. Bump Screen View (For Kitchen Staff)**
+**3. Bump-Screen-Ansicht (für Küchenpersonal)**
 
-* A Digital Kitchen Display System (KDS) for efficient back-of-house operations.
-* Designed to help kitchen teams manage order preparation and timing.
-* (Check out our dedicated Bump Screen tutorial for full details.)
+* Ein digitales Küchenanzeigesystem (KDS) für effiziente Back-of-House-Abläufe.
+* Entwickelt, um Küchenteams bei der Verwaltung der Auftragsvorbereitung und des Timings zu unterstützen.
+* (Ausführliche Informationen finden Sie in unserem speziellen Bump Screen-Tutorial.)
 
-#### <mark style="color:red;">Pro Tips</mark>
+#### <mark style="color:red;">Profi-Tipps</mark>
 
-* Keep your order statuses updated to maintain workflow visibility.
-* Use the Board View during service hours for real-time tracking.
-* Export order data regularly to review performance and resolve issues quickly.
+* Halten Sie Ihren Bestellstatus auf dem neuesten Stand, um die Transparenz des Arbeitsablaufs zu gewährleisten.
+* Nutzen Sie die Board-Ansicht während der Servicezeiten zur Echtzeitverfolgung.
+* Exportieren Sie regelmäßig Bestelldaten, um die Leistung zu überprüfen und Probleme schnell zu lösen.
 
-With the Order Dashboard, your team can deliver faster, stay better organized, and offer a more seamless experience for your customers.
+Mit dem Bestell-Dashboard kann Ihr Team schneller liefern, besser organisiert bleiben und Ihren Kunden ein nahtloseres Erlebnis bieten.
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings) [Restoflow Support](https://support.restoflow.ch/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
-2. **How to Create and Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus) [Restoflow Support](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus?utm_source=chatgpt.com)
-3. **Set Maximum Orders Per Time Interval** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+1. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings) [Restoflow Support](https://support.restoflow.ch/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
+2. **So erstellen und verwalten Sie Ihre Menüs** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus) [Restoflow Support](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus?utm_source=chatgpt.com)
+3. **Maximale Bestellungen pro Zeitintervall festlegen** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
 
 <br>
 
 {% hint style="danger" %}
-**Need Help?**  Watch our video tutorials or contact support for more guidance.&#x20;
+**Benötigen Sie Hilfe?** Sehen Sie sich unsere Video-Tutorials an oder kontaktieren Sie den Support für weitere Anleitungen.&#x20;
 {% endhint %}

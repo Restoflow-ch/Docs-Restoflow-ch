@@ -1,40 +1,40 @@
 ---
-description: Lean how to use menu_id to create a direct link to a specific menu.
+description: Erfahren Sie, wie Sie mit „menu_id“ einen direkten Link zu einem bestimmten Menü erstellen.
 ---
 
-# Link Directly to menu
+# Direkt zum Menü verlinken
 
-## Link directly to a menu
+## Direkter Link zu einem Menü
 
-Creating a direct link to your menu is a fairly straight forward process.  The below example links to a specific menu within the demo store.
+Das Erstellen eines direkten Links zu Ihrem Menü ist ein ziemlich einfacher Vorgang.  Das folgende Beispiel verweist auf ein bestimmtes Menü im Demo-Shop.
 
 ```
 store-demo.restoflow.ch?menu_id=6kNXYMVEl
 ```
 
-Replace the above url with your restaurant url;
+Ersetzen Sie die obige URL durch die URL Ihres Restaurants.
 
 ```bash
 store-demo.restoflow.ch > yourdomain.com
 ```
 
-Replace add the menu id of the menu that you would like to link to;
+Ersetzen Sie die Menü-ID des Menüs, zu dem Sie verlinken möchten.
 
 ```bash
 menu_id=6kNXYMVEl > menu_id=id from your menu
 ```
 
 {% hint style="info" %}
- You can find the menu id by following the instructions below.
+Sie können die Menü-ID finden, indem Sie den nachstehenden Anweisungen folgen.
 {% endhint %}
 
-## How to find your Menu ID?
+## Wie finde ich deine Menü-ID?
 
-Log in to your restaurant store. Select the Menus section using the knife and fork button on the left-hand menu.  Then press the 'Edit' button on the menu that you would like to directly link to.
+Melden Sie sich bei Ihrem Restaurant-Shop an. Wählen Sie den Abschnitt „Menüs“ mit der Messer- und Gabel-Taste im linken Menü aus.  Klicken Sie dann auf die Schaltfläche „Bearbeiten“ in dem Menü, zu dem Sie direkt verlinken möchten.
 
 ![](../.gitbook/assets/meniidstep1.png)
 
-The menu id is displayed at the top of the page.  Use this code to directly link to your menu as per the above instructions.
+Die Menü-ID wird oben auf der Seite angezeigt.  Verwenden Sie diesen Code, um gemäß den obigen Anweisungen direkt auf Ihr Menü zu verlinken.
 
 ![](../.gitbook/assets/menuidstep2%20%282%29.png)
 

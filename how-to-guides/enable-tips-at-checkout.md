@@ -1,27 +1,27 @@
 ---
 description: >-
-  The Order Tipping feature gives your customers the option to add a tip when
-  they order online. This helps your business encourage gratuities directly
-  through the checkout process.
+  Mit der Funktion „Trinkgeld geben“ haben Ihre Kunden die Möglichkeit, zu einem bestimmten Zeitpunkt ein Trinkgeld hinzuzufügen
+  Sie bestellen online. Dies hilft Ihrem Unternehmen, Trinkgelder direkt zu fördern
+  durch den Bestellvorgang.
 ---
 
-# Enable Tips at Checkout
+# Tipps an der Kasse aktivieren
 
-You can set default tip percentages, provide multiple tipping options and decide which tip option appears as the default. By enabling this feature, customers have a clear and convenient way to support your staff while placing an order.
+Sie können Standard-Trinkgeldprozentsätze festlegen, mehrere Trinkgeldoptionen bereitstellen und entscheiden, welche Trinkgeldoption als Standard angezeigt wird. Durch die Aktivierung dieser Funktion haben Kunden eine klare und bequeme Möglichkeit, Ihre Mitarbeiter bei der Bestellung zu unterstützen.
 
 {% embed url="https://drive.google.com/file/d/10FFSf2GvBozbvu4oNzfz1_GbYDJtBnJy/view?usp=sharing" %}
 
-### Steps:
+### Schritte:
 
-1. On the Admin Dashboard, go to **Settings** → **System** → **Tipping**
-2. **Enable** Order Tipping to activate the feature.
-3. Under **Disabled Service**, select the services for which you want to disable order tipping (e.g., Pickup, Delivery, or Dine-in).
-4. Under **Tip Default**, choose which tip option should appear by default at checkout (e.g., None, 1, 2, or 3).&#x20;
-5. Set the tip percentages for **Tip 1**, **Tip 2**, and **Tip 3** according to your preference.
-6. Click **Save** to apply the changes.
+1. Gehen Sie im Admin-Dashboard zu **Einstellungen** → **System** → **Trinkgeld**
+2. **Aktivieren** Sie Trinkgeld für die Bestellung, um die Funktion zu aktivieren.
+3. Wählen Sie unter **Deaktivierter Service** die Services aus, für die Sie das Trinkgeld für Bestellungen deaktivieren möchten (z. B. Abholung, Lieferung oder Abendessen).
+4. Wählen Sie unter **Trinkgeldstandard** aus, welche Trinkgeldoption standardmäßig beim Bezahlvorgang angezeigt werden soll (z. B. Keine, 1, 2 oder 3).&#x20;
+5. Stellen Sie die Trinkgeldprozentsätze für **Tipp 1**, **Tipp 2** und **Tipp 3** nach Ihren Wünschen ein.
+6. Klicken Sie auf **Speichern**, um die Änderungen zu übernehmen.
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

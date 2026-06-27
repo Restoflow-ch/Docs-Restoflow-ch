@@ -1,212 +1,212 @@
 ---
 description: >-
-  Your restaurant services represent the various order types you accept. View
-  our video for an in-depth explanation of all the settings available.
+  Ihre Restaurantdienstleistungen stellen die verschiedenen Bestellarten dar, die Sie annehmen. Sicht
+  In unserem Video erhalten Sie eine ausführliche Erklärung aller verfügbaren Einstellungen.
 ---
 
-# Configure Your Services
+# Konfigurieren Sie Ihre Dienste
 
 {% embed url="https://youtu.be/EUW9nZVAE68" %}
-Services video tutorial
+Video-Tutorial zu Dienstleistungen
 {% endembed %}
 
-There are 4 services currently available. They are:
+Derzeit sind 4 Dienste verfügbar. Sie sind:
 
-* Pickup - orders that are picked up in store by customers to take away
-* Delivery - orders that are delivered to the customer's address
-* Dine-in - orders that are placed by customers currently seated in your store
-* Table booking - a reservation made for a later date and time
+* Selbstabholung – Bestellungen, die von Kunden im Geschäft zum Mitnehmen abgeholt werden
+* Lieferung – Bestellungen, die an die Adresse des Kunden geliefert werden
+* Dine-in – Bestellungen, die von Kunden aufgegeben werden, die derzeit in Ihrem Geschäft sitzen
+* Tischreservierung – eine Reservierung für einen späteren Zeitpunkt
 
-## How To Configure Your Services
+## So konfigurieren Sie Ihre Dienste
 
-1. Visit your restaurant dashboard and go to the settings page
-2. Select the "Services" tab and edit your settings as required
+1. Besuchen Sie Ihr Restaurant-Dashboard und gehen Sie zur Einstellungsseite
+2. Wählen Sie den Reiter „Dienste“ und bearbeiten Sie Ihre Einstellungen nach Bedarf
 
-## Enabling & Disabling Services
+## Dienste aktivieren und deaktivieren
 
-You can enable or disable services as needed. Go to the desired service settings and simply toggle the "Enabled" switch to enable or disable it.
+Sie können Dienste nach Bedarf aktivieren oder deaktivieren. Gehen Sie zu den gewünschten Diensteinstellungen und schalten Sie einfach den Schalter „Aktiviert“ um, um ihn zu aktivieren oder zu deaktivieren.
 
 {% hint style="info" %}
-You must have at least one service enabled
+Sie müssen mindestens einen Dienst aktiviert haben
 {% endhint %}
 
-## Service Notes
+## Servicehinweise
 
-You can add custom notes for each service that will be shown to the customer when selected. Useful if you need to convey an important message to your customer
+Sie können für jeden Service benutzerdefinierte Notizen hinzufügen, die dem Kunden bei Auswahl angezeigt werden. Nützlich, wenn Sie Ihrem Kunden eine wichtige Botschaft übermitteln müssen
 
-## Order Timings
+## Bestellzeiten
 
-A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow your more in-depth control.
+Erst wenn Ihr Shop geöffnet ist, kann ein Kunde eine sofort fällige Bestellung aufgeben. Bestellungen für einen späteren Zeitpunkt müssen innerhalb Ihrer Öffnungszeiten geplant werden. Daher werden die Bestellzeiten größtenteils durch die Öffnungszeiten Ihres Geschäfts bestimmt. Von dort aus verfügt jeder Dienst über seine eigenen separaten Auftragszeiteinstellungen, die Ihnen eine detailliertere Kontrolle ermöglichen.
 
-### Enabling & Disabling Order Times
+### Bestellzeiten aktivieren und deaktivieren
 
-Under the "Order Timings" tab in the service settings, you can enable and disable both immediate and scheduled orders.
+Unter der Registerkarte „Bestellzeiten“ in den Serviceeinstellungen können Sie sowohl sofortige als auch geplante Bestellungen aktivieren und deaktivieren.
 
-### First Order Offset
+### Versatz erster Ordnung
 
-This is the period of time from when your store first opens to when you will accept the first order. For example, if the first order offset is set to 30 minutes and your store opens at 9:00am, the first order can be placed or scheduled at 9:30am.
+Dies ist der Zeitraum von der Eröffnung Ihres Shops bis zur Annahme der ersten Bestellung. Wenn beispielsweise der Versatz der ersten Bestellung auf 30 Minuten eingestellt ist und Ihr Geschäft um 9:00 Uhr öffnet, kann die erste Bestellung um 9:30 Uhr aufgegeben oder geplant werden.
 
-### Last Order Offset
+### Versatz der letzten Bestellung
 
-This is the period of time from when your store closes to when the last order will be accepted. For example, if the last order offset is set to 30 minutes and your store closes at 9:00pm, the last order can be placed or scheduled at 8:30pm.
+Dies ist der Zeitraum von der Schließung Ihres Geschäfts bis zur Annahme der letzten Bestellung. Wenn der Versatz der letzten Bestellung beispielsweise auf 30 Minuten eingestellt ist und Ihr Geschäft um 21:00 Uhr schließt, kann die letzte Bestellung um 20:30 Uhr aufgegeben oder geplant werden.
 
-### Order Offset
+### Auftragsversatz
 
-The normal order offset only applies for scheduled orders at a later time. This is the period from now when a scheduled order can be made. For example, it's there to prevent customers from scheduling order in the next 10 minutes instead of just asking for it to be due ASAP.
+Der normale Bestellversatz gilt nur für geplante Bestellungen zu einem späteren Zeitpunkt. Dies ist der Zeitraum, ab dem eine geplante Bestellung aufgegeben werden kann. Es dient beispielsweise dazu, Kunden daran zu hindern, ihre Bestellung in den nächsten 10 Minuten einzuplanen, anstatt nur zu verlangen, dass sie so schnell wie möglich fällig ist.
 
-So for example, if your order offset is 30 minutes and the current time is 6:00pm, the next time a customer can schedule an order would be 7:00pm. If they want it before 7:00pm, they can still just order for ASAP instead. If the order offset was 15 minutes, then the customer can order for 6:30pm.
+Wenn Ihr Bestellversatz beispielsweise 30 Minuten beträgt und die aktuelle Zeit 18:00 Uhr ist, ist der nächste Zeitpunkt, an dem ein Kunde eine Bestellung planen kann, 19:00 Uhr. Wenn sie es vor 19:00 Uhr möchten, können sie stattdessen einfach so schnell wie möglich bestellen. Wenn der Bestellversatz 15 Minuten betrug, kann der Kunde für 18:30 Uhr bestellen.
 
-The order offset also acts as a cut-off point to give you time to meet the order schedule. For example, if it's 6:00pm and your order offset is 30 minutes. If the customer is scheduling an order for 7:00pm, they must place the order before 6:30pm. This is to give you 30 minutes to meet the scheduled time.
+Der Auftragsversatz dient auch als Cut-Off-Punkt, um Ihnen Zeit zu geben, den Auftragsplan einzuhalten. Wenn es beispielsweise 18:00 Uhr ist und Ihr Bestellversatz 30 Minuten beträgt. Wenn der Kunde eine Bestellung für 19:00 Uhr plant, muss er die Bestellung vor 18:30 Uhr aufgeben. Damit haben Sie 30 Minuten Zeit, um die geplante Zeit einzuhalten.
 
-If they take too long and the time passes 6:30pm, they will receive a notification to tell them that the order has been changed to due ASAP instead of their scheduled time, 7:00pm.
+Wenn sie zu lange brauchen und die Zeit 18:30 Uhr überschreitet, erhalten sie eine Benachrichtigung, die ihnen mitteilt, dass die Bestellung auf „So schnell wie möglich fällig“ anstelle der geplanten Zeit, 19:00 Uhr, geändert wurde.
 
-## Custom Service Hours
+## Individuelle Servicezeiten
 
-Each service can have its own independent operating hours. Setting custom operating hours for a particular service will override the operating hours set for your store location.
+Jeder Dienst kann seine eigenen unabhängigen Betriebszeiten haben. Durch das Festlegen benutzerdefinierter Betriebszeiten für einen bestimmten Dienst werden die für Ihren Geschäftsstandort festgelegten Betriebszeiten außer Kraft gesetzt.
 
-## Estimated Wait Times & Auto Statuses
+## Geschätzte Wartezeiten und automatische Status
 
-To help you better manage your orders and customer expectations, we provide a streamlined way to calculate order wait times and automatically update statuses. There are 6 order statuses:
+Damit Sie Ihre Bestellungen und Kundenerwartungen besser verwalten können, bieten wir eine optimierte Möglichkeit zur Berechnung von Bestellwartezeiten und zur automatischen Statusaktualisierung. Es gibt 6 Bestellstatus:
 
-* Un-confirmed
-* Confirmed
-* Ready
-* On Route (delivery only)
-* Complete
-* Cancelled
+* Unbestätigt
+* Bestätigt
+* Fertig
+* Unterwegs (nur Lieferung)
+* Abgeschlossen
+* Abgesagt
 
-Both estimated wait times and automated status updates are connected to the same timing settings. This is so that your status updates and wait times are in sync with each other. This avoids any customer confusion. These timing settings are:
+Sowohl geschätzte Wartezeiten als auch automatische Statusaktualisierungen sind mit denselben Zeiteinstellungen verbunden. Dadurch sind Ihre Statusaktualisierungen und Wartezeiten miteinander synchronisiert. Dies vermeidet jegliche Verwirrung beim Kunden. Diese Timing-Einstellungen sind:
 
-| Setting (minutes)                  | From Status | To Status |
+| Einstellung (Minuten) | Von Status | Zum Status |
 | ---------------------------------- | ----------- | --------- |
-| Time till confirm                  | Unconfirmed | Confirmed |
-| Time till ready                    | Confirmed   | Ready     |
-| Time till on route (delivery only) | Ready       | On Route  |
-| Time till complete                 | Ready       | Complete  |
+| Zeit bis zur Bestätigung | Unbestätigt | Bestätigt |
+| Zeit bis zur Fertigstellung | Bestätigt | Bereit |
+| Zeit bis zur Route (nur Lieferung) | Bereit | Unterwegs |
+| Zeit bis zur Fertigstellung | Bereit | Komplett |
 
 {% hint style="info" %}
-* Time till confirm is the time between when an order is placed to when it's confirmed. Setting time till confirm to "0" will result in instant order confirmation. You will need to also enable auto status for the confirmed status.
-* Time till ready is the time it takes you to prepare an order after it's confirmed
-* The time till on route status is effectively the time between when an order is prepared to when it is taken by the delivery driver.
-* Time till complete is useful for automatically marking orders as complete
+* Die Zeit bis zur Bestätigung ist die Zeit zwischen der Auftragserteilung und der Bestätigung. Wenn Sie die Zeit bis zur Bestätigung auf „0“ setzen, erfolgt eine sofortige Auftragsbestätigung. Sie müssen auch den automatischen Status für den bestätigten Status aktivieren.
+* Die Zeit bis zur Fertigstellung ist die Zeit, die Sie nach der Bestätigung benötigen, um eine Bestellung vorzubereiten
+* Die Zeit bis zum Versandstatus ist praktisch die Zeit zwischen der Vorbereitung einer Bestellung und der Annahme durch den Zustellfahrer.
+* Die Zeit bis zum Abschluss ist nützlich, um Bestellungen automatisch als abgeschlossen zu markieren
 {% endhint %}
 
-### Estimated Wait Times
+### Geschätzte Wartezeiten
 
-As stated, customer wait times are calculated using the above timing settings.&#x20;
+Wie bereits erwähnt, werden die Wartezeiten der Kunden anhand der oben genannten Zeiteinstellungen berechnet.&#x20;
 
-#### How estimated wait time are calculated for pickup or dine-in orders
+#### Wie die geschätzte Wartezeit für Abhol- oder Essensbestellungen berechnet wird
 
-For pickup and dine-in orders, the estimated wait time is calculating buy adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
+Bei Abhol- und Speisenbestellungen berechnet sich die geschätzte Wartezeit aus der Berechnung des Kaufs durch Addition der **Zeit bis zur Bestätigung** mit den Werten für die **Zeit bis zur Bereitschaft**. Wenn Ihre **Zeit bis zur Bestätigung** beispielsweise 5 und Ihre **Zeit bis zur Fertigstellung** 20 beträgt, würde der Kunde eine geschätzte Wartezeit von 20 + 5 = 25 Minuten erhalten.
 
-If you have not added a value for time till confirm or time till ready, the estimated wait time would not be calculated.
+Wenn Sie keinen Wert für die Zeit bis zur Bestätigung oder die Zeit bis zur Bereitschaft hinzugefügt haben, wird die geschätzte Wartezeit nicht berechnet.
 
-#### How estimated wait time is calculate for delivery orders
+#### Wie die geschätzte Wartezeit für Lieferaufträge berechnet wird
 
-For deliveries, the wait time is calculating by adding the **time till confirm** + **time till ready** + **time till on route** together. Then the **driving time** is added onto that. The driving time is determined using an external service that takes into account traffic data. This provides the customer with an extremely accurate wait time for their order to be delivered. Assuming&#x20;
+Bei Lieferungen wird die Wartezeit berechnet, indem die **Zeit bis zur Bestätigung** + **Zeit bis zur Fertigstellung** + **Zeit bis zur Route** addiert werden. Dann kommt noch die **Fahrzeit** dazu. Die Fahrzeit wird mithilfe eines externen Dienstes ermittelt, der Verkehrsdaten berücksichtigt. Dadurch erhält der Kunde eine äußerst genaue Wartezeit für die Lieferung seiner Bestellung. Vorausgesetzt&#x20;
 
-If you have not added a value for time till confirm or time till ready or time till on route, the delivery time would not be calculated.
+Wenn Sie keinen Wert für die Zeit bis zur Bestätigung, die Zeit bis zur Bereitstellung oder die Zeit bis zur Route hinzugefügt haben, wird die Lieferzeit nicht berechnet.
 
-### Automated Statuses
+### Automatisierte Status
 
-Automated statuses change an order's status after a set period of time has passed. This will allow you to do things such as:
+Automatisierte Status ändern den Status einer Bestellung nach Ablauf einer festgelegten Zeitspanne. Auf diese Weise können Sie beispielsweise Folgendes tun:
 
-* Automatically confirm new orders
-* Mark orders as ready after a period of time
-* Mark orders as complete after a period of time
+* Neue Bestellungen automatisch bestätigen
+* Markieren Sie Bestellungen nach einer gewissen Zeit als fertig
+* Markieren Sie Bestellungen nach einer bestimmten Zeit als abgeschlossen
 
-This is very helpful if you know your business timings well and don't want to manually be updating order statuses. Auto status updates can also be enabled or disabled on a per status basis. This way you can provide estimated wait times without auto-updating statuses. Or you can just instantly confirm orders and handle the rest manually.
+Dies ist sehr hilfreich, wenn Sie Ihre Geschäftszeiten gut kennen und den Bestellstatus nicht manuell aktualisieren möchten. Automatische Statusaktualisierungen können auch für jeden Status einzeln aktiviert oder deaktiviert werden. Auf diese Weise können Sie geschätzte Wartezeiten angeben, ohne den Status automatisch zu aktualisieren. Oder Sie können Bestellungen einfach sofort bestätigen und den Rest manuell erledigen.
 
-For automated status updates to work, you will need to enable it for a particular status and ensure the timing settings are added to that particular status.
+Damit automatische Statusaktualisierungen funktionieren, müssen Sie sie für einen bestimmten Status aktivieren und sicherstellen, dass die Zeiteinstellungen zu diesem bestimmten Status hinzugefügt werden.
 
-#### How automated statuses work
+#### So funktionieren automatisierte Status
 
-Status updates are dependent on your timing settings, the type of order and the order due time. It's best explained through a series of examples.
+Statusaktualisierungen hängen von Ihren Timing-Einstellungen, der Art der Bestellung und der Fälligkeitszeit der Bestellung ab. Es lässt sich am besten anhand einer Reihe von Beispielen erklären.
 
-For the examples, we will assume our timing settings are as follows
+Für die Beispiele gehen wir davon aus, dass unsere Timing-Einstellungen wie folgt sind
 
-* Time till confirm - 10 minutes
-* Time till ready - 10 minutes
-* Time till on route - 10 minutes
-* Time till complete - 60 minutes
+* Zeit bis zur Bestätigung – 10 Minuten
+* Zeit bis zur Zubereitung: 10 Minuten
+* Zeit bis zur Fahrt – 10 Minuten
+* Zeit bis zur Fertigstellung: 60 Minuten
 
-#### Pickup and dine-in examples
+#### Beispiele für Abholung und Abendessen
 
-If a customer places an order at 7:00pm for pickup or dine in which is due immediately
+Wenn ein Kunde um 19:00 Uhr eine Bestellung zur Abholung oder zum Abendessen aufgibt, ist diese sofort fällig
 
-| Time   | Action                                                                                                                                     |
+| Zeit | Aktion |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7:00pm | Order has been placed, status unconfirmed                                                                                                  |
-| 7:10pm | Status updated to confirmed because time till confirm is 10 minutes                                                                        |
-| 7:20pm | Status updated to ready because time till ready is 10 minutes. This would also be the estimated order ready time as shown to the customer. |
-| 8:20pm | Status updated to complete because time till complete is 60 minutes                                                                        |
+| 19:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 19:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 19:20 Uhr | Der Status wurde auf „Bereit“ aktualisiert, da die Zeit bis zur Fertigstellung 10 Minuten beträgt. Dies wäre auch die dem Kunden angezeigte voraussichtliche Bestellbereitschaftszeit. |
+| 20:20 Uhr | Status auf „Abgeschlossen“ aktualisiert, da die Zeit bis zum Abschluss 60 Minuten beträgt |
 
-In the event that you added an extra 10 minutes onto the customers estimated order ready time, it will play out as follows:
+Für den Fall, dass Sie der geschätzten Bestellbereitschaftszeit des Kunden weitere 10 Minuten hinzugefügt haben, sieht es wie folgt aus:
 
-| Time   | Action                                                                                                                  |
+| Zeit | Aktion |
 | ------ | ----------------------------------------------------------------------------------------------------------------------- |
-| 7:00pm | Order has been placed, status unconfirmed, you add 10 minutes to estimated ready time                                   |
-| 7:10pm | Status updated to confirmed because time till confirm is 10 minutes                                                     |
-| 7:30pm | Status updated to ready because the old ready time was 7:20pm, since you added an extra 10 minutes, that becomes 7:30pm |
-| 8:30pm | Status updated to complete because time till complete is 60 minutes                                                     |
+| 19:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt, Sie addieren 10 Minuten zur geschätzten Bereitschaftszeit |
+| 19:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 19:30 Uhr | Der Status wurde auf „Bereit“ aktualisiert, da die alte Bereitschaftszeit 19:20 Uhr war. Da Sie weitere 10 Minuten hinzugefügt haben, wird daraus 19:30 Uhr |
+| 20:30 Uhr | Status auf „Abgeschlossen“ aktualisiert, da die Zeit bis zum Abschluss 60 Minuten beträgt |
 
-If we are unable to calculate an estimated ready time for the order, for example if the time till confirm was missing, it would play out as follows
+Wenn wir keine voraussichtliche Bereitschaftszeit für die Bestellung berechnen können, weil beispielsweise die Zeit bis zur Bestätigung fehlt, würde es wie folgt ablaufen
 
-| Time   | Action                                                              |
+| Zeit | Aktion |
 | ------ | ------------------------------------------------------------------- |
-| 7:00pm | Order has been placed, status unconfirmed                           |
-| 7:05pm | You manually update the order status to confirmed                   |
-| 7:15pm | Status updated to ready, because the time till ready is 10 minutes  |
-| 8:15pm | Status updated to complete because time till complete is 60 minutes |
+| 19:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 19:05 Uhr | Sie aktualisieren den Bestellstatus manuell auf bestätigt |
+| 19:15 Uhr | Status auf „Bereit“ aktualisiert, da die Zeit bis zur Fertigstellung 10 Minuten beträgt |
+| 20:15 Uhr | Status auf „Abgeschlossen“ aktualisiert, da die Zeit bis zum Abschluss 60 Minuten beträgt |
 
-If a customer places an order at 6:00pm for pickup or dine in which is due at 7:00pm, the following would occur
+Wenn ein Kunde um 18:00 Uhr eine Bestellung zur Abholung oder zum Essen aufgibt, die um 19:00 Uhr fällig ist, passiert Folgendes
 
-| Time   | Action                                                                             |
+| Zeit | Aktion |
 | ------ | ---------------------------------------------------------------------------------- |
-| 6:00pm | Order has been placed, status unconfirmed                                          |
-| 6:10pm | Status updated to confirmed because time till confirm is 10 minutes                |
-| 7:00pm | Status updated to ready, because this is when the customer scheduled the order for |
-| 8:00pm | Status updated to complete because time till complete is 60 minutes                |
+| 18:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 18:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 19:00 Uhr | Der Status wurde auf „Bereit“ aktualisiert, da der Kunde die Bestellung zu diesem Zeitpunkt für | geplant hat
+| 20:00 Uhr | Status auf „Abgeschlossen“ aktualisiert, da die Zeit bis zum Abschluss 60 Minuten beträgt |
 
-#### Delivery examples
+#### Lieferbeispiele
 
-For the delivery examples, we will assume the driving time between your store and the delivery address is calculated as 10 minutes.
+Für die Lieferbeispiele gehen wir davon aus, dass die Fahrzeit zwischen Ihrem Geschäft und der Lieferadresse 10 Minuten beträgt.
 
-If a customer places a delivery order at 7:00pm which is due immediately
+Wenn ein Kunde um 19:00 Uhr einen Lieferauftrag aufgibt, ist dieser sofort fällig
 
-| Time   | Action                                                                                                                         |
+| Zeit | Aktion |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| 7:00pm | Order has been placed, status unconfirmed                                                                                      |
-| 7:10pm | Status updated to confirmed because time till confirm is 10 minutes                                                            |
-| 7:20pm | Status updated to ready because time till ready is 10 minutes                                                                  |
-| 7:30pm | Status updated to on route because time till on route is 10 minutes. This would also be shown to you as the driver pickup time |
-| 7:40pm | Order will have been delivered to customer since the driving time is 10 minutes                                                |
-| 8:40pm | Order marked as completed because time till complete is 60 minutes                                                             |
+| 19:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 19:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 19:20 Uhr | Status auf „Bereit“ aktualisiert, da die Zeit bis zur Fertigstellung 10 Minuten beträgt |
+| 19:30 Uhr | Der Status wurde auf „Auf Route“ aktualisiert, da die Zeit bis zur Route 10 Minuten beträgt. Dies wird Ihnen auch als Abholzeit des Fahrers | angezeigt
+| 19:40 Uhr | Die Bestellung wurde an den Kunden geliefert, da die Fahrzeit 10 Minuten beträgt |
+| 20:40 Uhr | Bestellung als abgeschlossen markiert, da die Zeit bis zur Fertigstellung 60 Minuten beträgt |
 
-If we were unable to calculate the estimated delivery time and driver pickup time, say if the time till on route was missing, the following would occur
+Wenn wir die voraussichtliche Lieferzeit und die Abholzeit des Fahrers nicht berechnen könnten, beispielsweise wenn die Zeit bis zur Fahrt fehlte, würde Folgendes passieren
 
-| Time   | Action                                                                          |
+| Zeit | Aktion |
 | ------ | ------------------------------------------------------------------------------- |
-| 7:00pm | Order has been placed, status unconfirmed                                       |
-| 7:10pm | Status updated to confirmed because time till confirm is 10 minutes             |
-| 7:20pm | Status updated to ready because time till ready is 10 minutes                   |
-| 7:40pm | You manually mark the order an on route for delivery                            |
-| 7:50pm | Order will have been delivered to customer since the driving time is 10 minutes |
-| 8:50pm | Order marked as completed because time till complete is 60 minutes              |
+| 19:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 19:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 19:20 Uhr | Status auf „Bereit“ aktualisiert, da die Zeit bis zur Fertigstellung 10 Minuten beträgt |
+| 19:40 Uhr | Sie markieren die Bestellung manuell als unterwegs zur Lieferung |
+| 19:50 Uhr | Die Bestellung wurde an den Kunden geliefert, da die Fahrzeit 10 Minuten beträgt |
+| 20:50 Uhr | Bestellung als abgeschlossen markiert, da die Zeit bis zur Fertigstellung 60 Minuten beträgt |
 
-If a customer places a delivery order at 6:00pm which is due at 7:00pm, the following would occur
+Wenn ein Kunde um 18:00 Uhr einen Lieferauftrag aufgibt, der um 19:00 Uhr fällig ist, würde Folgendes passieren
 
-| Time   | Action                                                                                                                                                                                                  |
+| Zeit | Aktion |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 6:00pm | Order has been placed, status unconfirmed                                                                                                                                                               |
-| 6:10pm | Status updated to confirmed because time till confirm is 10 minutes                                                                                                                                     |
-| 6:40pm | Status updated to ready because delivery time is 10 minutes and time till on route is 10 minutes, which means that the order must be ready by this time if it is going to reach your customer at 7:00pm |
-| 6:50pm | Status updated to on route because the delivery time is 10 minutes, so it has to leave your store at this time. This is also the estimated driver pickup time.                                          |
-| 7:00pm | Order will have been delivered to customer                                                                                                                                                              |
-| 8:00pm | Order marked as completed because time till complete is 60 minutes                                                                                                                                      |
+| 18:00 Uhr | Bestellung wurde aufgegeben, Status unbestätigt |
+| 18:10 Uhr | Status auf „Bestätigt“ aktualisiert, da die Zeit bis zur Bestätigung 10 Minuten beträgt |
+| 18:40 Uhr | Der Status wurde auf „Bereit“ aktualisiert, da die Lieferzeit 10 Minuten und die Zeit bis zum Versand 10 Minuten beträgt. Das bedeutet, dass die Bestellung zu diesem Zeitpunkt fertig sein muss, wenn sie Ihren Kunden um 19:00 Uhr erreichen soll
+| 18:50 Uhr | Der Status wurde auf „Unterwegs“ aktualisiert, da die Lieferzeit 10 Minuten beträgt und der Artikel daher zu diesem Zeitpunkt Ihr Geschäft verlassen muss. Dies ist auch die voraussichtliche Abholzeit des Fahrers.                                          |
+| 19:00 Uhr | Die Bestellung wurde an den Kunden geliefert |
+| 20:00 Uhr | Bestellung als abgeschlossen markiert, da die Zeit bis zur Fertigstellung 60 Minuten beträgt |
 
-If a delivery order is scheduled for a later time but the estimated delivery time could not be calculated, then the ready and on route status will not update automatically.
+Wenn ein Lieferauftrag für einen späteren Zeitpunkt geplant ist, die voraussichtliche Lieferzeit jedoch nicht berechnet werden konnte, wird der Status „Bereit“ und „Auf dem Weg“ nicht automatisch aktualisiert.
 
 {% hint style="info" %}
-If ever in doubt about how the auto status timings will work for your scenario, just think about how it would logically work in a way that makes sense to your customer and you. That is how we have designed it to work.
+Wenn Sie jemals Zweifel haben, wie die automatischen Status-Timings für Ihr Szenario funktionieren, denken Sie einfach darüber nach, wie sie logischerweise auf eine Weise funktionieren würden, die für Ihren Kunden und Sie sinnvoll ist. So haben wir es so konzipiert, dass es funktioniert.
 {% endhint %}

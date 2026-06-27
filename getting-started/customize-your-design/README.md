@@ -1,30 +1,30 @@
 ---
 description: >-
-  When you first create your restaurant, the default theme is relatively blank.
-  It's up to you to customise it to represent your brand. Design settings are
-  located under the settings page in the design
+  Wenn Sie Ihr Restaurant zum ersten Mal erstellen, ist das Standardthema relativ leer.
+  Es liegt an Ihnen, es so anzupassen, dass es Ihre Marke repräsentiert. Designeinstellungen sind
+  befindet sich unter der Einstellungsseite im Design
 ---
 
-# Customize Your Design
+# Passen Sie Ihr Design an
 
 {% embed url="https://youtu.be/g3ibBakpqMU" %}
-Design video tutorial
+Design-Video-Tutorial
 {% endembed %}
 
-## How To Customize Your Design
+## So passen Sie Ihr Design an
 
-1. Visit the restaurant settings page and go to the design tab
-2. Press "Open Design Mode" to open up the site design editor
-3. Go through each of the setting sections and customize options as needed&#x20;
+1. Besuchen Sie die Seite mit den Restauranteinstellungen und gehen Sie zur Registerkarte „Design“.
+2. Klicken Sie auf „Designmodus öffnen“, um den Site-Design-Editor zu öffnen
+3. Gehen Sie die einzelnen Einstellungsabschnitte durch und passen Sie die Optionen nach Bedarf an&#x20;
 
-## Quickstart Recommendation
+## Quickstart-Empfehlung
 
-To get a great looking site quickly, just use our base theme, add your logo and add a nice header background image. It also helps to have a nice header title and subtitle.
+Um schnell eine gut aussehende Website zu erhalten, verwenden Sie einfach unser Basisthema, fügen Sie Ihr Logo und ein schönes Hintergrundbild für die Kopfzeile hinzu. Es hilft auch, einen schönen Kopftitel und Untertitel zu haben.
 
-We recommend using a PC or tablet to design your site for the best experience
+Wir empfehlen die Verwendung eines PCs oder Tablets, um Ihre Website für das beste Erlebnis zu gestalten
 
-## Recommend Images Dimensions
+## Bildabmessungen empfehlen
 
-* Logo image - 300 pixels wide by 100 pixels high wide
-* Header image - 1920 pixels wide by 500 pixels high
-* Logo icon - 350 by 350 pixel square
+* Logobild – 300 Pixel breit und 100 Pixel hoch breit
+* Header-Bild – 1920 Pixel breit und 500 Pixel hoch
+* Logo-Symbol – 350 x 350 Pixel im Quadrat

@@ -1,17 +1,17 @@
 ---
 description: >-
-  This section will take you through the process of creating your account,
-  setting up your restaurant, customizing your settings and managing orders.
+  Dieser Abschnitt führt Sie durch den Prozess der Erstellung Ihres Kontos.
+  Richten Sie Ihr Restaurant ein, passen Sie Ihre Einstellungen an und verwalten Sie Ihre Bestellungen.
 ---
 
-# Getting Started
+# Erste Schritte
 
 {% content-ref url="hardware-requirements-1.md" %}
 [hardware-requirements-1.md](hardware-requirements-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="10-minute-quickstart.md" %}
-[10-minute-quickstart.md](10-minute-quickstart.md)
+[10-Minuten-Schnellstart.md](10-minute-quickstart.md)
 {% endcontent-ref %}
 
 {% content-ref url="setup-your-menus.md" %}
@@ -23,7 +23,7 @@ description: >-
 {% endcontent-ref %}
 
 {% content-ref url="customize-your-design/" %}
-[customize-your-design](customize-your-design/)
+[Passen Sie Ihr Design an](customize-your-design/)
 {% endcontent-ref %}
 
 {% content-ref url="managing-orders-and-bookings.md" %}
@@ -35,5 +35,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Create account at restoflow.ch](https://www.restoflow.ch/signup/)
+[Konto bei restoflow.ch erstellen](https://www.restoflow.ch/signup/)
 {% endhint %}

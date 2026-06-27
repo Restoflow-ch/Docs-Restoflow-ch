@@ -1,16 +1,16 @@
 ---
 description: >-
-  Learn how to setup and configure order printing for Windows devices with our
-  printing software
+  Erfahren Sie mit unserem, wie Sie den Auftragsdruck für Windows-Geräte einrichten und konfigurieren
+  Drucksoftware
 ---
 
-# Setup Printing For Windows
+# Drucken für Windows einrichten
 
-Our system allows you to manually and automatically print out new orders. This guide will show you how to set order printing and troubleshoot issues.
+Unser System ermöglicht Ihnen den manuellen und automatischen Ausdruck neuer Bestellungen. In dieser Anleitung erfahren Sie, wie Sie den Auftragsdruck einrichten und Probleme beheben.
 
-|| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
+|| Gerne richten wir Ihren Drucker auch aus der Ferne für Sie ein. Wir wissen, dass dies ein Schritt ist, der viele Leute zum Stolpern bringen kann, da jeder Drucker ein bisschen anders ist. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen
 
-For step by step instructions by printing method.  Please use the following instructions.  It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
+Für Schritt-für-Schritt-Anleitungen nach Druckmethode.  Bitte verwenden Sie die folgenden Anweisungen.  Es ist erwähnenswert, dass wir für die meisten Situationen die Verwendung der Windows Shared Printing-Methode empfehlen;
 
 {% content-ref url="understanding-printing/printing-api-key.md" %}
 [printing-api-key.md](understanding-printing/printing-api-key.md)
@@ -24,105 +24,105 @@ For step by step instructions by printing method.  Please use the following inst
 [printing-windows-network-printing.md](understanding-printing/printing-windows-network-printing.md)
 {% endcontent-ref %}
 
-## Requirements
+## Anforderungen
 
-* Windows 7 / 8 / 10 either 32-bit or 64-bit
-* A Windows-compatible printer with the drivers installed
-* Latest version of PushPrinter that can be downloaded [here](https://pushprinter.com/#windows)
+* Windows 7/8/10 entweder 32-Bit oder 64-Bit
+* Ein Windows-kompatibler Drucker mit installierten Treibern
+* Neueste Version von PushPrinter, die [hier] heruntergeladen werden kann (https://pushprinter.com/#windows)
 
-## Setup Process
+## Einrichtungsprozess
 
-### Verify Printer Drivers Are Installed & Working
+### Überprüfen Sie, ob die Druckertreiber installiert sind und funktionieren
 
-1. If your drivers are successfully installed, your printer will be shown on your PC under "Control Panel > Hardware and Sound > Devices and Printers"
-2. Right-click your printer and select "Properties"
-3. On the bottom left, press "Print Test Page".&#x20;
-4. Verify that the test page successfully printed
+1. Wenn Ihre Treiber erfolgreich installiert wurden, wird Ihr Drucker auf Ihrem PC unter „Systemsteuerung > Hardware und Sound > Geräte und Drucker“ angezeigt.
+2. Klicken Sie mit der rechten Maustaste auf Ihren Drucker und wählen Sie „Eigenschaften“
+3. Klicken Sie unten links auf „Testseite drucken“.&#x20;
+4. Überprüfen Sie, ob die Testseite erfolgreich gedruckt wurde
 
-If this is successful, your printer will work fine. If you cannot find your printer or it doesn't work, reinstall the driver again.
+Wenn dies erfolgreich ist, funktioniert Ihr Drucker einwandfrei. Wenn Sie Ihren Drucker nicht finden können oder er nicht funktioniert, installieren Sie den Treiber erneut.
 
-### Take Note Of The Paper Sizes Available
+### Beachten Sie die verfügbaren Papierformate
 
-This step is slightly different for all printers. Some printers provide their own configuration tool where you can view the paper sizes available.
+Dieser Schritt ist bei allen Druckern etwas anders. Einige Drucker verfügen über ein eigenes Konfigurationstool, mit dem Sie die verfügbaren Papierformate anzeigen können.
 
-By default, you might find this information under your printer "Properties" dialogue as described in the previous step. Sometimes this is found under the "Device Settings" tab in your printer properties.
+Standardmäßig finden Sie diese Informationen möglicherweise im Dialogfeld „Eigenschaften“ Ihres Druckers, wie im vorherigen Schritt beschrieben. Manchmal finden Sie dies unter der Registerkarte „Geräteeinstellungen“ in Ihren Druckereigenschaften.
 
-Other times you may select "Preferences" at the bottom of the printer properties popup and then select "Advanced" at the bottom again
+In anderen Fällen können Sie unten im Popup-Fenster mit den Druckereigenschaften „Einstellungen“ und dann unten erneut „Erweitert“ auswählen
 
-Refer to the image below to see what this may look like.
+Sehen Sie sich das Bild unten an, um zu sehen, wie dies aussehen könnte.
 
 ![Printer paper size settings](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1vcnqy8.png)
 
-Take note of the paper sizes available as you will likely need to try a few to get it working flawlessly
+Beachten Sie die verfügbaren Papierformate, da Sie wahrscheinlich einige ausprobieren müssen, damit es einwandfrei funktioniert
 
-### Create A Printer Configuration
+### Erstellen Sie eine Druckerkonfiguration
 
-1. Visit your restaurant dashboard and navigate to "Settings > Receipt Printing"
-2. Press the "New Printer" button and fill out any options needed
-3. On the "Paper Settings" tab, set your paper width and paper height according to the largest available paper size available for your printer as noted in the previous step. Going off the image above, we would enter a width of "72" and a height of "210"
-4. We highly recommend starting with a font size of "18" and a paper margin of "0"
-5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy your API key soon
+1. Besuchen Sie Ihr Restaurant-Dashboard und navigieren Sie zu „Einstellungen > Belegdruck“.
+2. Klicken Sie auf die Schaltfläche „Neuer Drucker“ und füllen Sie alle erforderlichen Optionen aus
+3. Stellen Sie auf der Registerkarte „Papiereinstellungen“ Ihre Papierbreite und Papierhöhe entsprechend dem größten verfügbaren Papierformat für Ihren Drucker ein, wie im vorherigen Schritt beschrieben. Ausgehend vom Bild oben würden wir eine Breite von „72“ und eine Höhe von „210“ eingeben.
+4. Wir empfehlen dringend, mit einer Schriftgröße von „18“ und einem Papierrand von „0“ zu beginnen.
+5. Erstellen Sie die Druckkonfiguration. Nach der Erstellung erhalten Sie einen eindeutigen API-Schlüssel, mit dem Sie eine Verbindung herstellen können. Lassen Sie diesen Bildschirm geöffnet, da Sie Ihren API-Schlüssel bald kopieren müssen
 
 ![Printer API key](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_bnxer6.png)
 
-|| The paper sizes entered in your printer configuration must match your Windows paper size settings as set in the printer driver options. If the printout is incorrect or skewed, you will need to test out the other sizes from largest to smallest. When changing the sizes in the printer configuration make sure to change it in the Windows printer driver settings.
+|| Die in Ihrer Druckerkonfiguration eingegebenen Papierformate müssen mit Ihren Windows-Papierformateinstellungen übereinstimmen, die in den Druckertreiberoptionen festgelegt sind. Wenn der Ausdruck falsch oder schief ist, müssen Sie die anderen Größen vom größten zum kleinsten testen. Wenn Sie die Größen in der Druckerkonfiguration ändern, stellen Sie sicher, dass Sie diese auch in den Windows-Druckertreibereinstellungen ändern.
 
-### Install PushPrinter
+### PushPrinter installieren
 
-1. Download PushPrinter from the following [link](https://www.pushprinter.com)
-2. Run the installer, you will get a warning that the application is unverified, proceed with the installation
-3. After it is installed successfully, PushPrinter will automatically open
+1. Laden Sie PushPrinter über den folgenden [Link] herunter (https://www.pushprinter.com)
+2. Führen Sie das Installationsprogramm aus. Sie erhalten eine Warnung, dass die Anwendung nicht überprüft wurde. Fahren Sie mit der Installation fort
+3. Nach erfolgreicher Installation wird PushPrinter automatisch geöffnet
 
-### Configure PushPrinter
+### PushPrinter konfigurieren
 
-1. The first thing you will likely want to do is toggle the "Auto Start" switch so it connects and starts when your PC is started.  Activate this by selecting the "Settings Cog" and ticking the 'Automatically start PushPrinter' button (image 1.1).
-2. Press on the "Printer Icon" tab at the top to configure a printing service
-3. Press "Create Printer" button (image 1.2).
-4. Copy and paste the API key for the printer you created 2 steps ago
-5. Set the number of copies to print and select your printer
-6. Press the start button and make sure it says connected at the bottom
+1. Das erste, was Sie wahrscheinlich tun möchten, ist, den „Auto Start“-Schalter umzuschalten, damit er eine Verbindung herstellt und startet, wenn Ihr PC gestartet wird.  Aktivieren Sie dies, indem Sie das Zahnrad „Einstellungen“ auswählen und die Schaltfläche „PushPrinter automatisch starten“ aktivieren (Bild 1.1).
+2. Klicken Sie oben auf die Registerkarte „Druckersymbol“, um einen Druckdienst zu konfigurieren
+3. Klicken Sie auf die Schaltfläche „Drucker erstellen“ (Bild 1.2).
+4. Kopieren Sie den API-Schlüssel für den Drucker, den Sie vor zwei Schritten erstellt haben, und fügen Sie ihn ein
+5. Legen Sie die Anzahl der zu druckenden Kopien fest und wählen Sie Ihren Drucker aus
+6. Drücken Sie die Starttaste und stellen Sie sicher, dass unten „Verbunden“ steht
 
 ![Image 1.1 - 'Automatically start PushPrinter' button](../.gitbook/assets/pushprinter-settings.png)
 
 ![Image 1.2 - 'Create Printer'](../.gitbook/assets/create-printer-pushprinter.png)
 
-### Test Print
+### Testdruck
 
-Visit your orders page. Select an order, under the action select bar, select print. We recommend printing both short and long orders to ensure that there is nothing being cut out vertically. If you have enabled auto-printing for this print configuration, place an order and test out the auto printing
+Besuchen Sie Ihre Bestellseite. Wählen Sie eine Bestellung aus und wählen Sie unter der Aktionsauswahlleiste „Drucken“ aus. Wir empfehlen, sowohl kurze als auch lange Bestellungen auszudrucken, um sicherzustellen, dass nichts vertikal ausgeschnitten wird. Wenn Sie das automatische Drucken für diese Druckkonfiguration aktiviert haben, geben Sie eine Bestellung auf und testen Sie das automatische Drucken
 
-## Troubleshooting
+## Fehlerbehebung
 
-#### Contact Us
+#### Kontaktieren Sie uns
 
-We have successfully setup 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us.
+Wir haben Hunderte von Druckern erfolgreich eingerichtet. Es besteht eine gute Chance, dass wir Ihnen viele Kopfschmerzen ersparen können. Zögern Sie also nicht, uns zu kontaktieren.
 
-#### Sides being cut-off
+#### Seiten werden abgeschnitten
 
-Start by reducing either your margin or paper width values under your printer configuration in your admin dashboard. You will eventually calibrate a suitable width and margin. You can also adjust the font size to something smaller. You can get your correct paper width under your Windows printer settings as seen in the guide above.
+Reduzieren Sie zunächst entweder Ihre Rand- oder Papierbreitenwerte unter Ihrer Druckerkonfiguration in Ihrem Admin-Dashboard. Sie werden schließlich eine geeignete Breite und einen geeigneten Rand kalibrieren. Sie können die Schriftgröße auch etwas kleiner anpassen. Sie können die richtige Papierbreite in Ihren Windows-Druckereinstellungen ermitteln, wie in der Anleitung oben gezeigt.
 
-#### The end of the receipt doesn't come out fully
+#### Das Ende des Kassenbons kommt nicht vollständig heraus
 
-Under your Windows printer settings. Set your "Feed Line After Printing" option to a high value to allow the printer to feed through a few extra lines.
+Unter Ihren Windows-Druckereinstellungen. Stellen Sie die Option „Zeile nach dem Drucken einziehen“ auf einen hohen Wert ein, damit der Drucker einige zusätzliche Zeilen durchziehen kann.
 
-#### Invalid API Key
+#### Ungültiger API-Schlüssel
 
-The API key you entered does not below to any of your print configurations. Double check your API key
+Der von Ihnen eingegebene API-Schlüssel hat keinen Einfluss auf Ihre Druckkonfigurationen. Überprüfen Sie Ihren API-Schlüssel noch einmal
 
-#### Could Not Authenticate
+#### Authentifizierung konnte nicht durchgeführt werden
 
-Check your internet connection or try again shortly
+Überprüfen Sie Ihre Internetverbindung oder versuchen Sie es in Kürze noch einmal
 
-#### Printer not being detected in Windows
+#### Drucker wird in Windows nicht erkannt
 
-You need to find the correct driver for your printer provided its available for Windows. Try googling your printer name followed by the words "windows {insert your windows version} driver"
+Sie müssen den richtigen Treiber für Ihren Drucker finden, sofern dieser für Windows verfügbar ist. Versuchen Sie, den Namen Ihres Druckers zu googeln, gefolgt von den Worten „Windows-Treiber {fügen Sie Ihre Windows-Version ein}“.
 
-#### Printing not working even though everything is set up correctly
+#### Das Drucken funktioniert nicht, obwohl alles richtig eingerichtet ist
 
-Please ensure that Windows detects your printer. Try restarting your printer or PC. Try printing to your printer from other programs on your PC such as your browser.
+Bitte stellen Sie sicher, dass Windows Ihren Drucker erkennt. Versuchen Sie, Ihren Drucker oder PC neu zu starten. Versuchen Sie, aus anderen Programmen auf Ihrem PC, beispielsweise Ihrem Browser, auf Ihrem Drucker zu drucken.
 
 
 
 {% hint style="info" %}
-Get started for free at [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
+Starten Sie kostenlos unter [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
 {% endhint %}
 

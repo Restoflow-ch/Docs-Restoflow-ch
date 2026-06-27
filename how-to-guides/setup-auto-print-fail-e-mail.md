@@ -1,28 +1,28 @@
 ---
 description: >-
-  Enable this feature to receive an email notification whenever an automated
-  print job fails, ensuring you can quickly troubleshoot and avoid missed
-  orders.
+  Aktivieren Sie diese Funktion, um bei jedem automatisierten Vorgang eine E-Mail-Benachrichtigung zu erhalten
+  Ein Druckauftrag schlägt fehl, sodass Sie das Problem schnell beheben und Fehler vermeiden können
+  Bestellungen.
 ---
 
-# Setup Auto Print Fail E-mail
+# E-Mail bei automatischem Druckfehler einrichten
 
-### Steps:
+### Schritte:
 
-1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Settings** > **System**
+1. Melden Sie sich bei Ihrem Konto an[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu **Einstellungen** > **System**
 
 <figure><img src="../.gitbook/assets/unknown (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Click **Receipt Printing**, then select the printer
+3. Klicken Sie auf **Quittungsdruck** und wählen Sie dann den Drucker aus
 
 <figure><img src="../.gitbook/assets/unknown (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Under **General**, go to **Auto Print Fail - Email**
+4. Gehen Sie unter **Allgemein** zu **Fehler beim automatischen Drucken – E-Mail**
 
 <figure><img src="../.gitbook/assets/unknown (6) (1) (1).png" alt="" width="452"><figcaption></figcaption></figure>
 
-5. Enter your e-mail, then save
+5. Geben Sie Ihre E-Mail-Adresse ein und speichern Sie
 
 <figure><img src="../.gitbook/assets/unknown (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

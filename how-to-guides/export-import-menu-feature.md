@@ -1,66 +1,66 @@
 ---
 description: >-
-  This new feature will enable you to export / import your menu file for online
-  ordering.
+  Mit dieser neuen Funktion können Sie Ihre Menüdatei online exportieren/importieren
+  bestellen.
 ---
 
-# Export/Import Menu Feature
+# Menüfunktion exportieren/importieren
 
 \
-Here's a video on how this feature works:
+Hier ist ein Video zur Funktionsweise dieser Funktion:
 
 {% embed url="https://www.youtube.com/watch?v=MqMZDB0m6Gw" %}
 
-### Steps:
+### Schritte:
 
-#### 1.  Log in to your dashboard. Once you're logged in, navigate to the 'Staff Account' section.
+#### 1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, navigieren Sie zum Abschnitt „Mitarbeiterkonto“.
 
-* It's important to ensure that the 'Import/Export' feature is enabled when creating a staff account. If this feature isn't toggled on, the store won’t have access to import or export menus.&#x20;
+* Es ist wichtig sicherzustellen, dass die Funktion „Import/Export“ aktiviert ist, wenn Sie ein Mitarbeiterkonto erstellen. Wenn diese Funktion nicht aktiviert ist, hat der Shop keinen Zugriff auf Import- oder Exportmenüs.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-14 at 1.36.00 PM.png" alt="" width="348"><figcaption></figcaption></figure>
 
-2. Head over to ‘Restaurants’ then ‘Manage’ and click on 'Menus'. New buttons for CSV import and export will be visible. These let you import or export your menu manually in CSV format.
+2. Gehen Sie zu „Restaurants“, dann zu „Verwalten“ und klicken Sie auf „Menüs“. Es werden neue Schaltflächen für den CSV-Import und -Export angezeigt. Damit können Sie Ihr Menü manuell im CSV-Format importieren oder exportieren.
 
-### Exporting
+### Exportieren
 
-Let’s take a look at how exporting works. For example, we have two menus: 'Pizza Menu' and 'Pizza Menu 3'. When we select 'CSV Export', it will download the menu file in a CSV format.
+Werfen wir einen Blick darauf, wie das Exportieren funktioniert. Wir haben zum Beispiel zwei Menüs: „Pizza-Menü“ und „Pizza-Menü 3“. Wenn wir „CSV-Export“ auswählen, wird die Menüdatei im CSV-Format heruntergeladen.
 
-In the exported CSV file, you'll find the following colums:\
-\- Menu Name\
-\- Category Name\
-\- Dish Name
+In der exportierten CSV-Datei finden Sie folgende Spalten:\
+\- Menüname\
+\- Kategoriename\
+\- Name des Gerichts
 
-* Menu Name
-* Category Name
-* Dish Name
-* Dish Price
-* Dish Type
-* Dish Description
+* Menüname
+* Kategoriename
+* Name des Gerichts
+* Gerichtpreis
+* Geschirrtyp
+* Beschreibung des Gerichts
 
-Meanwhile, you don't need to enter anything in the Menu ID, Category ID, or Dish ID. You may delete the details in these columns.
+In der Zwischenzeit müssen Sie nichts in die Menü-ID, Kategorie-ID oder Gericht-ID eingeben. Sie können die Details in diesen Spalten löschen.
 
-### Importing
+### Importieren
 
-Let’s see how importing works. Suppose someone accidentally deletes a menu. You can retrieve it by importing the CSV file you exported earlier.
+Sehen wir uns an, wie der Import funktioniert. Angenommen, jemand löscht versehentlich ein Menü. Sie können es abrufen, indem Sie die zuvor exportierte CSV-Datei importieren.
 
-* After typing "import", select the CSV file you want to retrieve, and within a few seconds, the menu will be uploaded back into the system
+* Nachdem Sie „Importieren“ eingegeben haben, wählen Sie die CSV-Datei aus, die Sie abrufen möchten. Innerhalb weniger Sekunden wird das Menü wieder in das System hochgeladen
 
 {% hint style="warning" %}
-Please also note that the option sets of the menu you exported will not be included when you import the file. You will need to manually recreate the option sets and item tags in your menu.
+Bitte beachten Sie auch, dass die Optionssätze des von Ihnen exportierten Menüs beim Importieren der Datei nicht enthalten sind. Sie müssen die Optionssätze und Element-Tags in Ihrem Menü manuell neu erstellen.
 {% endhint %}
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Setup Your Menus** - [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
-2. **How to Create & Import a Menu Using a Spreadsheet** - [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
-3. **How to Create and Manage Your Menus** -[https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Einrichten Ihrer Menüs** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+2. **So erstellen und importieren Sie ein Menü mithilfe einer Tabellenkalkulation** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+3. **So erstellen und verwalten Sie Ihre Menüs** -[https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

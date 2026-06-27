@@ -1,39 +1,39 @@
 ---
 description: >-
-  Learn how to see Stripe payments, issues refunds and download payouts for
-  reconciliation.
+  Erfahren Sie, wie Sie Stripe-Zahlungen einsehen, Rückerstattungen ausstellen und Auszahlungen herunterladen können
+  Versöhnung.
 ---
 
-# Using Stripe Integrated
+# Verwendung von Stripe Integrated
 
-You can accept credit cards online using Stripe. It is currently supported in numerous countries with a variety of currencies.&#x20;
+Mit Stripe können Sie Kreditkarten online akzeptieren. Es wird derzeit in zahlreichen Ländern mit verschiedenen Währungen unterstützt.&#x20;
 
-## How to use Stripe Integrated
+## So verwenden Sie Stripe Integrated
 
-* Go to Online Payments.
+* Gehen Sie zu Online-Zahlungen.
 
 ![](<../.gitbook/assets/image (8).png>)
 
 {% hint style="success" %}
-If you cannot see this option in your dashboard, please see [this page](setup-integrated-stripe-payments.md).
+Wenn Sie diese Option in Ihrem Dashboard nicht sehen können, lesen Sie bitte [diese Seite](setup-integrated-stripe-payments.md).
 {% endhint %}
 
-* From the Online Payments; Refunds, Payments & Order Details are shown here.
+* Aus den Online-Zahlungen; Rückerstattungen, Zahlungen und Bestelldetails werden hier angezeigt.
 
 ![Example of the integrated payments dashboard without customer data.](<../.gitbook/assets/image (7) (1) (1).png>)
 
-* For Refund - Click the refund button and choose reason then click “Refund”.
+* Zur Rückerstattung – Klicken Sie auf die Schaltfläche „Rückerstattung“, wählen Sie den Grund aus und klicken Sie dann auf „Rückerstattung“.
 
 ![](<../.gitbook/assets/image (10) (1).png>)
 
-* For Payouts, just click the payout button at the upper right pane of the page.  If you're looking for a particular payout on a certain period of time, you can use the "Filters" function and use "Date Range" to input the dates. You can also review your payouts in your stripe dashboard at [dashboard.stripe.com](https://dashboard.stripe.com)
+* Für Auszahlungen klicken Sie einfach auf die Schaltfläche „Auszahlung“ oben rechts auf der Seite.  Wenn Sie nach einer bestimmten Auszahlung in einem bestimmten Zeitraum suchen, können Sie die Funktion „Filter“ verwenden und über „Datumsbereich“ die Daten eingeben. Sie können Ihre Auszahlungen auch in Ihrem Stripe-Dashboard unter [dashboard.stripe.com](https://dashboard.stripe.com) überprüfen.
 
 ![](<../.gitbook/assets/image (12).png>)
 
-* Download the CSV Report to pull the payout report. &#x20;
+* Laden Sie den CSV-Bericht herunter, um den Auszahlungsbericht abzurufen. &#x20;
 
 {% hint style="info" %}
-Note that this can take a few mins to load after clicking the button
+Beachten Sie, dass das Laden nach dem Klicken auf die Schaltfläche einige Minuten dauern kann
 {% endhint %}
 
 ![](<../.gitbook/assets/image (11) (1).png>)

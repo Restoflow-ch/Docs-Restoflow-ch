@@ -1,72 +1,72 @@
 ---
 description: >-
-  For August 2020, the UK government has announced a discount scheme for
-  restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
-  restaurant.
+  Für August 2020 hat die britische Regierung ein Rabattsystem angekündigt
+  Restaurants mit dem Namen „Eat Out to Help Out“. Hier erfahren Sie, wie Sie Ihr Restaurant einrichten
+  Restaurant.
 ---
 
-# COVID-19 Discount for United Kingdom
+# COVID-19-Rabatt für das Vereinigte Königreich
 
-## Example
+## Beispiel
 
-Below shows an example of the COVID-19 discount applied to the checkout.
+Unten sehen Sie ein Beispiel für den COVID-19-Rabatt, der an der Kasse angewendet wird.
 
 ![Example of COVID-19 Discount working](../../.gitbook/assets/covid19-discount-image.png)
 
 
 
-## Set-up Process
+## Einrichtungsprozess
 
-Restoflow supports the COVID-19 Discount for Dine-In orders with the following settings;
+Restoflow unterstützt den COVID-19-Rabatt für Dine-In-Bestellungen mit den folgenden Einstellungen;
 
 ![Go to Settings > System > Promo Codes > Create Promo Code](../../.gitbook/assets/covid0.png)
 
-### **Labels**
+### **Etiketten**
 
-We suggest using the following naming conventions;
+Wir empfehlen die Verwendung der folgenden Namenskonventionen:
 
-**Name** = 'COVID-19 Discount'
+**Name** = „COVID-19-Rabatt“
 
-**Promo Code** = 'COVID19'
+**Promo-Code** = 'COVID19'
 
 ![Naming the promo correctly is important for the receipts.](../../.gitbook/assets/covid1.png)
 
-### **Restrictions**
+### **Einschränkungen**
 
-Please ensure that Maximum Amount = "10" and Services = "Dine In"
+Bitte stellen Sie sicher, dass der Höchstbetrag = „10“ und die Leistungen = „Dine In“ sind.
 
 ![](../../.gitbook/assets/covid2.png)
 
-### Rules
+### Regeln
 
-Leave 'Order Times', 'Once Per Customer' and 'Logged In Customers Only' set as blank/off.
+Lassen Sie „Bestellzeiten“, „Einmal pro Kunde“ und „Nur angemeldete Kunden“ leer/ausgeschaltet.
 
 ![](../../.gitbook/assets/covid3.png)
 
-### Critical Settings
+### Kritische Einstellungen
 
-You must set 'Automatically Apply Promotion' to on.
+Sie müssen „Aktion automatisch anwenden“ aktivieren.
 
-Limit to dishes should have every applicable item selected. For example, all food items would be ticked and alcohol items would not be ticked.
+Bei „Begrenzung auf Gerichte“ sollten alle zutreffenden Artikel ausgewählt sein. Beispielsweise würden alle Lebensmittel angekreuzt, Alkohol jedoch nicht.
 
 ![](../../.gitbook/assets/covid4.png)
 
-### Non-important settings
+### Unwichtige Einstellungen
 
-The following settings should be left blank.
+Die folgenden Einstellungen sollten leer bleiben.
 
 ![](../../.gitbook/assets/covid5.png)
 
-### Go Live
+### Live gehen
 
-You can now save the promotion to make it live.
+Sie können die Aktion jetzt speichern, um sie live zu schalten.
 
-### How to disable promotion
+### So deaktivieren Sie die Werbung
 
-Turning off the COVID-19 promotion is very simple.  Simply open the promotion, check the disable promotion setting.  Alternatively you can delete the promotion from the promotions menu (Settings > System > Promo Codes > Delete) by hitting the trash can button on the right-hand side of the promotion in question.
+Das Deaktivieren der COVID-19-Aktion ist sehr einfach.  Öffnen Sie einfach die Aktion und aktivieren Sie die Einstellung zum Deaktivieren der Aktion.  Alternativ können Sie die Aktion über das Aktionsmenü (Einstellungen > System > Aktionscodes > Löschen) löschen, indem Sie auf die Schaltfläche „Papierkorb“ auf der rechten Seite der betreffenden Aktion klicken.
 
 {% hint style="warning" %}
-**Limitations**&#x20;
+**Einschränkungen**&#x20;
 
-The COVID-19 discount will only be applied once per order.  In order to obtain a discount for multiple people, each person should order from their own device.
+Der COVID-19-Rabatt wird nur einmal pro Bestellung angewendet.  Um einen Rabatt für mehrere Personen zu erhalten, sollte jede Person über ihr eigenes Gerät bestellen.
 {% endhint %}

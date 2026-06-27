@@ -1,26 +1,26 @@
 ---
 description: >-
-  The signup feature allows customers to create an account on your online
-  ordering store so they can save and view their order history. You can disable
-  this option if you prefer customers to place order
+  Mit der Anmeldefunktion können Kunden online ein Konto erstellen
+  Bestellshop, damit sie ihre Bestellhistorie speichern und anzeigen können. Sie können deaktivieren
+  Wählen Sie diese Option, wenn Sie es vorziehen, dass Kunden eine Bestellung aufgeben
 ---
 
-# How to Disable Signup Feature
+# So deaktivieren Sie die Anmeldefunktion
 
 {% embed url="https://drive.google.com/file/d/1EJG-jjqplbpTd6Cszc0pg6V-UDOky9xV/view?usp=sharing" %}
 
-### Steps:
+### Schritte:
 
-1. On the Admin Dashboard, go to **Settings** → **System**
-2. Under **System**, select **Misc**
-3. Toggle "**Disable Signup's**" to turn the feature off.
-4. Click **Save** to apply the changes.
-5. View your store to verify the changes. When the **Signup feature is disabled**, the “**Register**” form will no longer be available to customers. See example below:
+1. Gehen Sie im Admin-Dashboard zu **Einstellungen** → **System**
+2. Wählen Sie unter **System** die Option **Verschiedenes**
+3. Schalten Sie „**Anmeldungen deaktivieren**“ um, um die Funktion zu deaktivieren.
+4. Klicken Sie auf **Speichern**, um die Änderungen zu übernehmen.
+5. Sehen Sie sich Ihren Shop an, um die Änderungen zu überprüfen. Wenn die **Anmeldefunktion** deaktiviert ist, steht das Formular „**Registrieren**“ für Kunden nicht mehr zur Verfügung. Siehe Beispiel unten:
 
 <figure><img src="../.gitbook/assets/unknown (4) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

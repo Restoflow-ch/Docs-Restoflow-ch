@@ -1,67 +1,67 @@
 ---
 description: >-
-  Learn how to accept online payments using your own PayPal account with our
-  simple setup process
+  Erfahren Sie bei uns, wie Sie Online-Zahlungen mit Ihrem eigenen PayPal-Konto akzeptieren
+  einfacher Einrichtungsprozess
 ---
 
-# Setup PayPal Payments
+# PayPal-Zahlungen einrichten
 
-PayPal is one of the most widely used online payment methods. Restoflow makes use of PayPal's REST express checkout payment integration. This allows us to process payments on your behalf with the funds going straight to your account. Please be aware that PayPal is only available in certain countries and currencies. You can see them [here](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/).
+PayPal ist eine der am weitesten verbreiteten Online-Zahlungsmethoden. Restoflow nutzt die REST-Express-Checkout-Zahlungsintegration von PayPal. Dadurch können wir Zahlungen in Ihrem Namen abwickeln, wobei die Gelder direkt auf Ihr Konto überwiesen werden. Bitte beachten Sie, dass PayPal nur in bestimmten Ländern und Währungen verfügbar ist. Sie können sie [hier](https://developer.paypal.com/docs/integration/direct/rest-api-payment-country-currency-support/) sehen.
 
 {% hint style="danger" %}
-We highly recommend using Stripe instead of PayPal for online payments. PayPal occasionally has various service issues in our experience. See how Stripe payments guide instead below.
+Wir empfehlen dringend, für Online-Zahlungen Stripe anstelle von PayPal zu verwenden. Nach unserer Erfahrung kommt es bei PayPal gelegentlich zu verschiedenen Serviceproblemen. Sehen Sie sich stattdessen unten den Leitfaden für Stripe-Zahlungen an.
 {% endhint %}
 
 {% content-ref url="setup-stripe-payments.md" %}
-[setup-stripe-payments.md](setup-stripe-payments.md)
+[setup-stripe-zahlungen.md](setup-stripe-payments.md)
 {% endcontent-ref %}
 
-## How PayPal Payments Work
+## So funktionieren PayPal-Zahlungen
 
-Once PayPal is enabled, the option will be available to customers during the checkout phase of their order. Upon selection, they can either log in to their PayPal account, create an account or use their credit card and check out as a guest in order to complete payment.
+Sobald PayPal aktiviert ist, steht den Kunden die Option während der Checkout-Phase ihrer Bestellung zur Verfügung. Nach der Auswahl können sie sich entweder bei ihrem PayPal-Konto anmelden, ein Konto erstellen oder ihre Kreditkarte verwenden und als Gast auschecken, um die Zahlung abzuschließen.
 
-## Requirements
+## Anforderungen
 
-In order to use PayPal with Restoflow, you will need a **fully valid business account**. If you already have a PayPal business account, you can skip this step.
+Um PayPal mit Restoflow nutzen zu können, benötigen Sie ein **vollständig gültiges Geschäftskonto**. Wenn Sie bereits über ein PayPal-Geschäftskonto verfügen, können Sie diesen Schritt überspringen.
 
-If you do not already have one, sign up at [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection). You can also upgrade your personal account to a business one from within your account settings.
+Wenn Sie noch keins haben, melden Sie sich unter [https://www.paypal.com/webapps/mpp/account-selection](https://www.paypal.com/webapps/mpp/account-selection) an. Sie können Ihr Privatkonto auch in Ihren Kontoeinstellungen auf ein Geschäftskonto upgraden.
 
-## Connecting Your PayPal Account
+## Verbinden Ihres PayPal-Kontos
 
-#### Create a REST API Application
+#### Erstellen Sie eine REST-API-Anwendung
 
-1. Visit [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
-2. Log into your PayPal account using the login in button
-3. Once logged in, scroll down until you see the title "REST API apps"
-4. Press the "Create App" button
-5. Enter your business name for the app name, ignore the sandbox developer account field
-6. Press the "Create App" button to complete this step
+1. Besuchen Sie [https://developer.paypal.com/developer/applications/](https://developer.paypal.com/developer/applications/)
+2. Melden Sie sich über den Login-Button bei Ihrem PayPal-Konto an
+3. Scrollen Sie nach der Anmeldung nach unten, bis Sie den Titel „REST API-Apps“ sehen.
+4. Klicken Sie auf die Schaltfläche „App erstellen“.
+5. Geben Sie Ihren Firmennamen als App-Namen ein und ignorieren Sie das Feld „Sandbox-Entwicklerkonto“.
+6. Klicken Sie auf die Schaltfläche „App erstellen“, um diesen Schritt abzuschließen
 
 ![PayPal REST apps](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_141scma.png)
 
-#### Copy Live Application Credentials
+#### Kopieren Sie die Anmeldeinformationen der Live-Anwendung
 
-1. After creating your application, you will be on the page where you can copy your credentials
-2. Change from the "Sandbox" to "Live" view using the buttons on the top right
-3. Scroll down and press "Show" below the "Secret".
-4. You will now be able to see your "Client ID" and "Secret" keys
-5. In another window, go to your restaurant dashboard and to "Settings > Payments > PayPal"
-6. Enable PayPal payments and paste in your "Client ID" and "Secret" key from the PayPal dashboard
-7. Choose your payment currency and save the form
+1. Nachdem Sie Ihre Bewerbung erstellt haben, gelangen Sie auf die Seite, auf der Sie Ihre Zugangsdaten kopieren können
+2. Wechseln Sie über die Schaltflächen oben rechts von der „Sandbox“- in die „Live“-Ansicht
+3. Scrollen Sie nach unten und klicken Sie auf „Anzeigen“ unter dem „Geheimnis“.
+4. Sie können nun Ihre „Client-ID“ und „Geheim“-Schlüssel sehen
+5. Gehen Sie in einem anderen Fenster zu Ihrem Restaurant-Dashboard und zu „Einstellungen > Zahlungen > PayPal“.
+6. Aktivieren Sie PayPal-Zahlungen und geben Sie Ihre „Kunden-ID“ und Ihren „Geheimschlüssel“ aus dem PayPal-Dashboard ein
+7. Wählen Sie Ihre Zahlungswährung und speichern Sie das Formular
 
 ![PayPal application credentials](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1g9uc8i.png)
 
-## PayPal's Fees
+## PayPal-Gebühren
 
-Please be aware that using PayPal, like other online credit card processors, you will be charged a fee on every transaction. This has to be managed by yourself through your own PayPal account as we are not responsible for this. You can use the PayPal website to see the fees for your respective country and currency.
+Bitte beachten Sie, dass bei Verwendung von PayPal, wie auch bei anderen Online-Kreditkartenanbietern, für jede Transaktion eine Gebühr erhoben wird. Dies muss selbst über Ihr eigenes PayPal-Konto verwaltet werden, da wir hierfür nicht verantwortlich sind. Die Gebühren für Ihr jeweiliges Land und Ihre Währung können Sie auf der PayPal-Website einsehen.
 
-## Refunds
+## Rückerstattungen
 
-Currently, refunds must be manually processed from within your PayPal account.
+Derzeit müssen Rückerstattungen manuell über Ihr PayPal-Konto bearbeitet werden.
 
 \
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

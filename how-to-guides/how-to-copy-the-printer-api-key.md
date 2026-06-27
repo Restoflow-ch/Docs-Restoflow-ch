@@ -1,17 +1,17 @@
 ---
 description: >-
-  Looking for the API key to setup your printing in PushPrinter? Follow these
-  simple steps;
+  Suchen Sie nach dem API-Schlüssel zum Einrichten Ihres Drucks in PushPrinter? Befolgen Sie diese
+  einfache Schritte;
 ---
 
-# How to copy the printer API key
+# So kopieren Sie den Drucker-API-Schlüssel
 
-Go to Settings > System > Receipt Printing > Printer Setup.
+Gehen Sie zu Einstellungen > System > Belegdruck > Druckereinrichtung.
 
-If there is no existing printer.  Create the printer.  If there is an existing printer, simply click on the dark grey box surrounding the API key to automatically copy the api key to your clipboard.
+Wenn kein Drucker vorhanden ist.  Erstellen Sie den Drucker.  Wenn ein Drucker vorhanden ist, klicken Sie einfach auf das dunkelgraue Feld um den API-Schlüssel, um den API-Schlüssel automatisch in Ihre Zwischenablage zu kopieren.
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 \
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).

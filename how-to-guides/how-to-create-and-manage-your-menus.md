@@ -1,139 +1,139 @@
 ---
 description: >-
-  Organizing your online store starts with setting up menus, categories, and
-  items. This guide walks you through everything from creating a new menu to
-  managing standard and combo items.
+  Die Organisation Ihres Online-Shops beginnt mit der Einrichtung von Menüs, Kategorien usw
+  Artikel. Dieser Leitfaden führt Sie durch alles, von der Erstellung eines neuen Menüs bis hin zu
+  Verwaltung von Standard- und Kombinationsartikeln.
 ---
 
-# How to Create and Manage Your Menus
+# So erstellen und verwalten Sie Ihre Menüs
 
 {% embed url="https://youtu.be/iihdL0UupMU" %}
 
-### 1. Create a New Menu
+### 1. Erstellen Sie ein neues Menü
 
-Menus are used to group specific items (e.g., Breakfast Menu, Drinks Menu).\
-Go to your Dashboard > Menu. Click "Create New Menu". Enter a Name (e.g., Breakfast Menu). Optional: Add a Description (e.g., “Available for dine-in only”).\
+Menüs werden verwendet, um bestimmte Elemente zu gruppieren (z. B. Frühstückskarte, Getränkekarte).\
+Gehen Sie zu Ihrem Dashboard > Menü. Klicken Sie auf „Neues Menü erstellen“. Geben Sie einen Namen ein (z. B. Frühstücksmenü). Optional: Fügen Sie eine Beschreibung hinzu (z. B. „Nur zum Abendessen verfügbar“).\
 \
-**Menu Conditions:**\
-Click "Conditions" to control when and how the menu appears:
+**Menübedingungen:**\
+Klicken Sie auf „Bedingungen“, um zu steuern, wann und wie das Menü angezeigt wird:
 
-* Order Times: Set hours when this menu is available
-* Immediate/Later Orders: Specify if for immediate, scheduled, or both
-* Service Types: Choose Pickup, Delivery, or Dine-in
-* Time Slots: Add hours like 8:00 AM – 11:00 AM
-* Age Restriction: Enable if age-restricted items are present
-* Hide Unavailable Menu: Toggle ON to hide it outside active times
+* Bestellzeiten: Legen Sie die Zeiten fest, zu denen dieses Menü verfügbar ist
+* Sofortige/spätere Bestellungen: Geben Sie an, ob es sich um sofortige, geplante oder beides handelt
+* Servicearten: Wählen Sie Abholung, Lieferung oder Abendessen
+* Zeitfenster: Fügen Sie Stunden wie 8:00 – 11:00 Uhr hinzu
+* Altersbeschränkung: Aktivieren Sie diese Option, wenn Artikel mit Altersbeschränkung vorhanden sind
+* Nicht verfügbares Menü ausblenden: Aktivieren Sie diese Option, um es außerhalb der aktiven Zeiten auszublenden
 
-Click **Save** when done
+Klicken Sie abschließend auf **Speichern**
 
-### 2. Add Categories
+### 2. Kategorien hinzufügen
 
-Categories help group dishes (e.g. Appetizers, Mains, Desserts).\
+Mithilfe von Kategorien können Gerichte gruppiert werden (z. B. Vorspeisen, Hauptgerichte, Desserts).\
 \
-Select your menu, then click "Create New Category". Enter a Category Name (e.g., Sides). Add a Description (optional).\
+Wählen Sie Ihr Menü aus und klicken Sie dann auf „Neue Kategorie erstellen“. Geben Sie einen Kategorienamen ein (z. B. Seiten). Fügen Sie eine Beschreibung hinzu (optional).\
 \
-**Category Conditions:**\
-Use conditions to control visibility:
+**Kategoriebedingungen:**\
+Verwenden Sie Bedingungen, um die Sichtbarkeit zu steuern:
 
-* Service Type
-* Time of day
-* Toggle "Hide Unavailable Category" if needed
+* Servicetyp
+* Tageszeit
+* Aktivieren Sie bei Bedarf die Option „Nicht verfügbare Kategorie ausblenden“.
 
-Click **Save**
+Klicken Sie auf **Speichern**
 
-### 3. Add Menu Items
+### 3. Menüelemente hinzufügen
 
-**Add a Standard Item:**
+**Einen Standardartikel hinzufügen:**
 
-Click " Create New Item" and choose "Standard". Fill in:
+Klicken Sie auf „Neues Element erstellen“ und wählen Sie „Standard“. Füllen Sie aus:
 
 * Name
-* Price
-* Description, Display, Print Name, Subtitle (optional)
-* Tax
+* Preis
+* Beschreibung, Anzeige, Druckname, Untertitel (optional)
+* Steuer
 
-Click **Save**
+Klicken Sie auf **Speichern**
 
-**To add image and tags:**
+**So fügen Sie Bilder und Tags hinzu:**
 
-* Go to Image & Tags
-* Upload image or paste a link
-* Select tags (if set up)
+* Gehen Sie zu Bild & Tags
+* Laden Sie ein Bild hoch oder fügen Sie einen Link ein
+* Tags auswählen (falls eingerichtet)
 
-Click **Save**
+Klicken Sie auf **Speichern**
 
-**Add Options & Ingredients:**
+**Optionen und Zutaten hinzufügen:**
 
-Edit the item, go to Options and Inggredients
+Bearbeiten Sie den Artikel, gehen Sie zu Optionen und Zutaten
 
-* Assign Option Sets (e.g., sizes, add-ons)
-* Use Points to limit selctions (e.g., 2 free toppings)
-* Add Ingredients so customers can remove them
+* Optionssätze zuweisen (z. B. Größen, Add-ons)
+* Verwenden Sie Punkte, um die Auswahl einzuschränken (z. B. 2 kostenlose Beläge).
+* Fügen Sie Zutaten hinzu, damit Kunden sie entfernen können
 
-Click **Save** and refresh front end to see changes.&#x20;
+Klicken Sie auf **Speichern** und aktualisieren Sie das Frontend, um die Änderungen anzuzeigen.&#x20;
 
-**Item Actions**:
+**Artikelaktionen**:
 
-* Mark as **No Stock**: Temporaritly not orderable
-* **Hide Item**: Removes from view
-* **Edit Prices**: Bulk-edit
-* **Delete**: Permanently remove
+* Als **Kein Lagerbestand** markieren: Vorübergehend nicht bestellbar
+* **Element ausblenden**: Wird aus der Ansicht entfernt
+* **Preise bearbeiten**: Massenbearbeitung
+* **Löschen**: Endgültig entfernen
 
-### 4. Add Combo Items
+### 4. Kombinationselemente hinzufügen
 
-Combo items allow bundled choices (e.g., " 2 Pizzas + Drink")\
+Kombiartikel ermöglichen gebündelte Auswahlmöglichkeiten (z. B. „2 Pizzen + Getränk“)\
 \
-Create a new item and choose "Combo". Fill in:
+Erstellen Sie ein neues Element und wählen Sie „Combo“. Füllen Sie aus:
 
 * Name
-* Price
-* Combo Price Type
-  * Standard: Fixed combo price
-  * Difference: Changes based on selected items
-* Display Name, Description, Subtitle (optional)
-* Tax, Image, Tags
+* Preis
+* Kombi-Preistyp
+* Standard: Fester Kombipreis
+* Unterschied: Änderungen basierend auf ausgewählten Elementen
+* Anzeigename, Beschreibung, Untertitel (optional)
+* Steuern, Bild, Tags
 
-Blacklist any option sers you want to exclude.
+Setzen Sie alle Optionsserver, die Sie ausschließen möchten, auf die schwarze Liste.
 
-Build Combo Choices:\
-Click "Item Choice" > Add Choice\
-Select which standard items to include (e.g., Pizza 1, Pizza 2, Drink)
+Build-Combo-Optionen:\
+Klicken Sie auf „Artikelauswahl“ > Auswahl hinzufügen\
+Wählen Sie aus, welche Standardartikel enthalten sein sollen (z. B. Pizza 1, Pizza 2, Getränk).
 
-Click **Save**
+Klicken Sie auf **Speichern**
 
-### 5. Use Item Tags
+### 5. Verwenden Sie Artikel-Tags
 
-Tags highlight attributes like “Spicy” or “Vegan”.
+Tags heben Attribute wie „Scharf“ oder „Vegan“ hervor.
 
-Go to Item Tags > Create New Item Tag. Fill in Tag Name, Display Text, select colours for background and text. Attach to relevant items. Click Save.
+Gehen Sie zu Artikel-Tags > Neues Artikel-Tag erstellen. Geben Sie den Tag-Namen und den Anzeigetext ein und wählen Sie Farben für Hintergrund und Text aus. An relevante Elemente anhängen. Klicken Sie auf Speichern.
 
-### 6. Rearranging Items
+### 6. Elemente neu anordnen
 
-To reorder menus, categoris, or items:
+So ordnen Sie Menüs, Kategorien oder Elemente neu an:
 
-Go to the section and click "Rearrange". Drag and drop. Click Save.
+Gehen Sie zum Abschnitt und klicken Sie auf „Neu anordnen“. Ziehen und ablegen. Klicken Sie auf Speichern.
 
 \
-<mark style="color:red;">**Final Tips**</mark>&#x20;
+<mark style="color:red;">**Letzte Tipps**</mark>&#x20;
 
-* Refresh the front end to view changes
-* Use Combo Items for set meals
-* Use Tags and Option Sets to improve clarity and ordering experience
+* Aktualisieren Sie das Frontend, um Änderungen anzuzeigen
+* Verwenden Sie Kombiartikel für Menüs
+* Verwenden Sie Tags und Optionssätze, um die Übersichtlichkeit und das Bestellerlebnis zu verbessern
 
 <br>
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Setup Your Menus -** [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus) [Restoflow Support](https://support.restoflow.ch/getting-started/setup-your-menus?utm_source=chatgpt.com)
-2. **Export/Import Menu Feature** – [https://support.restoflow.ch/how-to-guides/export-import-menu-feature](https://support.restoflow.ch/how-to-guides/export-import-menu-feature)
-3. **How to Create & Import a Menu Using a Spreadsheet** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+1. **Richten Sie Ihre Menüs ein -** [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus) [Restoflow-Unterstützung](https://support.restoflow.ch/getting-started/setup-your-menus?utm_source=chatgpt.com)
+2. **Menüfunktion „Exportieren/Importieren“** – [https://support.restoflow.ch/how-to-guides/export-import-menu-feature](https://support.restoflow.ch/how-to-guides/export-import-menu-feature)
+3. **So erstellen und importieren Sie ein Menü mithilfe einer Tabellenkalkulation** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}
 
 ### <br>

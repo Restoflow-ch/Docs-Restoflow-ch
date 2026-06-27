@@ -1,39 +1,39 @@
 ---
 description: >-
-  This will help you manage the order flow and ensure efficient service during
-  busy hours. Customers will be able to  place an order and pick an available
-  time slot.
+  Dies hilft Ihnen, den Auftragsfluss zu verwalten und einen effizienten Service sicherzustellen
+  geschäftige Stunden. Kunden können eine Bestellung aufgeben und ein verfügbares Produkt auswählen
+  Zeitfenster.
 ---
 
-# Set Maximum Orders Per Time Interval
+# Maximale Bestellungen pro Zeitintervall festlegen
 
-Here's a quick video on how to enable this feature
+Hier ist ein kurzes Video zur Aktivierung dieser Funktion
 
 {% embed url="https://www.youtube.com/watch?v=E-d69dsJyi8" %}
 
-### Steps:&#x20;
+### Schritte:&#x20;
 
-1. Log in to your dashboard. Once logged in, navigate to the 'Settings' tab.&#x20;
-2. Go to the 'Services' section. Select which service you want to limit orders for. This could be delivery, pickup, or any other service you provide.
-3. Under the service you choose, click 'Order Timing'. Scroll down, and you’ll see a new setting called 'Limit Orders Per Time Interval'.
-4. Set the maximum number of orders for each time interval. Leave the field blank or set to zero if you want to allow unlimited orders per time slot/ interval. Don't forget save changes. <br>
+1. Melden Sie sich bei Ihrem Dashboard an. Navigieren Sie nach der Anmeldung zur Registerkarte „Einstellungen“.&#x20;
+2. Gehen Sie zum Abschnitt „Dienste“. Wählen Sie aus, für welchen Service Sie Bestellungen einschränken möchten. Dies kann Lieferung, Abholung oder jeder andere von Ihnen angebotene Service sein.
+3. Klicken Sie unter dem von Ihnen ausgewählten Dienst auf „Bestellzeitpunkt“. Scrollen Sie nach unten und Sie sehen eine neue Einstellung namens „Bestellungen pro Zeitintervall begrenzen“.
+4. Legen Sie die maximale Anzahl an Bestellungen für jedes Zeitintervall fest. Lassen Sie das Feld leer oder setzen Sie es auf Null, wenn Sie unbegrenzte Bestellungen pro Zeitfenster/Intervall zulassen möchten. Vergessen Sie nicht, die Änderungen zu speichern. <br>
 
 {% hint style="warning" %}
-Note:  Make sure to enable the 'Wait Time & Auto Statuses' setting to ensure orders are processed automatically based on the limits you've set<br>
+Hinweis: Stellen Sie sicher, dass Sie die Einstellung „Wartezeit und automatische Status“ aktivieren, um sicherzustellen, dass Bestellungen automatisch basierend auf den von Ihnen festgelegten Limits verarbeitet werden<br>
 {% endhint %}
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **How to Enable Pre‑Orders in Restoflow** – [https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow](https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow)
-2. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
-3. **Configure Your Services (Order Timing settings)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
+1. **So aktivieren Sie Vorbestellungen in Restoflow** – [https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow](https://support.restoflow.ch/how-to-guides/how-to-enable-pre-orders-in-restoflow)
+2. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **Konfigurieren Sie Ihre Dienste (Einstellungen für den Bestellzeitpunkt)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

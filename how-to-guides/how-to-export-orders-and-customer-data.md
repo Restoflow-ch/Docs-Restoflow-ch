@@ -1,39 +1,39 @@
 ---
 description: >-
-  We have a CSV Data Esport which you can use. It also has a Filter function to
-  only get the data you need.
+  Wir haben einen CSV-Daten-Esport, den Sie verwenden können. Es verfügt auch über eine Filterfunktion
+  Erhalten Sie nur die Daten, die Sie benötigen.
 ---
 
-# How To Export Orders & Customer Data
+# So exportieren Sie Bestellungen und Kundendaten
 
-### To export the report from the system&#x20;
+### Um den Bericht aus dem System zu exportieren&#x20;
 
-1. Log in to your dashboard. Once you're logged in, click "**Manage**"
+1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, klicken Sie auf „**Verwalten**“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.38.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2\.  Click the **Order** Icon
+2\.  Klicken Sie auf das Symbol **Bestellen**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.40.17 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3\. Switch to **List** View
+3\. Wechseln Sie zur **Listenansicht**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.42.25 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4\. Click on the **Export** Icon
+4\. Klicken Sie auf das Symbol **Exportieren**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.06.53 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5\. Filter the dates you want to get the report from&#x20;
+5\. Filtern Sie die Daten, von denen Sie den Bericht erhalten möchten&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.08.12 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-6\. Export Data\
-7\. Click **Custom Report** to customize data
+6\. Daten exportieren\
+7\. Klicken Sie auf **Benutzerdefinierter Bericht**, um die Daten anzupassen
 
-### To export Customer Data&#x20;
+### Um Kundendaten zu exportieren&#x20;
 
-1. Click the **Customer** icon instead and do the same steps
+1. Klicken Sie stattdessen auf das Symbol **Kunde** und führen Sie die gleichen Schritte aus
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.17.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -48,5 +48,5 @@ description: >-
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

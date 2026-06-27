@@ -1,27 +1,27 @@
-# Choose the Best Item Style for Your Store
+# Wählen Sie den besten Artikelstil für Ihren Shop
 
-Explore the three item styles available in Restoflow and learn how to update or change them. Item styles determine how your product images are positioned and displayed, helping you choose the layout that best matches your store’s design.
+Entdecken Sie die drei in Restoflow verfügbaren Artikelstile und erfahren Sie, wie Sie sie aktualisieren oder ändern. Artikelstile bestimmen, wie Ihre Produktbilder positioniert und angezeigt werden, und helfen Ihnen bei der Auswahl des Layouts, das am besten zum Design Ihres Shops passt.
 
-### Steps:
+### Schritte:
 
-1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Settings** > **Website** > **Item Style**
+1. Melden Sie sich bei Ihrem Konto an[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu **Einstellungen** > **Website** > **Artikelstil**
 
 <figure><img src="../../.gitbook/assets/unknown (8) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. From the dropdown menu, choose from the following styles:
+3. Wählen Sie im Dropdown-Menü einen der folgenden Stile aus:
 
 <figure><img src="../../.gitbook/assets/unknown (9) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **List** – Displays the item image on the left side of the item.
+* **Liste** – Zeigt das Artikelbild auf der linken Seite des Artikels an.
 
 <figure><img src="../../.gitbook/assets/unknown (10) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **Card** – Displays the item image at the top, ideal for a visual, card-style layout.
+* **Karte** – Zeigt das Artikelbild oben an, ideal für ein visuelles Layout im Kartenstil.
 
 <figure><img src="../../.gitbook/assets/unknown (11) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **Rounded List** – Shows your items in a clean list format with rounded edges, offering a modern and minimal look.
+* **Abgerundete Liste** – Zeigt Ihre Artikel in einem übersichtlichen Listenformat mit abgerundeten Kanten an und bietet ein modernes und minimalistisches Erscheinungsbild.
 
 <figure><img src="../../.gitbook/assets/unknown (12) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

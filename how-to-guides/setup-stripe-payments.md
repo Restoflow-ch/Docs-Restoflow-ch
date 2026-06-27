@@ -1,65 +1,65 @@
 ---
 description: >-
-  Learn how to setup Stripe, our recommend online payments provider due to their
-  streamlined setup and user experience
+  Erfahren Sie, wie Sie Stripe einrichten, unseren empfohlenen Online-Zahlungsanbieter
+  Optimierte Einrichtung und Benutzererfahrung
 ---
 
-# Setup Stripe Payments
+# Stripe-Zahlungen einrichten
 
 {% hint style="success" %}
-We now recommend using [stripe+-integrated-payments.md](stripe+-integrated-payments.md "mention")
+Wir empfehlen jetzt die Verwendung von [stripe+-integrated-zahlungen.md](stripe+-integrated-payments.md "mention")
 {% endhint %}
 
-You can accept credit cards online using [Stripe](https://stripe.com/). It is currently supported in numerous countries with a variety of currencies. If Stripe is not supported in your country you can apply to try Stripe Atlas. Below is our simple guide on setting up Stripe and managing your account.
+Sie können Kreditkarten online mit [Stripe](https://stripe.com/) akzeptieren. Es wird derzeit in zahlreichen Ländern mit verschiedenen Währungen unterstützt. Wenn Stripe in Ihrem Land nicht unterstützt wird, können Sie Stripe Atlas testen. Nachfolgend finden Sie unsere einfache Anleitung zur Einrichtung von Stripe und zur Verwaltung Ihres Kontos.
 
-## How Stripe Payments Work
+## So funktionieren Stripe-Zahlungen
 
-When Stripe is enabled, customers can choose from the online payment option when checking out. If a customer selects "Credit Card", the credit card field will drop-down below.
+Wenn Stripe aktiviert ist, können Kunden beim Bezahlen zwischen der Online-Zahlungsoption wählen. Wenn ein Kunde „Kreditkarte“ auswählt, wird unten das Feld „Kreditkarte“ angezeigt.
 
 ![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_16wk7ks.png)
 
-## Connecting Your Stripe Account
+## Verbinden Ihres Stripe-Kontos
 
-1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account&#x20;
-3. Login to your account dashboard. On the left navigation, go to "Developers > API Keys"
-4. Next, open up your restaurant dashboard and navigate to "Settings > Payments > Stripe"
-5. Enable Stripe payments using the "Enable" switch
-6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
-7. Set your payment currency in the restaurant dashboard and save the settings
+1. Erstellen Sie ein Konto auf der Stripe-Website, falls Sie noch keins haben
+2. Stellen Sie sicher, dass Sie Ihr Live-Konto und nicht Ihr Testkonto sehen&#x20;
+3. Melden Sie sich bei Ihrem Konto-Dashboard an. Gehen Sie in der linken Navigation zu „Entwickler > API-Schlüssel“.
+4. Öffnen Sie als Nächstes Ihr Restaurant-Dashboard und navigieren Sie zu „Einstellungen > Zahlungen > Stripe“.
+5. Aktivieren Sie Stripe-Zahlungen mit dem Schalter „Aktivieren“.
+6. Kopieren Sie den „Publishable Key“ und den „Secret Key“ aus dem Stripe-Dashboard in das Restaurant-Dashboard
+7. Legen Sie Ihre Zahlungswährung im Restaurant-Dashboard fest und speichern Sie die Einstellungen
 
 ![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
 
-## Testing Payments
+## Zahlungen testen
 
-If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
+Wenn Sie eine Testzahlung durchführen möchten, kopieren Sie Ihre Test-API-Schlüssel von Stripe. Sie können dies tun, indem Sie den Schalter „Testdaten anzeigen“ umschalten.
 
 ![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
 
-Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
+Sobald dies erledigt ist, können Sie die Kreditkartennummer „4242 4242 4242 4242“ mit jedem gültigen Ablaufdatum, CVC und Postleitzahl verwenden. Mit dieser Karte können Sie eine Scheinzahlung durchführen.
 
-## Validating Your Stripe Account
+## Validierung Ihres Stripe-Kontos
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+Um Online-Zahlungen an Ihre Bank abzuheben, müssen Sie sicherstellen, dass Ihr Stripe-Konto vollständig gültig ist. Bitte stellen Sie sicher, dass Sie alle erforderlichen Validierungen abgeschlossen haben.
 
-## Stripe Fee's
+## Stripe-Gebühren
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your Restoflow account to process charges on your behalf with the money going straight to your account.
+Wir sind nicht für die Verwaltung oder Gebühren Ihres Stripe-Kontos verantwortlich. Ihr Stripe-Konto wird einfach mit Ihrem Restoflow-Konto verknüpft, um Gebühren in Ihrem Namen abzuwickeln und das Geld direkt auf Ihr Konto zu überweisen.
 
-As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
+Daher ist es wichtig, dass Sie die Gebühren für die Zahlungsabwicklung von Stripe kennen. Mehr können Sie hier lesen [https://stripe.com/pricing](https://stripe.com/pricing). Bitte nehmen Sie sich auch die Zeit, die FAQ und den Support zu lesen, um etwaige Probleme zu klären.
 
-## Stripe Currency Conversions
+## Stripe-Währungsumrechnungen
 
-Stripe enables you to accept different currencies online depending on the country you are in. If your Stripe currency is different from your store currency, we will convert the order amount to your Stripe default currency using real-time exchange rates for payment to be made.
+Mit Stripe können Sie je nach Land, in dem Sie sich befinden, online verschiedene Währungen akzeptieren. Wenn Ihre Stripe-Währung von der Währung Ihres Shops abweicht, rechnen wir den Bestellbetrag in Ihre Stripe-Standardwährung um und verwenden dabei Echtzeit-Wechselkurse für die Zahlung.
 
-## Issuing Refunds
+## Rückerstattungen ausstellen
 
-Stripe refunds can be processed from your order management dashboard or the Stripe dashboard. In the order management dashboard, the refund payment option is available in the order details popup. Simply press the action select bar and choose "Refund Stripe Payment".
+Stripe-Rückerstattungen können über Ihr Bestellverwaltungs-Dashboard oder das Stripe-Dashboard verarbeitet werden. Im Bestellverwaltungs-Dashboard ist die Rückerstattungszahlungsoption im Popup-Fenster mit den Bestelldetails verfügbar. Drücken Sie einfach die Aktionsauswahlleiste und wählen Sie „Stripe-Zahlung erstatten“.
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

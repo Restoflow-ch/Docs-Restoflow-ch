@@ -1,8 +1,8 @@
 ---
 description: >-
-  Additional guides explaining more in-depth customization options within the
-  Restoflow platform.
+  Zusätzliche Anleitungen, die ausführlichere Anpassungsoptionen innerhalb des erklären
+  Restoflow-Plattform.
 ---
 
-# Design Customization - Advanced
+# Designanpassung – Erweitert
 

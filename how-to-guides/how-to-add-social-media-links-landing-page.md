@@ -1,25 +1,25 @@
 ---
 description: >-
-  Use this guide to add social media links to the footer of your Restoflow
-  landing page.
+  Verwenden Sie diese Anleitung, um Social-Media-Links zur Fußzeile Ihres Restoflow hinzuzufügen
+  Zielseite.
 ---
 
-# How to Add Social Media Links (Landing Page)
+# So fügen Sie Social-Media-Links hinzu (Landing Page)
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the top navigation tabs, click “Landing Page.”
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Klicken Sie in den oberen Navigationsregisterkarten auf „Landing Page“.
 
-    ![](<../.gitbook/assets/unknown (10) (1).png>)
-3.  Under the Website Sections, select “Footer.”
+![](<../.gitbook/assets/unknown (10) (1).png>)
+3. Wählen Sie unter den Website-Abschnitten „Fußzeile“ aus.
 
-    **Note:** Ensure that “Hide Section” is untoggled so the footer will be visible on the website’s frontend.
+**Hinweis:** Stellen Sie sicher, dass „Abschnitt ausblenden“ deaktiviert ist, damit die Fußzeile im Frontend der Website sichtbar ist.
 
-    ![](<../.gitbook/assets/unknown (9) (1).png>)
-4.  Paste each social media link into its correct field.
+![](<../.gitbook/assets/unknown (9) (1).png>)
+4. Fügen Sie jeden Social-Media-Link in das richtige Feld ein.
 
-    **Note:** Make sure each link is valid and complete
+**Hinweis:** Stellen Sie sicher, dass jeder Link gültig und vollständig ist
 
-    (e.g., https://facebook.com/yourpage)
-5. When finished, click Save.
+(z. B. https://facebook.com/yourpage)
+5. Wenn Sie fertig sind, klicken Sie auf Speichern.

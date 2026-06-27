@@ -1,43 +1,43 @@
 ---
 description: >-
-  Use this guide for adding a USB printer driver to Windows, if not already
+  Verwenden Sie diese Anleitung zum Hinzufügen eines USB-Druckertreibers zu Windows, falls noch nicht geschehen
   connected.
 ---
 
-# Add a USB printer to Windows
+# Fügen Sie einen USB-Drucker zu Windows hinzu
 
-If printer drivers are not set up follow these instructions:
+Wenn keine Druckertreiber eingerichtet sind, befolgen Sie diese Anweisungen:
 
-1\. Go to 'control panel', 'devices and printers', 'add a printer' and select add a local printer:
+1\. Gehen Sie zu „Systemsteuerung“, „Geräte und Drucker“, „Drucker hinzufügen“ und wählen Sie „Lokalen Drucker hinzufügen“:
 
 ![](../../.gitbook/assets/a1.png)
 
-2\. Choose a printer port, click use an existing port, USB001
+2\. Wählen Sie einen Druckeranschluss und klicken Sie auf „Vorhandenen Anschluss verwenden“, USB001
 
 ![](../../.gitbook/assets/a2.png)
 
-3\. Choose a printer from the list and select Generic / Text only and click next.
+3\. Wählen Sie einen Drucker aus der Liste aus, wählen Sie „Allgemein/Nur Text“ und klicken Sie auf „Weiter“.
 
 ![](../../.gitbook/assets/a3.png)
 
-4\. Type a printer name and click next:
+4\. Geben Sie einen Druckernamen ein und klicken Sie auf „Weiter“:
 
 {% hint style="info" %}
-Use simple naming conventions for easy servicing in the future. i.e. Kitchen, Pizza, Drinks
+Verwenden Sie einfache Namenskonventionen für eine einfache Wartung in der Zukunft. d.h. Küche, Pizza, Getränke
 {% endhint %}
 
 ![](../../.gitbook/assets/a4.png)
 
-5\. Provide a name of the printer if you want to share it and click next
+5\. Geben Sie einen Namen für den Drucker ein, wenn Sie ihn freigeben möchten, und klicken Sie auf „Weiter“.
 
 ![](../../.gitbook/assets/a5.png)
 
-6\. Print a test page to check your printer is working properly and click finish if the test print worked satisfactorily.
+6\. Drucken Sie eine Testseite, um zu überprüfen, ob Ihr Drucker ordnungsgemäß funktioniert, und klicken Sie auf „Fertig stellen“, wenn der Testdruck zufriedenstellend funktioniert hat.
 
 ![](../../.gitbook/assets/a6.png)
 
-7\. Your printer is now setup.
+7\. Ihr Drucker ist jetzt eingerichtet.
 
 {% hint style="info" %}
-Still need help setting up for receipt printer? Start a chat with our support team at restoflow.ch or book a set-up appointment with us [here](https://calendly.com/restoflow).
+Benötigen Sie noch Hilfe bei der Einrichtung des Belegdruckers? Starten Sie einen Chat mit unserem Support-Team unter restoflow.ch oder buchen Sie [hier](https://calendly.com/restoflow) einen Einrichtungstermin mit uns.
 {% endhint %}

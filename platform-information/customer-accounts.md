@@ -1,35 +1,35 @@
 ---
 description: >-
-  Learn about the many types of customer accounts available and how they work
-  within the platform
+  Erfahren Sie mehr über die vielen verfügbaren Arten von Kundenkonten und wie sie funktionieren
+  innerhalb der Plattform
 ---
 
-# Customer Accounts
+# Kundenkonten
 
-Customers include people who have placed an order at your online store or created an account. From the restaurant perspective, it's about being able to track and understand your customers. For customers, having an account means their information is saved permanently across devices. This includes delivery data, customer information and past orders. This information will be used to pre-fill as many steps of their ordering process, resulting in a more seamless repeat purchase experience.
+Zu den Kunden zählen Personen, die in Ihrem Online-Shop eine Bestellung aufgegeben oder ein Konto erstellt haben. Aus Restaurantsicht geht es darum, Ihre Kunden verfolgen und verstehen zu können. Für Kunden bedeutet ein Konto, dass ihre Informationen dauerhaft auf allen Geräten gespeichert werden. Dazu gehören Lieferdaten, Kundeninformationen und vergangene Bestellungen. Diese Informationen werden verwendet, um möglichst viele Schritte ihres Bestellvorgangs vorab auszufüllen, was zu einem reibungsloseren Wiederholungskauferlebnis führt.
 
-## Types Of Customers
+## Arten von Kunden
 
-#### Guest Customers
+#### Gastkunden
 
-Guest customers are created whenever an order is placed by a user who has not signed in. We attempt to track guest customers by matching their name, phone and email address. When a guest places an order, if those 3 pieces of information match any past customers, the old customer will be updated instead of a new one being created.
+Gastkunden werden immer dann erstellt, wenn eine Bestellung von einem Benutzer aufgegeben wird, der sich nicht angemeldet hat. Wir versuchen, Gastkunden zu verfolgen, indem wir ihren Namen, ihre Telefonnummer und ihre E-Mail-Adresse abgleichen. Wenn ein Gast eine Bestellung aufgibt und diese drei Informationen mit früheren Kunden übereinstimmen, wird der alte Kunde aktualisiert, anstatt dass ein neuer erstellt wird.
 
-#### Logged In Customers
+#### Angemeldete Kunden
 
-A logged in customer is anyone who has used the login / sign up button to create an account. When a customer signs up for the first time their details are logged into your customer dashboard. Any subsequent logins or orders will also update their details. Customers who log in will have their order history permanently accessible to them.
+Ein eingeloggter Kunde ist jeder, der über die Schaltfläche „Anmelden/Registrieren“ ein Konto erstellt hat. Wenn sich ein Kunde zum ersten Mal anmeldet, werden seine Daten in Ihrem Kunden-Dashboard protokolliert. Bei späteren Anmeldungen oder Bestellungen werden die Daten ebenfalls aktualisiert. Kunden, die sich anmelden, haben jederzeit Zugriff auf ihre Bestellhistorie.
 
-Customers create accounts using:
+Kunden erstellen Konten mit:
 
 * E-Mail
 * Facebook&#x20;
 * Google
 
-## Guides
+## Anleitungen
 
 {% content-ref url="../how-to-guides/setup-facebook-login.md" %}
 [setup-facebook-login.md](../how-to-guides/setup-facebook-login.md)
 {% endcontent-ref %}
 
-## Caveats & Known Issues
+## Vorbehalte und bekannte Probleme
 
-* Google and Facebook log in cannot be used on a mobile app as they have disabled it from being used in such a medium.
+* Die Anmeldung bei Google und Facebook kann nicht in einer mobilen App verwendet werden, da die Verwendung in einem solchen Medium deaktiviert ist.

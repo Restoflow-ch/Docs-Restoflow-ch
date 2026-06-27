@@ -1,46 +1,46 @@
-# Managing Store Hours: Extended with Overlap
+# Ladenöffnungszeiten verwalten: Erweitert mit Überlappung
 
 {% embed url="https://youtu.be/CkxdQi8x87Y" %}
 
-### How to Set Regular Store Hours
+### So legen Sie die regulären Ladenöffnungszeiten fest
 
-1. From your dashboard, go to Settings > Locations > Operating.
-2. For standard store hours (e.g., 9:00 AM to 9:00 PM), set:
-   * Start Time: `09:00`
-   * End Time: `21:00`
-   * Remember, the system uses 24-hour format (e.g., 21:00 = 9:00 PM).
-3. Repeat this for each weekday your store operates.
+1. Gehen Sie in Ihrem Dashboard zu Einstellungen > Standorte > Betrieb.
+2. Stellen Sie für Standard-Geschäftszeiten (z. B. 9:00 bis 21:00 Uhr) Folgendes ein:
+* Startzeit: `09:00`
+* Endzeit: `21:00`
+* Denken Sie daran, dass das System das 24-Stunden-Format verwendet (z. B. 21:00 = 21:00 Uhr).
+3. Wiederholen Sie dies für jeden Wochentag, an dem Ihr Geschäft geöffnet ist.
 
-### How to Set Overnight or Overlapping Store Hours
+### So legen Sie über Nacht geöffnete oder sich überschneidende Ladenöffnungszeiten fest
 
-If your store runs past midnight (e.g., 9:00 AM to 3:00 AM), you need two separate time slots to cover the operating period.
+Wenn Ihr Geschäft nach Mitternacht geöffnet ist (z. B. von 9:00 bis 3:00 Uhr), benötigen Sie zwei separate Zeitfenster, um den Betriebszeitraum abzudecken.
 
-Example:
+Beispiel:
 
-* Saturday (Day Slot): Start: `09:00` End: `23:59`
-* Sunday (Midnight Slot): Start: `00:00` End: `03:00`
+* Samstag (Tagesslot): Beginn: `09:00` Ende: `23:59`
+* Sonntag (Mitternachtsslot): Beginn: `00:00` Ende: `03:00`
 
-Repeat this process for each day with overlapping hours (e.g., Friday–Saturday, Saturday–Sunday).
+Wiederholen Sie diesen Vorgang für jeden Tag mit überlappenden Stunden (z. B. Freitag–Samstag, Samstag–Sonntag).
 
-### Adding Multiple Store Hours in One Day
+### Hinzufügen mehrerer Ladenöffnungszeiten an einem Tag
 
-You can add multiple store hours within the same day. For example:
+Sie können am selben Tag mehrere Öffnungszeiten hinzufügen. Zum Beispiel:
 
-* Lunch Hours: 09:00–14:00
-* Dinner Hours: 17:00–23:00
+* Mittagspause: 09:00–14:00 Uhr
+* Öffnungszeiten des Abendessens: 17:00–23:00 Uhr
 
-To add another set of store hours:
+So fügen Sie weitere Geschäftsöffnungszeiten hinzu:
 
-* Click Add Time Slot
-* Enter the additional start and end times.
+* Klicken Sie auf Zeitfenster hinzufügen
+* Geben Sie die zusätzlichen Start- und Endzeiten ein.
 
-### Verifying Your Store Hours
+### Überprüfung Ihrer Geschäftszeiten
 
-Once saved:
+Nach dem Speichern:
 
-* Open your store’s front-end ordering page.
-* Confirm that the displayed hours match your operating schedule.
-* Ensure overlapping schedules appear correctly (e.g., customers can order past midnight).
+* Öffnen Sie die Front-End-Bestellseite Ihres Shops.
+* Bestätigen Sie, dass die angezeigten Stunden mit Ihrem Betriebsplan übereinstimmen.
+* Stellen Sie sicher, dass sich überschneidende Zeitpläne korrekt angezeigt werden (z. B. können Kunden nach Mitternacht bestellen).
 
 
 
@@ -49,5 +49,5 @@ Once saved:
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

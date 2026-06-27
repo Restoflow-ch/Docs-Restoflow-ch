@@ -1,67 +1,68 @@
 ---
 description: >-
-  Printer shows a disconnected status and is unable to print.  Printer is not
-  connected or not producing output.
+  Der Drucker zeigt den Status „Getrennt“ an und kann nicht drucken.  Drucker ist nicht
+  angeschlossen ist oder keine Ausgabe erzeugt.
 ---
 
-# Printer Troubleshooting Procedure
+# Verfahren zur Drucker-Fehlerbehebung
 
-#### Before You Begin
+#### Bevor Sie beginnen
 
-* First, determine the connectivity type between the printer and the device. It can be:
-  * Bluetooth
-  * Ethernet
-  * USB
-  * Wi-Fi<br>
-* You can identify whether the device is disconnected by checking:
-  * The Online Dashboard, or
-  * The Windows Control Panel<br>
+* Bestimmen Sie zunächst den Konnektivitätstyp zwischen dem Drucker und dem Gerät. Es kann sein:
+* Bluetooth
+* Ethernet
+* USB
+* WLAN<br>
+* Sie können feststellen, ob die Verbindung zum Gerät unterbrochen ist, indem Sie Folgendes überprüfen:
+* Das Online-Dashboard, oder
+* Die Windows-Systemsteuerung<br>
 
-#### Checking Printer Status (Online Dashboard)
+#### Überprüfen des Druckerstatus (Online-Dashboard)
 
-1. Log in as admin at admin.restoflow.ch.
-2.  Locate the account you want to check and click "**Manage**".
+1. Melden Sie sich als Administrator unter admin.restoflow.ch an.
+2. Suchen Sie das Konto, das Sie überprüfen möchten, und klicken Sie auf „**Verwalten**“.
 
-    ![](<../.gitbook/assets/unknown (39).png>)
-3.  From the left panel, open the "**Settings**" dashboard.
+![](<../.gitbook/assets/unknown (39).png>)
+3. Öffnen Sie im linken Bereich das Dashboard „**Einstellungen**“.
 
-    ![](<../.gitbook/assets/unknown (38).png>)
-4.  Click "Receipt Printing".
+![](<../.gitbook/assets/unknown (38).png>)
+4. Klicken Sie auf „Quittungsdruck“.
 
-    ![](<../.gitbook/assets/unknown (37).png>)
-5. Review the printer .
-   * If the printer shows Disconnected, it is not currently connected to online ordering.
+![](<../.gitbook/assets/unknown (37).png>)
+5. Überprüfen Sie den Drucker.
+* Wenn der Drucker „Getrennt“ anzeigt, ist er derzeit nicht mit der Online-Bestellung verbunden.
 
-**If Printer Shows Disconnected**
+**Wenn der Drucker „Getrennt“ anzeigt**
 
-* Ensure the PushPrinter app is running on the device linked to the printer.
-* Restart or relaunch the device to re-establish connection
+* Stellen Sie sicher, dass die PushPrinter-App auf dem mit dem Drucker verbundenen Gerät ausgeführt wird.
+* Starten Sie das Gerät neu oder starten Sie es neu, um die Verbindung wiederherzustellen
 
 
 
-#### Checking Printer Status (Windows Control Panel)
+#### Überprüfen des Druckerstatus (Windows-Systemsteuerung)
 
-1. Open Control Panel > All Control Panel Items > Devices and Printers.
-2.  Locate the printer in the list.
+1. Öffnen Sie Systemsteuerung > Alle Systemsteuerungselemente > Geräte und Drucker.
+2. Suchen Sie den Drucker in der Liste.
 
-    * If the printer is grayed out, it means the device is not detecting it.
+* Wenn der Drucker ausgegraut ist, bedeutet dies, dass das Gerät ihn nicht erkennt.
 
-    ![](<../.gitbook/assets/unknown (40).png>)
+![](<../.gitbook/assets/unknown (40).png>)
 
-**Fixing the Printer Connection**
+**Reparieren der Druckerverbindung**
 
-1. Remove or Reconfigure the Disconnected Printer.
-   1.  **To remove the printer**:       \
-       Click the printer → Remove Printer
+1. Entfernen Sie den getrennten Drucker oder konfigurieren Sie ihn neu.
+1. **So entfernen Sie den Drucker**:
+       \
+Klicken Sie auf den Drucker → Drucker entfernen
 
-       ![](<../.gitbook/assets/unknown (44).png>)
-   2.  **To reconfigure the printer**:\
-       Right-click the printer → Printer Properties → Ports.\
-       Select the correct port based on the printer’s connectivity type.
+![](<../.gitbook/assets/unknown (44).png>)
+2. **Um den Drucker neu zu konfigurieren**:\
+Klicken Sie mit der rechten Maustaste auf den Drucker → Druckereigenschaften → Anschlüsse.\
+Wählen Sie den richtigen Anschluss basierend auf dem Konnektivitätstyp des Druckers aus.
 
-       ![](<../.gitbook/assets/unknown (45).png>)
-2. Reinstall the Printer
-   * If the printer still does not work after reconfiguring, reinstall it.
-   * For detailed installation steps, follow the appropriate printer installation guides provided in the links.
+![](<../.gitbook/assets/unknown (45).png>)
+2. Installieren Sie den Drucker neu
+* Wenn der Drucker nach der Neukonfiguration immer noch nicht funktioniert, installieren Sie ihn neu.
+* Für detaillierte Installationsschritte befolgen Sie die entsprechenden Installationsanleitungen für den Drucker, die in den Links bereitgestellt werden.
 
 {% embed url="https://support.restoflow.ch/getting-started/hardware-requirements-1#printers" %}

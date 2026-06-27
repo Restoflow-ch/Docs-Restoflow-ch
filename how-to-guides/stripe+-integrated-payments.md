@@ -1,32 +1,32 @@
 ---
 description: >-
-  Learn how to setup our integrated Stripe payments feature, allowing you to
-  manage your payments, refunds and payouts inside of your admin page.
+  Erfahren Sie, wie Sie unsere integrierte Stripe-Zahlungsfunktion einrichten
+  Verwalten Sie Ihre Zahlungen, Rückerstattungen und Auszahlungen auf Ihrer Admin-Seite.
 ---
 
-# 🔐 Stripe+ Integrated Payments
+# 🔐 Stripe+ Integrierte Zahlungen
 
-## About Stripe
+## Über Stripe
 
-You can accept credit cards, Google pay and Apple pay online using Stripe. It is currently supported in numerous countries with a variety of currencies, which can be checked [here](https://stripe.com/global).
+Mit Stripe können Sie Kreditkarten, Google Pay und Apple Pay online akzeptieren. Es wird derzeit in zahlreichen Ländern mit verschiedenen Währungen unterstützt, was [hier](https://stripe.com/global) überprüft werden kann.
 
-## **About the Stripe+ Feature**
+## **Über die Stripe+-Funktion**
 
-Get the most from your online ordering system and enable Stripe+ to unlock multiple additional features inside your account.&#x20;
+Holen Sie das Beste aus Ihrem Online-Bestellsystem heraus und aktivieren Sie Stripe+, um mehrere zusätzliche Funktionen in Ihrem Konto freizuschalten.&#x20;
 
-Benefits of using our Stripe+ solution are as follows;
+Die Verwendung unserer Stripe+-Lösung bietet folgende Vorteile:
 
-* **See more detail** - full details of your payments right inside of your ordering dashboard.
-* **Partial refunds** - in addition to full refunds, you can action partial refunds right from an order.
-* **Payout reports** - Download detailed payout reports from your dashboard.
-* **Payments Screen** - Additional payments summary screen for better visibility of your payments.
-* **Managed fraud protection** - proactive management by our team to review, update and manage existing and potential fraud threats.
-* **Industry Specific -** Custom Fraud protection rules built for the hospitality industry.
-* **Get paid features for free -** Premium Stripe Radar features enabled on your account without the additional costs.
-* **Bot management -** Additional features to proactively reduce the growing threat of malicious bots.
+* **Weitere Details anzeigen** – vollständige Details zu Ihren Zahlungen direkt in Ihrem Bestell-Dashboard.
+* **Teilweise Rückerstattungen** – zusätzlich zur vollständigen Rückerstattung können Sie auch Teilerstattungen direkt bei einer Bestellung veranlassen.
+* **Auszahlungsberichte** – Laden Sie detaillierte Auszahlungsberichte von Ihrem Dashboard herunter.
+* **Zahlungsbildschirm** – Zusätzlicher Zahlungszusammenfassungsbildschirm für eine bessere Sichtbarkeit Ihrer Zahlungen.
+* **Verwalteter Betrugsschutz** – proaktives Management durch unser Team zur Überprüfung, Aktualisierung und Verwaltung bestehender und potenzieller Betrugsbedrohungen.
+* **Branchenspezifisch –** Maßgeschneiderte Regeln zum Schutz vor Betrug, die für das Gastgewerbe entwickelt wurden.
+* **Erhalten Sie kostenpflichtige Funktionen kostenlos –** Premium-Stripe-Radar-Funktionen sind in Ihrem Konto ohne zusätzliche Kosten aktiviert.
+* **Bot-Management –** Zusätzliche Funktionen zur proaktiven Reduzierung der wachsenden Bedrohung durch bösartige Bots.
 
 {% content-ref url="setup-integrated-stripe-payments.md" %}
-[setup-integrated-stripe-payments.md](setup-integrated-stripe-payments.md)
+[setup-integrated-stripe-zahlungen.md](setup-integrated-stripe-payments.md)
 {% endcontent-ref %}
 
 {% content-ref url="using-stripe-integrated.md" %}
@@ -37,5 +37,5 @@ Benefits of using our Stripe+ solution are as follows;
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

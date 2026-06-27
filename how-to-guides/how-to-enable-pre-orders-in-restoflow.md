@@ -1,61 +1,61 @@
 ---
 description: >-
-  Enabling pre-orders allows your customers to place orders in advance, giving
-  them the flexibility to select a preferred pickup or delivery time.
+  Durch die Aktivierung von Vorbestellungen können Ihre Kunden Bestellungen im Voraus aufgeben
+  Sie haben die Flexibilität, eine bevorzugte Abhol- oder Lieferzeit auszuwählen.
 ---
 
-# How to Enable Pre-Orders in Restoflow
+# So aktivieren Sie Vorbestellungen in Restoflow
 
-Here’s how to set up pre-orders and improve convenience for your customers.<br>
+So richten Sie Vorbestellungen ein und verbessern den Komfort für Ihre Kunden.<br>
 
 {% embed url="https://www.youtube.com/watch?v=RGz-Q8cdzDg" %}
 
-### Step1: Enable Pre-Orders for Your Menu
+### Schritt 1: Vorbestellungen für Ihr Menü aktivieren
 
-1. Log in to [Restoflow](https://restoflow.ch/)  and navigate to your **Dashboard.**
-2. Go to the **Menu** section and select the menu for which you want to enable pre-orders.
-3. Scroll down to the **Pre-Order Settings** and toggle the option to **Enable Pre-Orders**.
-4. Define how many days in advance customers can place pre-orders by configuring the **Pre-Order Cut-Off Time**. This will help prevent last-minute orders.
+1. Melden Sie sich bei [Restoflow](https://restoflow.ch/) an und navigieren Sie zu Ihrem **Dashboard.**
+2. Gehen Sie zum Abschnitt **Menü** und wählen Sie das Menü aus, für das Sie Vorbestellungen aktivieren möchten.
+3. Scrollen Sie nach unten zu **Vorbestellungseinstellungen** und schalten Sie die Option auf **Vorbestellungen aktivieren** um.
+4. Legen Sie fest, wie viele Tage im Voraus Kunden Vorbestellungen aufgeben können, indem Sie die **Vorbestellungsschlusszeit** konfigurieren. Dies hilft, Last-Minute-Bestellungen zu vermeiden.
 
-> **Note:** Be sure to click Save after configuring your settings.
+> **Hinweis:** Klicken Sie unbedingt auf „Speichern“, nachdem Sie Ihre Einstellungen konfiguriert haben.
 
-### Step 2: Adjust Service Options for Pickup, Delivery, and Dine-in
+### Schritt 2: Passen Sie die Serviceoptionen für Abholung, Lieferung und Abendessen an
 
-1. Go to **Settings** > **Services** in your dashboard.
-2. Ensure that pre-orders are supported for all service types (Pickup, Delivery, and Dine-In).
-3. For each service, click to edit and then go to **Order Timing.**
-4. Scroll down to enable **Later Orders**, and define which days and hours pre-orders can be accepted.
-5. Set up **Time Intervals** to allow customers to choose their preferred pickup or delivery time.
+1. Gehen Sie in Ihrem Dashboard zu **Einstellungen** > **Dienste**.
+2. Stellen Sie sicher, dass Vorbestellungen für alle Servicearten (Abholung, Lieferung und Abendessen) unterstützt werden.
+3. Klicken Sie für jeden Service auf „Bearbeiten“ und gehen Sie dann zu **Bestellzeitpunkt**.
+4. Scrollen Sie nach unten, um **Spätere Bestellungen** zu aktivieren, und legen Sie fest, an welchen Tagen und zu welchen Stunden Vorbestellungen angenommen werden können.
+5. Richten Sie **Zeitintervalle** ein, damit Kunden ihre bevorzugte Abhol- oder Lieferzeit wählen können.
 
-> **Pro Tip**: Use the Order Offset feature to ensure your team has enough time to prepare orders before the scheduled pickup or delivery time.
+> **Profi-Tipp**: Nutzen Sie die Funktion „Order Offset“, um sicherzustellen, dass Ihr Team genügend Zeit hat, Bestellungen vor der geplanten Abhol- oder Lieferzeit vorzubereiten.
 
-### Step 3: Manage High Demand with Order Limits
+### Schritt 3: Bewältigen Sie die hohe Nachfrage mit Bestelllimits
 
-1. In the **Order Timing** section, configure **Limit Orders Per Time Interval** to control the number of pre-orders accepted within specific time slots. This is especially useful during peak hours or special events when you want to manage demand effectively.
+1. Konfigurieren Sie im Abschnitt **Bestellzeitpunkt** die Option **Bestellungen pro Zeitintervall begrenzen**, um die Anzahl der Vorbestellungen zu steuern, die innerhalb bestimmter Zeitfenster angenommen werden. Dies ist besonders während der Spitzenzeiten oder bei besonderen Ereignissen nützlich, wenn Sie die Nachfrage effektiv verwalten möchten.
 
-> **Remember**: Once you’ve made all the changes, click Save to apply the settings.
+> **Denken Sie daran**: Wenn Sie alle Änderungen vorgenommen haben, klicken Sie auf Speichern, um die Einstellungen zu übernehmen.
 
-### Step 4: Test Your Pre-Order Setup
+### Schritt 4: Testen Sie Ihr Vorbestellungs-Setup
 
-1. Visit your **Online Store** and place a test pre-order to verify that everything is working correctly.
-2. Ensure customers can select the date and time based on your pre-order settings.<br>
+1. Besuchen Sie Ihren **Online-Shop** und tätigen Sie eine Test-Vorbestellung, um zu überprüfen, ob alles ordnungsgemäß funktioniert.
+2. Stellen Sie sicher, dass Kunden das Datum und die Uhrzeit basierend auf Ihren Vorbestellungseinstellungen auswählen können.<br>
 
-### Additional Resources
+### Zusätzliche Ressourcen
 
-* How to Configure Services in Restoflow
-* Managing Your Online Store
-* How to Set Up Order Timing
+* So konfigurieren Sie Dienste in Restoflow
+* Verwaltung Ihres Online-Shops
+* So richten Sie den Bestellzeitpunkt ein
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Set Maximum Orders Per Time Interval** - [https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval](https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval)
-2. **Managing Orders & Bookings** - [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
-3. **Configure Your Services (Order Timing)** - [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
+1. **Maximale Bestellungen pro Zeitintervall festlegen** – [https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval](https://support.restoflow.ch/how-to-guides/set-maximum-orders-per-time-interval)
+2. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **Konfigurieren Sie Ihre Dienste (Bestellzeitpunkt)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

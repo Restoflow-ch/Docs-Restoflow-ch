@@ -1,112 +1,112 @@
 ---
 description: >-
-  Learn what devices and printers you can use with our system. We also have a
-  list of recommended devices
+  Erfahren Sie, welche Geräte und Drucker Sie mit unserem System verwenden können. Wir haben auch eine
+  Liste der empfohlenen Geräte
 ---
 
-# Hardware Requirements
+# Hardwareanforderungen
 
-## Hardware Requirements
+## Hardwareanforderungen
 
-Welcome to the Restoflow Hardware Requirements page. Having the right hardware setup is crucial for the smooth operation of your restaurant's online ordering system. Below are our updated recommendations for a seamless experience in 2024.
+Willkommen auf der Seite „Restoflow-Hardwareanforderungen“. Für den reibungslosen Betrieb des Online-Bestellsystems Ihres Restaurants ist die richtige Hardware-Einrichtung von entscheidender Bedeutung. Nachfolgend finden Sie unsere aktualisierten Empfehlungen für ein nahtloses Erlebnis im Jahr 2024.
 
-### Stable Internet Connection
+### Stabile Internetverbindung
 
-A stable internet connection is essential for our cloud-based system. Here are some tips:
+Eine stabile Internetverbindung ist für unser cloudbasiertes System unerlässlich. Hier einige Tipps:
 
-* **Dedicated Internet:** Use a dedicated Internet connection to ensure reliability.
-* **Backup Connection:** Keep a 5G mobile internet connection as a backup. In case of interruptions, use your phone in hotspot mode.
-* **Primary 5G Connection:** Consider exclusively using a 5G connection in areas with reliable mobile networks.
+* **Dediziertes Internet:** Verwenden Sie eine dedizierte Internetverbindung, um die Zuverlässigkeit zu gewährleisten.
+* **Backup-Verbindung:** Behalten Sie eine mobile 5G-Internetverbindung als Backup. Bei Unterbrechungen nutzen Sie Ihr Telefon im Hotspot-Modus.
+* **Primäre 5G-Verbindung:** Erwägen Sie die ausschließliche Verwendung einer 5G-Verbindung in Gebieten mit zuverlässigen Mobilfunknetzen.
 
 {% hint style="warning" %}
-**Firewall Settings:** Ensure restoflow.ch is white-listed on your firewall to prevent connection issues.
+**Firewall-Einstellungen:** Stellen Sie sicher, dass restoflow.ch in Ihrer Firewall auf der Whitelist steht, um Verbindungsprobleme zu vermeiden.
 {% endhint %}
 
-## Computer or Tablet
+## Computer oder Tablet
 
-A device with internet access is essential to manage your online store and orders effectively. Tablets or larger devices are preferred, and we recommend a screen size of 9" or larger. While phone access is possible, it may be limiting.
+Für die effektive Verwaltung Ihres Online-Shops und Ihrer Bestellungen ist ein Gerät mit Internetzugang unerlässlich. Tablets oder größere Geräte werden bevorzugt und wir empfehlen eine Bildschirmgröße von 9 Zoll oder mehr. Der Telefonzugriff ist zwar möglich, kann jedoch einschränkend sein.
 
-#### Recommended Devices:
+#### Empfohlene Geräte:
 
-* **Android Tablets:** Latest version of Android (compatibility from Android 1.5)
-* **Windows Tablets/Computers:** Windows 11 (Compatibility for Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1 and Windows 10)
-* **Linux:** Requires NodeJS
+* **Android-Tablets:** Neueste Version von Android (Kompatibilität ab Android 1.5)
+* **Windows-Tablets/Computer:** Windows 11 (Kompatibilität für Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1 und Windows 10)
+* **Linux:** Erfordert NodeJS
 
-#### Recommended Computers & Tablets
+#### Empfohlene Computer und Tablets
 
-We highly recommend using an Android device or Windows tablet/computer. Windows provides the greatest flexibility and allows wireless order printing while using the order and table booking dashboard.
+Wir empfehlen dringend die Verwendung eines Android-Geräts oder eines Windows-Tablets/Computers. Windows bietet die größte Flexibilität und ermöglicht das drahtlose Drucken von Bestellungen bei Verwendung des Bestell- und Tischreservierungs-Dashboards.
 
-**Worldwide Device Recommendations:**
+**Weltweite Geräteempfehlungen:**
 
-| Brand         | Model              | Type    | Notes                                       |
+| Marke | Modell | Geben Sie | ein Notizen |
 | ------------- | ------------------ | ------- | ------------------------------------------- |
-| **Lenovo**    | M10 Series         | Android | Reliable, versatile, good for various tasks |
-| **Samsung**   | Galaxy Tab S7      | Android | High performance, excellent display         |
-| **Samsung**   | Galaxy Tab A7 Lite | Android | Affordable, lightweight                     |
-| **HP**        | Envy x2            | Windows | Flexible, good battery life                 |
-| **Microsoft** | Surface Pro 7      | Windows | High performance, versatile                 |
-| **Microsoft** | Surface Go 3       | Windows | Portable, budget-friendly                   |
-| **Lenovo**    | Yoga Duet 7i       | Windows | 2-in-1, powerful and flexible               |
-| **Chuwi**     | Hi10 X             | Windows | Affordable, decent performance              |
+| **Lenovo** | M10-Serie | Android | Zuverlässig, vielseitig, gut für verschiedene Aufgaben |
+| **Samsung** | Galaxy Tab S7 | Android | Hohe Leistung, hervorragende Anzeige |
+| **Samsung** | Galaxy Tab A7 Lite | Android | Erschwinglich, leicht |
+| **HP** | Neid x2 | Windows | Flexibel, gute Akkulaufzeit |
+| **Microsoft** | Surface Pro 7 | Windows | Leistungsstark, vielseitig |
+| **Microsoft** | Surface Go 3 | Windows | Tragbar, preisgünstig |
+| **Lenovo** | Yoga Duett 7i | Windows | 2-in-1, leistungsstark und flexibel |
+| **Chuwi** | Hi10 X | Windows | Erschwinglich, ordentliche Leistung |
 
 ***
 
-## Printers
+## Drucker
 
 {% hint style="info" %}
-Printers are optional but useful for managing orders.  We highly recommend using a thermal receipt printer.
+Drucker sind optional, aber nützlich für die Verwaltung von Bestellungen.  Wir empfehlen dringend die Verwendung eines Thermobondruckers.
 {% endhint %}
 
-#### From Windows
+#### Von Windows
 
-You can print orders using any printer with drivers installed on a Windows PC. If you can print from an application like Word or Notepad, it's compatible with our service.
+Sie können Bestellungen mit jedem Drucker drucken, auf dem auf einem Windows-PC Treiber installiert sind. Wenn Sie aus einer Anwendung wie Word oder Notepad drucken können, ist diese mit unserem Service kompatibel.
 
-#### From Android
+#### Von Android
 
-You can use any ESCPOS printer that is accessible via the network with an IP address (i.e., Ethernet, Wi-Fi) or connect via Bluetooth.
+Sie können jeden ESCPOS-Drucker verwenden, der über das Netzwerk mit einer IP-Adresse (z. B. Ethernet, WLAN) erreichbar ist, oder eine Verbindung über Bluetooth herstellen.
 
-### Recommended Printers
+### Empfohlene Drucker
 
-We recommend printers from [PushPrinter](https://www.pushprinter.com) as we trust and endorse these devices. Additionally, you can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android.
+Wir empfehlen Drucker von [PushPrinter](https://www.pushprinter.com), da wir diesen Geräten vertrauen und sie unterstützen. Darüber hinaus können Sie jeden Drucker mit Windows- oder Linux-Treibern oder jeden Drucker, der mit ESCPOS funktioniert, unter Android verwenden.
 
-**Branded Printers (from lowest to highest price):**
+**Markendrucker (vom niedrigsten zum höchsten Preis):**
 
-* PushPrinter PX-90 (Ethernet or Bluetooth)
-* Epson TM-T20 (USB or Ethernet)
+* PushPrinter PX-90 (Ethernet oder Bluetooth)
+* Epson TM-T20 (USB oder Ethernet)
 * Epson TM-M30 (Bluetooth)
-* Epson TM-T82-II-i (USB and Ethernet, supporting many connected devices)
+* Epson TM-T82-II-i (USB und Ethernet, unterstützt viele angeschlossene Geräte)
 
-**Note:** We do NOT recommend Star printers for use with Android. If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+**Hinweis:** Wir empfehlen Star-Drucker NICHT für die Verwendung mit Android. Wenn Sie einen neuen Drucker kaufen möchten, empfehlen wir Ihnen, zum jetzigen Zeitpunkt auf Star-Drucker zu verzichten.
 
-**Other Printers:**
+**Andere Drucker:**
 
 {% hint style="warning" %}
-We do NOT recommend Star printers for use with Android.  If you are looking to purchase a new printer, we suggest avoiding Star printers at this point in time.
+Wir empfehlen Star-Drucker NICHT für die Verwendung mit Android.  Wenn Sie einen neuen Drucker kaufen möchten, empfehlen wir Ihnen, zum jetzigen Zeitpunkt auf Star-Drucker zu verzichten.
 {% endhint %}
 
-* Star Micronics TSP143 (Bluetooth, USB, or Wi-Fi)
+* Star Micronics TSP143 (Bluetooth, USB oder Wi-Fi)
 
-For more detailed information and step-by-step guides, visit the following pages:
+Ausführlichere Informationen und Schritt-für-Schritt-Anleitungen finden Sie auf den folgenden Seiten:
 
-* [How to Optimize Your Internet Connection](https://support.restoflow.ch/internet-optimization)
-* [Choosing the Best Printer for Your Restaurant](https://support.restoflow.ch/printer-guide)
+* [So optimieren Sie Ihre Internetverbindung](https://support.restoflow.ch/internet-optimization)
+* [Auswahl des besten Druckers für Ihr Restaurant](https://support.restoflow.ch/printer-guide)
 
-## Ideal Setup
+## Ideales Setup
 
 <figure><img src="../.gitbook/assets/ad6d4af5a725ac939ecf89824d29f97c.webp" alt="Windows-Android-Online-Ordering-Restaurant-System"><figcaption><p>Windows/Adnroid tablet connected to Thermal Kitchen reciept printer is an ideal setup</p></figcaption></figure>
 
 ***
 
-### Frequently Asked Questions (FAQs)
+### Häufig gestellte Fragen (FAQs)
 
-**Q: Can I use a mobile phone for managing orders?** A: Yes, but we recommend using a tablet or a larger device for a better experience.
+**F: Kann ich ein Mobiltelefon zum Verwalten von Bestellungen verwenden?** A: Ja, wir empfehlen jedoch die Verwendung eines Tablets oder eines größeren Geräts für ein besseres Erlebnis.
 
-**Q: What should I do if my internet connection is unstable?** A: Consider using a 5G mobile connection as a backup or exclusively if reliable.
+**F: Was soll ich tun, wenn meine Internetverbindung instabil ist?** A: Erwägen Sie die Verwendung einer 5G-Mobilfunkverbindung als Backup oder ausschließlich, wenn diese zuverlässig ist.
 
-For further assistance, feel free to [contact us](https://www.restoflow.ch/contact/).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://www.restoflow.ch/contact/).
 
-Explore more at [restoflow.ch](https://www.restoflow.ch).
+Erfahren Sie mehr unter [restoflow.ch](https://www.restoflow.ch).
 
 ***
 
-Next: [Getting Started](https://support.restoflow.ch/getting-started)
+Weiter: [Erste Schritte](https://support.restoflow.ch/getting-started)

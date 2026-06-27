@@ -1,49 +1,49 @@
 ---
 description: >-
-  Learn how to get started and use our reseller platform. Learn how to create
-  new accounts and manage your restaurants
+  Erfahren Sie, wie Sie loslegen und unsere Reseller-Plattform nutzen können. Erfahren Sie, wie man erstellt
+  Erstellen Sie neue Konten und verwalten Sie Ihre Restaurants
 ---
 
-# Getting Started
+# Erste Schritte
 
-## Starting The Setup Process
+## Starten des Einrichtungsvorgangs
 
-1. Complete this form [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
-2. We will setup your billing account and contact you for the deposit
-3. Once the deposit is paid, we will set up your account
-4. Finally, we will provide you instructions to connect your domain to your reseller platform
+1. Füllen Sie dieses Formular aus [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
+2. Wir richten Ihr Rechnungskonto ein und kontaktieren Sie bezüglich der Anzahlung
+3. Sobald die Anzahlung geleistet ist, richten wir Ihr Konto ein
+4. Abschließend stellen wir Ihnen Anweisungen zur Verbindung Ihrer Domain mit Ihrer Reseller-Plattform zur Verfügung
 
-## Understanding The Reseller Platform
+## Die Reseller-Plattform verstehen
 
-Your reseller platform consists of 3 parts
+Ihre Reseller-Plattform besteht aus 3 Teilen
 
-* Admin dashboard - located at admin.your-domain.com
-* Online stores - located at \_\_name\_\_.your-domain.com
-* Landing pages - located at \_\_name\_\_.your-domain.com
+* Admin-Dashboard – befindet sich unter admin.your-domain.com
+* Online-Shops – unter \_\_name\_\_.your-domain.com
+* Zielseiten – unter \_\_name\_\_.your-domain.com
 
-## Accounts, O**rganizations** & Restaurants
+## Konten, Organisationen** und Restaurants
 
-To work with the reseller platform, it's important to understand the structure of accounts. Every account created under your reseller platform is an **organization**. When you create an account, the email address you register it with is the **admin user** of that organization.
+Um mit der Reseller-Plattform arbeiten zu können, ist es wichtig, die Struktur der Konten zu verstehen. Jedes unter Ihrer Reseller-Plattform erstellte Konto ist eine **Organisation**. Wenn Sie ein Konto erstellen, ist die E-Mail-Adresse, mit der Sie es registrieren, die des **Administratorbenutzers** dieser Organisation.
 
-An organization can have one or more **restaurants** under it. Each of these restaurants has their own **online store** website. Every organization can have a single **landing page** website that links to all the restaurants within that organization.
+Eine Organisation kann ein oder mehrere **Restaurants** unter sich haben. Jedes dieser Restaurants hat seine eigene **Online-Shop**-Website. Jede Organisation kann eine einzige **Landingpage**-Website haben, die auf alle Restaurants innerhalb dieser Organisation verweist.
 
-Organizations can also have **staff accounts** that have access restricted to particular restaurants and particular functions.
+Organisationen können auch **Mitarbeiterkonten** haben, deren Zugriff auf bestimmte Restaurants und bestimmte Funktionen beschränkt ist.
 
-### The Ideal Way To Setup New Clients
+### Der ideale Weg, neue Kunden einzurichten
 
-We recommend that for every new business that you work with, you create them their own account. All their store branches should be added as restaurants under this single account. Managers of each branch can be given their own staff account with access to just that store branch.
+Wir empfehlen, dass Sie für jedes neue Unternehmen, mit dem Sie zusammenarbeiten, ein eigenes Konto erstellen. Alle Filialfilialen sollten diesem einzigen Konto als Restaurants hinzugefügt werden. Den Managern jeder Filiale kann ein eigenes Mitarbeiterkonto mit Zugriff auf genau diese Filialfiliale zugewiesen werden.
 
-## Creating New Accounts
+## Neue Konten erstellen
 
-You can create new accounts through the signup form on your admin dashboard. Any accounts created from here will be part of your main reseller account. Their online stores and landing pages will have your branding on them, not ours.
+Sie können neue Konten über das Anmeldeformular in Ihrem Admin-Dashboard erstellen. Alle hier erstellten Konten sind Teil Ihres Haupt-Reseller-Kontos. Ihre Online-Shops und Landingpages werden Ihr Branding tragen, nicht unseres.
 
-When we set up your reseller platform, we would have either enabled or disabled **e-mail verification** depending on how you plan to set up your customers.
+Bei der Einrichtung Ihrer Reseller-Plattform hätten wir die **E-Mail-Verifizierung** entweder aktiviert oder deaktiviert, je nachdem, wie Sie Ihre Kunden einrichten möchten.
 
-**If e-mail verification is enabled**, the user email that you signed up with will receive a 5-6 digit code that must be entered in the account creation process.
+**Wenn die E-Mail-Verifizierung aktiviert ist**, erhält die E-Mail-Adresse des Benutzers, mit der Sie sich angemeldet haben, einen 5-6-stelligen Code, der bei der Kontoerstellung eingegeben werden muss.
 
-**If e-mail verification is disabled**, this 5-6 digit code will be sent to your support e-mail address instead of the e-mail address you created your account with.
+**Wenn die E-Mail-Verifizierung deaktiviert ist**, wird dieser 5-6-stellige Code an Ihre Support-E-Mail-Adresse gesendet und nicht an die E-Mail-Adresse, mit der Sie Ihr Konto erstellt haben.
 
 {% hint style="info" %}
-You can use your reseller password in the e-mail confirmation code field to bypass the verification process
+Sie können Ihr Reseller-Passwort im Feld E-Mail-Bestätigungscode verwenden, um den Verifizierungsprozess zu umgehen
 {% endhint %}
 

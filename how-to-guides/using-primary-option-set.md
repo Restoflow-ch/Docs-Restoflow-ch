@@ -1,54 +1,54 @@
 ---
 description: >-
-  The Primary Option Set determines which option appears on the item card by
-  default. Use this setting to show key choices such as size, base, or crust on
-  the product view.
+  Der primäre Optionssatz bestimmt, welche Option auf der Artikelkarte angezeigt wird
+  Standard. Verwenden Sie diese Einstellung, um wichtige Optionen wie Größe, Boden oder Kruste anzuzeigen
+  die Produktansicht.
 ---
 
-# Using Primary Option Set
+# Verwenden des primären Optionssatzes
 
 {% embed url="https://youtu.be/dJ0SqFu7rVA" %}
 
-### Adding a Primary Option Set
+### Hinzufügen eines primären Optionssatzes
 
-1. Go to Menus > Option Sets from your Dashboard.
+1. Gehen Sie in Ihrem Dashboard zu Menüs > Optionssätze.
 
-* Ensure the option set you want to use is already created, added to the Option Sets tab, and marked as Required.
-* If not, follow this guide to create and link an option set.
+* Stellen Sie sicher, dass der Optionssatz, den Sie verwenden möchten, bereits erstellt, zur Registerkarte „Optionssätze“ hinzugefügt und als Erforderlich markiert ist.
+* Wenn nicht, befolgen Sie diese Anleitung, um einen Optionssatz zu erstellen und zu verknüpfen.
 
-2. Go to Menus > \[Menu Name] > \[Category] > \[Item].
-3. Click the Edit icon next to the item.
-4. Go to the Options & Ingredients tab.
-5. In the Option Set field, make sure your option set is selected.
-6. In the Primary Option Set field, select the option set you want to show on the item card.
-7. Click Save.
-8. Go to the front end to confirm the Primary Option Set is now showing.
+2. Gehen Sie zu Menüs > \[Menüname] > \[Kategorie] > \[Element].
+3. Klicken Sie neben dem Element auf das Symbol Bearbeiten.
+4. Gehen Sie zur Registerkarte Optionen & Zutaten.
+5. Stellen Sie sicher, dass im Feld „Optionssatz“ Ihr Optionssatz ausgewählt ist.
+6. Wählen Sie im Feld Primärer Optionssatz den Optionssatz aus, den Sie auf der Artikelkarte anzeigen möchten.
+7. Klicken Sie auf Speichern.
+8. Gehen Sie zum Frontend, um zu bestätigen, dass der primäre Optionssatz jetzt angezeigt wird.
 
-### Removing or Hiding a Primary Option Set
+### Entfernen oder Ausblenden eines primären Optionssatzes
 
-**To remove it completely:**
+**Um es vollständig zu entfernen:**
 
-* Delete the option set from the Option Set field.
-* This also removes it as the Primary Option Set.
-* To hide it while still keeping it as part of the item:
+* Löschen Sie den Optionssatz aus dem Feld „Optionssatz“.
+* Dadurch wird es auch als primärer Optionssatz entfernt.
+* So verbergen Sie es, behalten es aber weiterhin als Teil des Artikels:
 
-**To Hide it while still keeping it as part of the item:**
+**Um es auszublenden und es dennoch als Teil des Artikels zu behalten:**
 
-* Keep it in the Option Set field, but do not assign it as Primary.
-* Click Save, then refresh the front end to see the update.
+* Belassen Sie es im Feld „Optionssatz“, aber weisen Sie es nicht als „Primär“ zu.
+* Klicken Sie auf „Speichern“ und aktualisieren Sie dann das Frontend, um das Update anzuzeigen.
 
 <br>
 
-### Related Articles
+### Verwandte Artikel
 
-1. **How to Create and Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
-2. **Setup Your Menus** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
-3. **How to Create & Import a Menu Using a Spreadsheet** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
+1. **So erstellen und verwalten Sie Ihre Menüs** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+2. **Richten Sie Ihre Menüs ein** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+3. **So erstellen und importieren Sie ein Menü mithilfe einer Tabellenkalkulation** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet](https://support.restoflow.ch/how-to-guides/how-to-create-and-import-a-menu-using-a-spreadsheet)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

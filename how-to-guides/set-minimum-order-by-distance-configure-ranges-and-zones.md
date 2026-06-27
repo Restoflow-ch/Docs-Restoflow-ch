@@ -1,89 +1,89 @@
 ---
 description: >-
-  This guide shows you how to set minimum order amounts based on delivery
-  distance or custom delivery zones.
+  In dieser Anleitung erfahren Sie, wie Sie Mindestbestellmengen basierend auf der Lieferung festlegen
+  Entfernung oder benutzerdefinierte Lieferzonen.
 ---
 
-# Set Minimum Order by Distance: Configure Ranges & Zones
+# Mindestreihenfolge nach Entfernung festlegen: Bereiche und Zonen konfigurieren
 
-This is useful for stores that want to charge different delivery fees or require higher minimum orders for locations farther away.
+Dies ist nützlich für Geschäfte, die unterschiedliche Liefergebühren berechnen möchten oder höhere Mindestbestellmengen für weiter entfernte Standorte verlangen.
 
-Here's a quick video on how to enable this feature
+Hier ist ein kurzes Video zur Aktivierung dieser Funktion
 
 {% embed url="https://www.youtube.com/watch?v=lG8qzi5Xago" %}
 
-### **Option 1: Set Minimum Order by Distance Range**
+### **Option 1: Mindestreihenfolge nach Entfernungsbereich festlegen**
 
-#### **1. Go to Delivery Settings**
+#### **1. Gehen Sie zu den Liefereinstellungen**
 
-1. From your dashboard, go to **Settings**
-2. Click **Services**
-3. Select **Deliveries**
+1. Gehen Sie in Ihrem Dashboard zu **Einstellungen**
+2. Klicken Sie auf **Dienste**
+3. Wählen Sie **Lieferungen**
 
-#### **2. Configure Distance-Based Fees**
+#### **2. Entfernungsbasierte Gebühren konfigurieren**
 
-1. Click **Fees**
-2. Select **Range**
-3. Create a delivery bracket by entering:
-   * **Distance in kilometers**
-   * **Delivery fee**
-   * **Minimum order amount**
+1. Klicken Sie auf **Gebühren**
+2. Wählen Sie **Bereich**
+3. Erstellen Sie eine Liefergruppe, indem Sie Folgendes eingeben:
+* **Entfernung in Kilometern**
+* **Liefergebühr**
+* **Mindestbestellmenge**
 
-#### **3. Add More Distance Brackets**
+#### **3. Weitere Distanzklammern hinzufügen**
 
-* Click **Add** to create another pricing range
-* Repeat as needed
-* Click **Save**
+* Klicken Sie auf **Hinzufügen**, um eine weitere Preisspanne zu erstellen
+* Bei Bedarf wiederholen
+* Klicken Sie auf **Speichern**
 
 
 
-### **Option 2: Set Minimum Order by Delivery Zone**
+### **Option 2: Mindestbestellmenge nach Lieferzone festlegen**
 
-#### 1. Create a Delivery Zone Map
+#### 1. Erstellen Sie eine Lieferzonenkarte
 
-1. Open **Custom Google Maps**
-2. Create a new map
-3. Search for your store address
-4. Click **Draw a Line** > **Add Line or Shape**
-5. Draw the boundary around your delivery zone
-6. Rename the zone and click **Save**
+1. Öffnen Sie **Benutzerdefiniertes Google Maps**
+2. Erstellen Sie eine neue Karte
+3. Suchen Sie nach Ihrer Geschäftsadresse
+4. Klicken Sie auf **Linie zeichnen** > **Linie oder Form hinzufügen**
+5. Zeichnen Sie die Grenze um Ihre Lieferzone
+6. Benennen Sie die Zone um und klicken Sie auf **Speichern**
 
-Repeat this for additional delivery zones if needed.
+Wiederholen Sie diesen Vorgang bei Bedarf für weitere Lieferzonen.
 
-#### **2. Export the Map**
+#### **2. Exportieren Sie die Karte**
 
-1. Click the **three-dot menu** on the map layer
-2. Select **Export to KML or KMZ**
-3. Choose:
-   * **Export selected layer only**
-   * **Export as KML** (not KMZ)
-4. Click **Download**
+1. Klicken Sie auf der Kartenebene auf das **Drei-Punkte-Menü**
+2. Wählen Sie **Nach KML oder KMZ exportieren**
+3. Wählen Sie:
+* **Nur ausgewählte Ebene exportieren**
+* **Als KML exportieren** (nicht KMZ)
+4. Klicken Sie auf **Herunterladen**
 
-#### **3. Upload the Map to Your Dashboard**
+#### **3. Laden Sie die Karte in Ihr Dashboard hoch**
 
-1. Return to your dashboard
-2. Upload the KML file
-3. Set:
-   * **Delivery fee per zone**
-   * **Minimum order amount per zone**
-4. Click **Save**
+1. Kehren Sie zu Ihrem Dashboard zurück
+2. Laden Sie die KML-Datei hoch
+3. Stellen Sie ein:
+* **Liefergebühr pro Zone**
+* **Mindestbestellmenge pro Zone**
+4. Klicken Sie auf **Speichern**
 
-### **Testing the Setup**
+### **Testen des Setups**
 
-After saving:
+Nach dem Speichern:
 
-1. Visit your online store
-2. Enter a delivery address
-3. Confirm the correct zone and fees appear
-4. Try placing a test order
+1. Besuchen Sie Ihren Online-Shop
+2. Geben Sie eine Lieferadresse ein
+3. Bestätigen Sie die richtige Zone und die Gebühren werden angezeigt
+4. Versuchen Sie, eine Testbestellung aufzugeben
 
-If the order total is below the required minimum:
+Wenn die Bestellsumme unter dem erforderlichen Minimum liegt:
 
-* The customer will receive an error message
-* They will only be able to continue once the minimum amount is met
+* Der Kunde erhält eine Fehlermeldung
+* Sie können erst fortfahren, wenn der Mindestbetrag erreicht ist
 
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

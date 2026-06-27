@@ -1,45 +1,45 @@
 ---
 description: >-
-  Custom payment methods allow customers to pay online using options other than
-  standard gateways—such as cash on delivery, pay at the counter, or
-  vouchers—while ensuring orders are processed correctly
+  Benutzerdefinierte Zahlungsmethoden ermöglichen es Kunden, online mit anderen Optionen zu bezahlen
+  Standard-Gateways – wie Nachnahme, Bezahlung am Schalter oder
+  Gutscheine – und stellen gleichzeitig sicher, dass Bestellungen korrekt bearbeitet werden
 ---
 
-# Configure Custom Payment Methods
+# Konfigurieren Sie benutzerdefinierte Zahlungsmethoden
 
 {% embed url="https://drive.google.com/file/d/1pEuzFIj55NK6BYgaGze1gZp3T_B-5jxr/view?usp=sharing" %}
 
-### Steps:
+### Schritte:
 
-1. On the Admin Dashboard, click on the Settings Icon
+1. Klicken Sie im Admin-Dashboard auf das Einstellungssymbol
 
 <figure><img src="../.gitbook/assets/unknown (15) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Select **Payments** tab > Add **Payment Method**
+2. Wählen Sie die Registerkarte **Zahlungen** > **Zahlungsmethode** hinzufügen
 
 <figure><img src="../.gitbook/assets/unknown (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Choose **Custom** from the Payment Method list > **Add Method**
+3. Wählen Sie **Benutzerdefiniert** aus der Liste der Zahlungsmethoden > **Methode hinzufügen**
 
 <figure><img src="../.gitbook/assets/unknown (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Once added you can configure the settings:
+### Nach dem Hinzufügen können Sie die Einstellungen konfigurieren:
 
 <figure><img src="../.gitbook/assets/unknown (3) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. **Enable** the Custom Payment Method
-5. **Services:** Choose which services this payment method will be restricted to (e.g., Pickup, Delivery, Dine-In, Table Booking).
-6. **Label:** Enter a label for the payment method (e.g., PAY AT THE COUNTER).
-   * **Delivery Label (Optional)**\
-     Enter a different label for delivery orders if needed. Leave blank if not.
-   * **Print Label**\
-     Set the label that will appear on printed or PDF receipts.
-7. **Maximum Order Value ($)**\
-   Specify the maximum order value for which this payment method will be available.
-8. Click **Save** to apply the changes.
+4. **Aktivieren** Sie die benutzerdefinierte Zahlungsmethode
+5. **Dienste:** Wählen Sie aus, auf welche Dienste diese Zahlungsmethode beschränkt sein soll (z. B. Abholung, Lieferung, Abendessen, Tischreservierung).
+6. **Beschriftung:** Geben Sie eine Bezeichnung für die Zahlungsmethode ein (z. B. „Am Schalter bezahlen“).
+* **Lieferetikett (optional)**\
+Geben Sie bei Bedarf eine andere Bezeichnung für Lieferaufträge ein. Wenn nicht, lassen Sie das Feld leer.
+* **Etikett drucken**\
+Legen Sie die Beschriftung fest, die auf gedruckten oder PDF-Belegen erscheinen soll.
+7. **Maximaler Bestellwert ($)**\
+Geben Sie den maximalen Bestellwert an, für den diese Zahlungsmethode verfügbar sein soll.
+8. Klicken Sie auf **Speichern**, um die Änderungen zu übernehmen.
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

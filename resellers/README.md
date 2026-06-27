@@ -1,16 +1,16 @@
 ---
 description: >-
-  The Restoflow reseller account is designed for businesses which want to
-  re-sell our online ordering system to their customers under their own brand
-  name and at their own rates.
+  Das Restoflow-Reseller-Konto ist für Unternehmen konzipiert, die dies möchten
+  Unser Online-Bestellsystem unter ihrer eigenen Marke an ihre Kunden weiterzuverkaufen
+  Namen und zu eigenen Preisen.
 ---
 
-# Resellers
+# Wiederverkäufer
 
 
 
 {% content-ref url="overview.md" %}
-[overview.md](overview.md)
+[Übersicht.md](overview.md)
 {% endcontent-ref %}
 
 {% content-ref url="getting-started.md" %}
@@ -22,5 +22,5 @@ description: >-
 {% endcontent-ref %}
 
 {% hint style="info" %}
-[Find out more about becoming a reseller or affiliate at restoflow.ch](https://www.restoflow.ch/resellers/)
+[Erfahren Sie mehr darüber, wie Sie Reseller oder Affiliate bei restoflow.ch werden](https://www.restoflow.ch/resellers/)
 {% endhint %}

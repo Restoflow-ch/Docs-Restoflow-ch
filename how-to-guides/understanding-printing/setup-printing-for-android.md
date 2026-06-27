@@ -1,46 +1,46 @@
 ---
 description: >-
-  Complete guide to adding a Bluetooth, Wi-Fi, or network printer to Android for
-  automatic order printing with Restoflow.
+  Vollständige Anleitung zum Hinzufügen eines Bluetooth-, WLAN- oder Netzwerkdruckers zu Android für
+  Automatischer Auftragsdruck mit Restoflow.
 ---
 
-# How to Set Up a Printer on Android
+# So richten Sie einen Drucker auf Android ein
 
-Setting up a **printer on Android** allows restaurants, cafés, and businesses to **automatically print order receipts** directly from their **Android device**. Whether you use a Bluetooth, Wi-F&#x69;**, or network printer**, this guide will walk you through configuring **Android printing settings** for seamless order processing.
+Durch die Einrichtung eines **Druckers auf Android** können Restaurants, Cafés und Unternehmen **Bestellbelege automatisch** direkt von ihrem **Android-Gerät** ausdrucken. Unabhängig davon, ob Sie einen Bluetooth-, Wi-F&#x69;**- oder Netzwerkdrucker** verwenden, führt Sie diese Anleitung durch die Konfiguration der **Android-Druckeinstellungen** für eine reibungslose Auftragsabwicklung.
 
-With Restoflow, you can:\
-✅ **Print orders automatically** using an Android-compatible receipt printer.\
-✅ **Connect a printer to Android** via **Bluetooth or Wi-Fi**.\
-✅ **Print from Android to a network printer** with a fixed IP address.\
-✅ **Enable cloud printing for Android**, making remote printing easier.\
-✅ **Set up Android auto-printing** to streamline order fulfilment.
+Mit Restoflow können Sie:\
+✅ **Bestellungen automatisch drucken** mit einem Android-kompatiblen Belegdrucker.\
+✅ **Verbinden Sie einen Drucker über **Bluetooth oder WLAN** mit Android.\
+✅ **Drucken Sie von Android auf einen Netzwerkdrucker** mit einer festen IP-Adresse.\
+✅ **Aktivieren Sie Cloud-Druck für Android**, um das Remote-Drucken zu vereinfachen.\
+✅ **Richten Sie das automatische Drucken für Android ein**, um die Auftragsabwicklung zu optimieren.
 
-This guide will help you **add a printer to Android**, configure **Android printer settings**, and troubleshoot any printing issues.
+Diese Anleitung hilft Ihnen, **einen Drucker zu Android hinzuzufügen**, **Android-Druckereinstellungen** zu konfigurieren und etwaige Druckprobleme zu beheben.
 
 {% hint style="info" %}
-We are happy to set up your printer remotely for you. We know this step can trip up many people because every printer is different. Please [contact us](https://www.restoflow.ch) via live chat if you would like assistance.
+Gerne richten wir Ihren Drucker auch aus der Ferne für Sie ein. Wir wissen, dass dieser Schritt viele Menschen zum Stolpern bringen kann, da jeder Drucker anders ist. Bitte [kontaktieren Sie uns](https://www.restoflow.ch) per Live-Chat, wenn Sie Hilfe benötigen.
 {% endhint %}
 
-### **Requirements**
+### **Anforderungen**
 
-Before you start, ensure you have:
+Bevor Sie beginnen, stellen Sie sicher, dass Sie über Folgendes verfügen:
 
-* **An Android device** (running **Android 4.1 or later**)
-* **A Bluetooth or network-connected ESC/POS printer**
-* The **latest version of PushPrinter** ([_Download here_](https://pushprinter.com/))
+* **Ein Android-Gerät** (mit **Android 4.1 oder höher**)
+* **Ein über Bluetooth oder ein Netzwerk verbundener ESC/POS-Drucker**
+* Die **neueste Version von PushPrinter** ([_Hier herunterladen_](https://pushprinter.com/))
 
-## Setup Process
+## Einrichtungsprozess
 
-### Step 1: Create a Printer Configuration
+### Schritt 1: Erstellen Sie eine Druckerkonfiguration
 
-1. Open your [**Restoflow dashboard**](https://admin.restoflow.ch).
-2. Go to **Settings > Receipt Printing > Create Printer**.
-3. Fill in:
-   * **Printer Name -** i.e. "Android Kitchen Printer"
-   * **Printing Method:** Set to _ESCPOS_
-   * **Printing Type:** Use _ESCPOS Image_ for best results. (Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases).
-   * **Paper Scale Factor:** Adjust to **1.7** if text is cut off.
-4. Click **"Save"** and copy your unique **API key** (needed later).
+1. Öffnen Sie Ihr [**Restoflow-Dashboard**](https://admin.restoflow.ch).
+2. Gehen Sie zu **Einstellungen > Belegdruck > Drucker erstellen**.
+3. Füllen Sie aus:
+* **Druckername –** z. B. „Android Kitchen Printer“
+* **Druckmethode:** Auf _ESCPOS_ einstellen
+* **Drucktyp:** Verwenden Sie _ESCPOS Image_ für beste Ergebnisse. (Beachten Sie, dass einige ältere Drucker diese Methode möglicherweise nicht unterstützen und in diesen Fällen ESCPOS Text Only verwendet werden kann.)
+* **Papierskalierungsfaktor:** Passen Sie den Wert auf **1,7** an, wenn der Text abgeschnitten ist.
+4. Klicken Sie auf **„Speichern“** und kopieren Sie Ihren eindeutigen **API-Schlüssel** (wird später benötigt).
 
 <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Step 1, point 2</p></figcaption></figure>
 
@@ -50,86 +50,86 @@ Before you start, ensure you have:
 
 ***
 
-### **Step 2: Install PushPrinter on Android**
+### **Schritt 2: PushPrinter auf Android installieren**
 
-1. **Download PushPrinter** from the _Google Play Store_.
-2. Open the app after installation.
-3. Press the **settings icon ⚙️**, then select **Default**.
-
-***
-
-### **Step 3: Add and Configure a Printer on Android**
-
-1. Tap **"+" (Add Printer)** to configure a printing service.
-2. Select **Bluetooth** or **Network (for IP Printer)**:
-   * If using **Bluetooth**, the app will **automatically scan** for available printers.
-     * Ensure your printer is powered on and in pairing mode.
-     * Select your printer from the list.
-   * If using a **Network (IP Printer)**, select **"Network"** and **manually enter the printer's IP address**.
-     * Ensure the printer and Android device are on the same Wi-Fi network.
-3. Enter the **API Key** from your Restoflow dashboard. The API key can be found on the restaurant's printer settings. (Settings > Receipt Printing)
-4. If prompted, enter the default printer PIN (**0000** or **1234**).
-5. Confirm that the **printer status is "Connected"** in your Restoflow dashboard.
-6. Once all the details are filled out, check the status of the printer on your restaurant’s settings. Make sure it appears as connected.
-
-<div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/push3.png" alt="" width="318"><figcaption><p>Press the "+” sign on the top to configure a printing service. Make sure that the printer is on.</p></figcaption></figure></div>
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (10).png" alt="" width="210"><figcaption><p>Pair the Android device to the printer via Bluetooth</p></figcaption></figure></div>
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (11).png" alt="Android-test-print-on-pushprinter" width="204"><figcaption><p>Once it’s successfully connected, a test print will be sent to the printer.</p></figcaption></figure></div>
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (13).png" alt="" width="208"><figcaption><p>Fill out Printer Details such as the Printer Name, API Key and Number of Copies.</p></figcaption></figure></div>
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption><p>Printer status showing connected</p></figcaption></figure></div>
+1. **Laden Sie PushPrinter** aus dem _Google Play Store_ herunter.
+2. Öffnen Sie die App nach der Installation.
+3. Drücken Sie auf das **Einstellungssymbol ⚙️** und wählen Sie dann **Standard**.
 
 ***
 
-### **Step 4: Test Printing**
+### **Schritt 3: Einen Drucker auf Android hinzufügen und konfigurieren**
 
-1. Visit the **Orders Page** in Restoflow.
-2. Select an order, then choose **"Print"**.\
-   (We recommend printing both short and long orders to ensure that there is nothing being cut out vertically.)
-3. If you enabled **auto-printing**, place a test order to ensure automatic printing is enabled.
+1. Tippen Sie auf **„+“ (Drucker hinzufügen)**, um einen Druckdienst zu konfigurieren.
+2. Wählen Sie **Bluetooth** oder **Netzwerk (für IP-Drucker)**:
+* Wenn Sie **Bluetooth** verwenden, sucht die App automatisch nach verfügbaren Druckern.
+* Stellen Sie sicher, dass Ihr Drucker eingeschaltet ist und sich im Kopplungsmodus befindet.
+* Wählen Sie Ihren Drucker aus der Liste aus.
+* Wenn Sie ein **Netzwerk (IP-Drucker)** verwenden, wählen Sie **„Netzwerk“** und **geben Sie die IP-Adresse des Druckers manuell ein**.
+* Stellen Sie sicher, dass sich der Drucker und das Android-Gerät im selben WLAN-Netzwerk befinden.
+3. Geben Sie den **API-Schlüssel** aus Ihrem Restoflow-Dashboard ein. Den API-Schlüssel finden Sie in den Druckereinstellungen des Restaurants. (Einstellungen > Quittungsdruck)
+4. Geben Sie bei Aufforderung die Standarddrucker-PIN ein (**0000** oder **1234**).
+5. Bestätigen Sie, dass der **Druckerstatus in Ihrem Restoflow-Dashboard „Verbunden“** ist.
+6. Sobald alle Angaben ausgefüllt sind, überprüfen Sie den Status des Druckers in den Einstellungen Ihres Restaurants. Stellen Sie sicher, dass es als verbunden angezeigt wird.
+
+<div align="left" data-full-width="true"><figure><img src="../../.gitbook/assets/push3.png" alt="" width="318"><figcaption><p>Drücken Sie oben auf das „+“-Zeichen, um einen Druckdienst zu konfigurieren. Stellen Sie sicher, dass der Drucker eingeschaltet ist.</p></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (10).png" alt="" width="210"><figcaption><p>Koppeln Sie das Android-Gerät über Bluetooth mit dem Drucker</p></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (11).png" alt="Android-test-print-on-pushprinter" width="204"><figcaption><p>Sobald die Verbindung erfolgreich hergestellt wurde, wird ein Testdruck an den Drucker gesendet.</p></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (13).png" alt="" width="208"><figcaption><p>Geben Sie Druckerdetails wie Druckernamen, API-Schlüssel und Anzahl der Kopien ein.</p></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="375"><figcaption><p>Druckerstatus zeigt verbunden an</p></figcaption></figure></div>
+
+***
+
+### **Schritt 4: Testdruck**
+
+1. Besuchen Sie die **Bestellseite** in Restoflow.
+2. Wählen Sie eine Bestellung aus und wählen Sie dann **„Drucken“**.\
+(Wir empfehlen, sowohl kurze als auch lange Bestellungen auszudrucken, um sicherzustellen, dass nichts vertikal ausgeschnitten wird.)
+3. Wenn Sie **automatisches Drucken** aktiviert haben, geben Sie eine Testbestellung auf, um sicherzustellen, dass das automatische Drucken aktiviert ist.
 
 ![](<../../.gitbook/assets/image (5) (2).png>)
 
 ***
 
-## Troubleshooting: Common Issues & Fixes
+## Fehlerbehebung: Häufige Probleme und Korrekturen
 
 {% hint style="success" %}
-**Contact Us**
+**Kontaktieren Sie uns**
 
-We have successfully setup 100's of printers; there is a good chance we can save you lots of headaches, so please don't hesitate to [contact us via chat](https://www.restoflow.ch).
+Wir haben Hunderte von Druckern erfolgreich eingerichtet; Es besteht eine gute Chance, dass wir Ihnen viele Kopfschmerzen ersparen können. Zögern Sie also nicht, uns per Chat zu kontaktieren (https://www.restoflow.ch).
 {% endhint %}
 
-#### **1. Sides of the receipt are cut off**
+#### **1. Seiten der Quittung sind abgeschnitten**
 
-✅ Adjust the **Paper Scale Factor** to **1.7** and test again.
+✅ Stellen Sie den **Papierskalenfaktor** auf **1,7** ein und testen Sie es erneut.
 
-#### **2. Invalid API Key**
+#### **2. Ungültiger API-Schlüssel**
 
-✅ Verify that the **API key matches** the one in your Restoflow printer settings.
+✅ Stellen Sie sicher, dass der **API-Schlüssel** mit dem in Ihren Restoflow-Druckereinstellungen übereinstimmt.
 
-#### **3. Printer is connected, but no printouts**
+#### **3. Drucker ist angeschlossen, aber es werden keine Ausdrucke erstellt**
 
-✅ Restart the Android device and **ensure Android detects the printer** in Bluetooth or Wi-Fi settings.
+✅ Starten Sie das Android-Gerät neu und **stellen Sie sicher, dass Android den Drucker erkennt** in den Bluetooth- oder WLAN-Einstellungen.
 
-#### **4. Unable to authenticate printing**
+#### **4. Der Druckvorgang konnte nicht authentifiziert werden**
 
-✅ Check your **internet connection** and try again later. Try restarting your device. Try printing to your printer from other computer programs such as your browser.
+✅ Überprüfen Sie Ihre **Internetverbindung** und versuchen Sie es später erneut. Versuchen Sie, Ihr Gerät neu zu starten. Versuchen Sie, mit anderen Computerprogrammen wie Ihrem Browser auf Ihrem Drucker zu drucken.
 
 ***
 
-### **Why Use Android Printing for Order Receipts?**
+### **Warum Android-Druck für Bestellbelege verwenden?**
 
-📌 **Fast & Reliable:** Automatically print receipts as soon as an order is placed.\
-📌 **Works with Most Printers:** Supports **ESC/POS thermal printers, Bluetooth printers, Wi-Fi printers, and network printers**.\
-📌 **Easy Setup:** No complicated drivers—configure, connect, and print.\
-📌 **Cloud Printing Support:** Print from anywhere when using a **network printer with a fixed IP**.
+📌 **Schnell und zuverlässig:** Belege automatisch ausdrucken, sobald eine Bestellung aufgegeben wird.\
+📌 **Funktioniert mit den meisten Druckern:** Unterstützt **ESC/POS-Thermodrucker, Bluetooth-Drucker, WLAN-Drucker und Netzwerkdrucker**.\
+📌 **Einfache Einrichtung:** Keine komplizierten Treiber – konfigurieren, verbinden und drucken.\
+📌 **Cloud-Druckunterstützung:** Drucken Sie von überall aus, wenn Sie einen **Netzwerkdrucker mit fester IP** verwenden.
 
 {% hint style="info" %}
-Get started for free at [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
+Starten Sie kostenlos unter [www.restoflow.ch/signup](https://www.restoflow.ch/signup/)
 {% endhint %}
 
 

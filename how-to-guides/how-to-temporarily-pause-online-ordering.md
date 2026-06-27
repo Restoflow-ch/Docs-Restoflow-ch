@@ -1,27 +1,27 @@
 ---
-description: Instructions on how to add special hours and closed dates in advance.
+description: Anweisungen zum Hinzufügen spezieller Öffnungszeiten und geschlossener Daten im Voraus.
 ---
 
-# How to Temporarily Pause Online Ordering
+# So unterbrechen Sie die Online-Bestellung vorübergehend
 
-Instructions on how to add closed dates and special hours to your store in advance. This is the recommended method for adding Holidays, Christmas closure hours and dates with different opening hours.<br>
+Anweisungen, wie Sie Ihrem Geschäft im Voraus geschlossene Daten und Sonderöffnungszeiten hinzufügen können. Dies ist die empfohlene Methode zum Hinzufügen von Feiertagen, Weihnachtsschließzeiten und Daten mit unterschiedlichen Öffnungszeiten.<br>
 
 {% embed url="https://www.youtube.com/watch?v=W61qA0eS5cM" %}
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Manage Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
-2. **Configure Your Services (Order Timing)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
-3. **Setup Your Menus** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+1. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+2. **Konfigurieren Sie Ihre Dienste (Bestellzeitpunkt)** – [https://support.restoflow.ch/getting-started/configure-your-services](https://support.restoflow.ch/getting-started/configure-your-services)
+3. **Richten Sie Ihre Menüs ein** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
 
 <br>
 
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}
 
 ###

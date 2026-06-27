@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page highlights instructions around special features.  Most of these
-  features are unique to certain situations, countries or tax jurisdictions.
+  Auf dieser Seite werden Anweisungen zu Sonderfunktionen hervorgehoben.  Die meisten davon
+  Funktionen gelten nur für bestimmte Situationen, Länder oder Steuerhoheitsgebiete.
 ---
 
-# Special & New Features
+# Besondere und neue Funktionen
 
 
 

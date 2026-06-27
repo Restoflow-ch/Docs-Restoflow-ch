@@ -1,8 +1,8 @@
 ---
-description: This video will guide you on how to set up printing using USB printer.
+description: In diesem Video erfahren Sie, wie Sie das Drucken mit einem USB-Drucker einrichten.
 ---
 
-# Setup Printing Using USB Printer
+# Drucken mit USB-Drucker einrichten
 
 {% embed url="https://drive.google.com/file/d/1D3jivv3t-0hqjTkbZ708L6Iqaa-1xM-U/view" %}
 
@@ -10,7 +10,7 @@ description: This video will guide you on how to set up printing using USB print
 
 
 
-We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
+Gerne richten wir Ihren Drucker auch aus der Ferne für Sie ein. Wir wissen, dass dies ein Schritt ist, der viele Leute zum Stolpern bringen kann, da jeder Drucker ein bisschen anders ist. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen
 
 
 
@@ -19,6 +19,6 @@ We are happy to remotely set up your printer for you. We know this is a step tha
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}
 

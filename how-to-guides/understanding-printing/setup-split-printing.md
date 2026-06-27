@@ -1,10 +1,10 @@
 ---
 description: >-
-  A quick video guide showing you how to configure split printing in
+  Eine kurze Videoanleitung, die Ihnen zeigt, wie Sie den geteilten Druck konfigurieren
   Restoflow.
 ---
 
-# Setup Split Printing
+# Geteiltes Drucken einrichten
 
 {% embed url="https://youtu.be/i5NwBqIQ4qI" %}
 

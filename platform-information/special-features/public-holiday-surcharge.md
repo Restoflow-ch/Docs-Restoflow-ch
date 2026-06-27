@@ -1,12 +1,12 @@
 ---
 description: >-
-  A quick video on how to add Public Holiday Surcharges to your online ordering
-  system.
+  Ein kurzes Video zum Hinzufügen von Feiertagszuschlägen zu Ihrer Online-Bestellung
+  System.
 ---
 
-# Public Holiday Surcharge
+# Feiertagszuschlag
 
 {% embed url="https://youtu.be/HFXDA18pflc" %}
-Adding conditional fees to your online ordering system
+Hinzufügen bedingter Gebühren zu Ihrem Online-Bestellsystem
 {% endembed %}
 

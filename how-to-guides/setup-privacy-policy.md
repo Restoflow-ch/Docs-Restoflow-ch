@@ -1,23 +1,23 @@
 ---
 description: >-
-  Entering Privacy Policy will add the link at the bottom of the front store for
-  end-users to access it any time.
+  Wenn Sie die Datenschutzrichtlinie eingeben, wird der Link unten im Front-Store hinzugefügt
+  Endbenutzer können jederzeit darauf zugreifen.
 ---
 
-# Setup Privacy Policy
+# Datenschutzrichtlinie einrichten
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 12.04.49 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-As we use websites, applications, and online services, we are continuously sharing information, from our names and emails to our browsing patterns and location data. This is where the **Privacy Policy** comes in. It is an essential document that describes exactly how a company uses your personal information.
+Während wir Websites, Anwendungen und Online-Dienste nutzen, geben wir kontinuierlich Informationen weiter, von unseren Namen und E-Mails bis hin zu unserem Surfverhalten und Standortdaten. Hier kommt die **Datenschutzerklärung** ins Spiel. Es handelt sich um ein wichtiges Dokument, das genau beschreibt, wie ein Unternehmen Ihre persönlichen Daten verwendet.
 
-To Set up **Privacy Policy**, go to Settings > System > Privacy Policy > Save.&#x20;
+Um **Datenschutzrichtlinien** einzurichten, gehen Sie zu Einstellungen > System > Datenschutzrichtlinien > Speichern.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.13.13 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-A **Privacy Policy Template** is available if you opt to use it.&#x20;
+Eine **Vorlage für Datenschutzrichtlinien** ist verfügbar, wenn Sie sich für deren Verwendung entscheiden.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.<br>
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.<br>
 {% endhint %}

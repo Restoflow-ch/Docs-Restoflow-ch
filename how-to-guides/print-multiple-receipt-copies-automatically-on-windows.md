@@ -1,21 +1,21 @@
 ---
 description: >-
-  Learn how to configure your system to print multiple copies of a receipt
-  automatically, saving time and ensuring all necessary parties receive a copy.
+  Erfahren Sie, wie Sie Ihr System zum Drucken mehrerer Kopien einer Quittung konfigurieren
+  automatisch, was Zeit spart und sicherstellt, dass alle notwendigen Parteien eine Kopie erhalten.
 ---
 
-# Print Multiple Receipt Copies Automatically on Windows
+# Unter Windows automatisch mehrere Quittungskopien drucken
 
-### Steps:
+### Schritte:
 
-1. Open **PushPrinter app** > click **Edit**
+1. Öffnen Sie die **PushPrinter-App** > klicken Sie auf **Bearbeiten**
 
 <figure><img src="../.gitbook/assets/unknown.jpeg" alt="" width="293"><figcaption></figcaption></figure>
 
-2. Change the **Number of Copies**
+2. Ändern Sie die **Anzahl der Kopien**
 
 <figure><img src="../.gitbook/assets/unknown (1).jpeg" alt="" width="292"><figcaption></figcaption></figure>
 
-3. Click **Edit Printer** to save.
+3. Klicken Sie zum Speichern auf **Drucker bearbeiten**.
 
 <figure><img src="../.gitbook/assets/unknown (32).png" alt="" width="375"><figcaption></figcaption></figure>

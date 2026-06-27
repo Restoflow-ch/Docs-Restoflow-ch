@@ -1,43 +1,43 @@
 ---
 description: >-
   Driver Tracking powered by Shipday.com (previously know as QuestTag.com) sends
-  customer notifications with real-time delivery driver tracking for
-  Restoflow delivery orders.
+  Kundenbenachrichtigungen mit Echtzeit-Tracking des Zustellfahrers für
+  Restoflow-Lieferaufträge.
 ---
 
-# How To Add Driver Tracking
+# So fügen Sie die Fahrerverfolgung hinzu
 
-## Features
+## Funktionen
 
-* Easy-to-use dashboard
-* Restoflow orders automatically added
-* Real-time tracking of drivers for restaurant and customer
-* Mobile app for drivers
-* Customer email notifications
-* Driver payments and tips tracking
-* Customer text notifications (paid)
-* Auto-dispatching (paid)
+* Einfach zu bedienendes Dashboard
+* Restoflow-Bestellungen werden automatisch hinzugefügt
+* Echtzeitverfolgung von Fahrern für Restaurant und Kunden
+* Mobile App für Fahrer
+* E-Mail-Benachrichtigungen des Kunden
+* Fahrerzahlungen und Trinkgeldverfolgung
+* Textbenachrichtigungen für Kunden (kostenpflichtig)
+* Automatischer Versand (kostenpflichtig)
 
-## Set-up Shipday Integration
+## Shipday-Integration einrichten
 
 {% embed url="https://youtu.be/ZRzKbq3M-co" %}
 
-1. Open your Restoflow account - [admin.restoflow.ch](https://admin.restoflow.ch/).
-2. Select 'Manage' for the Restaurant you would like to integrate.
-3. Go to 'Settings' > 'Integrations' > Click on the 'Shipday Logo'.
-4. Paste the Shipday API key from your Shipday.com account.
-5. Check the 'Enabled' button and press save.
-6. The integration is now live.
+1. Eröffnen Sie Ihr Restoflow-Konto – [admin.restoflow.ch](https://admin.restoflow.ch/).
+2. Wählen Sie „Verwalten“ für das Restaurant, das Sie integrieren möchten.
+3. Gehen Sie zu „Einstellungen“ > „Integrationen“ > klicken Sie auf das „Shipday-Logo“.
+4. Fügen Sie den Shipday-API-Schlüssel aus Ihrem Shipday.com-Konto ein.
+5. Markieren Sie die Schaltfläche „Aktiviert“ und klicken Sie auf „Speichern“.
+6. Die Integration ist jetzt live.
 
 {% hint style="danger" %}
-Please make sure that you have Wait Times & Auto Statuses configured.  Otherwise, the integration will not work.
+Bitte stellen Sie sicher, dass Wartezeiten und automatische Status konfiguriert sind.  Andernfalls funktioniert die Integration nicht.
 
-**Find at**: 'Settings > Services > Deliveries > Wait Times & Auto Statuses'.
+**Zu finden unter**: „Einstellungen > Dienste > Lieferungen > Wartezeiten und automatische Status“.
 {% endhint %}
 
 ![See drivers and deliveries in the Shipday 'Map' section.](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
 
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).
 

@@ -1,22 +1,22 @@
 ---
-description: Add Google Analytics to your ordering site to track visitors
+description: Fügen Sie Google Analytics zu Ihrer Bestellseite hinzu, um Besucher zu verfolgen
 ---
 
-# How To Set Up Google Analytics Integration
+# So richten Sie die Google Analytics-Integration ein
 
-## Steps :
+## Schritte:
 
-1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2.  Go to Settings > Integrations > Google Analytics
+1. Melden Sie sich bei Ihrem Konto an [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu Einstellungen > Integrationen > Google Analytics
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.24.00 AM (8).png" alt=""><figcaption></figcaption></figure>
-3.  Enter the unique analytics property/ tracking ID
+3. Geben Sie die eindeutige Analyseeigenschaft/Tracking-ID ein
 
     <figure><img src="../.gitbook/assets/Screen Shot 2023-10-09 at 5.33.23 AM (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### Note:
+### Hinweis:
 
-For sales tracking you need to add google tag manager in custom css section.
+Für die Verkaufsverfolgung müssen Sie den Google Tag Manager im benutzerdefinierten CSS-Bereich hinzufügen.
 

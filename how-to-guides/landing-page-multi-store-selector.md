@@ -1,49 +1,49 @@
 ---
 description: >-
-  The Multi Store Selector helps customers find and order from the store nearest
-  to their location.
+  Der Multi Store Selector hilft Kunden, den nächstgelegenen Store zu finden und dort zu bestellen
+  zu ihrem Standort.
 ---
 
 # Landing Page Multi Store Selector
 
-It improves order accuracy, reduces confusion, and ensures customers are connected to the correct branch or delivery zone.
+Es verbessert die Bestellgenauigkeit, reduziert Verwirrung und stellt sicher, dass Kunden mit der richtigen Filiale oder Lieferzone verbunden werden.
 
 
 
-### How it Works
+### Wie es funktioniert
 
-**Landing Page Access**
+**Landingpage-Zugriff**
 
-* When visiting the restaurant’s landing page, customers will see an Order Online button.
-* For single-store setups, this button takes them directly to the ordering page.
+* Beim Besuch der Landingpage des Restaurants sehen Kunden die Schaltfläche „Online bestellen“.
+* Bei Einzelshop-Einrichtungen führt diese Schaltfläche direkt zur Bestellseite.
 
-**Location Detection**
+**Standorterkennung**
 
-* For multiple stores, the website prompts customers to allow location access.
-* Allowing location detection ensures the system identifies the nearest branch capable of fulfilling the order.
-* If a customer declines, they can manually enter their address.
+* Bei mehreren Geschäften werden Kunden auf der Website aufgefordert, den Standortzugriff zuzulassen.
+* Durch die Standorterkennung wird sichergestellt, dass das System die nächstgelegene Filiale identifiziert, die die Bestellung ausführen kann.
+* Wenn ein Kunde ablehnt, kann er seine Adresse manuell eingeben.
 
-**Store Selection**
+**Store-Auswahl**
 
-* Once the location is detected or the address is entered, the system displays a list of stores serving that area.
-* Customers can review and select the branch closest to them or their preferred location.
+* Sobald der Standort erkannt oder die Adresse eingegeben wurde, zeigt das System eine Liste der Geschäfte an, die diesen Bereich bedienen.
+* Kunden können die nächstgelegene Filiale oder ihren bevorzugten Standort überprüfen und auswählen.
 
-**Menu Access**
+**Menüzugriff**
 
-* Selecting a store directs the customer to that branch’s menu page.
-* Customers can browse items and start their order immediately.
+* Durch die Auswahl einer Filiale wird der Kunde zur Menüseite dieser Filiale weitergeleitet.
+* Kunden können Artikel durchsuchen und sofort mit der Bestellung beginnen.
 
-**Benefits**
+**Vorteile**
 
-* Ensures orders are sent to the correct store.
-* Improves customer experience by simplifying the selection process.
-* Supports multiple-store operations and delivery areas efficiently.
+* Stellt sicher, dass Bestellungen an das richtige Geschäft gesendet werden.
+* Verbessert das Kundenerlebnis durch Vereinfachung des Auswahlprozesses.
+* Unterstützt effizient den Betrieb mehrerer Filialen und Lieferbereiche.
 
-For additional tutorials and tips, visit our other support guides.
+Weitere Tutorials und Tipps finden Sie in unseren anderen Support-Anleitungen.
 
 \
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

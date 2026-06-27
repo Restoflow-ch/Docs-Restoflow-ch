@@ -1,42 +1,42 @@
 ---
 description: >-
-  This section will guide you on the step-by-step process on setting up your
-  printer via ethernet
+  In diesem Abschnitt erfahren Sie Schritt für Schritt, wie Sie Ihr Gerät einrichten
+  Drucker über Ethernet
 ---
 
-# Setup Printing Via Ethernet
+# Drucken über Ethernet einrichten
 
-### Steps
+### Schritte
 
-1. Physically connect the printer to the network using an Ethernet cable and power it on.
-   * On the printer, perform a **self-test / network configuration** print (usually from the printer’s menu).
-   * **Write down the printer’s IP address** shown on that printout.
-2. On your Windows device open **Control Panel**
+1. Schließen Sie den Drucker physisch über ein Ethernet-Kabel an das Netzwerk an und schalten Sie ihn ein.
+* Führen Sie auf dem Drucker einen **Selbsttest/Netzwerkkonfiguration**-Druck durch (normalerweise über das Druckermenü).
+* **Notieren Sie sich die IP-Adresse des Druckers**, die auf diesem Ausdruck angezeigt wird.
+2. Öffnen Sie auf Ihrem Windows-Gerät die **Systemsteuerung**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 4.00.38 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. View **Devices and Printers**
+3. **Geräte und Drucker** anzeigen
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 4.00.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Click **"Add a printer"**
-5. When Windows searches, choose **“The printer that I want isn’t listed.”**
-6. In the popup select **“Add a printer using a TCP/IP address or hostname”** and click **Next**.
-7. Change **Device type** to **TCP/IP Device**.
-8. In **Hostname or IP address** enter the IP address you got from the self-test print. Click **Next**.
-9. When prompted for the device driver, choose **Standard** → **Generic Network Card** (or if a specific driver for your model is available, you can install that instead). Click **Next**.
-10. On the next screen choose **Manufacturer: Generic** and **Printers: Generic / Text Only**. Click **Next**.
+4. Klicken Sie auf **"Drucker hinzufügen"**
+5. Wählen Sie bei der Windows-Suche **„Der gewünschte Drucker ist nicht aufgeführt.“**
+6. Wählen Sie im Popup **„Drucker mithilfe einer TCP/IP-Adresse oder eines Hostnamens hinzufügen“** aus und klicken Sie auf **Weiter**.
+7. Ändern Sie **Gerätetyp** in **TCP/IP-Gerät**.
+8. Geben Sie unter **Hostname oder IP-Adresse** die IP-Adresse ein, die Sie vom Selbsttestdruck erhalten haben. Klicken Sie auf **Weiter**.
+9. Wenn Sie nach dem Gerätetreiber gefragt werden, wählen Sie **Standard** → **Generische Netzwerkkarte** (oder wenn ein spezifischer Treiber für Ihr Modell verfügbar ist, können Sie diesen stattdessen installieren). Klicken Sie auf **Weiter**.
+10. Wählen Sie im nächsten Bildschirm **Hersteller: Allgemein** und **Drucker: Allgemein / Nur Text**. Klicken Sie auf **Weiter**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 4.05.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-11. If prompted about replacing drivers, choose **Replace the current driver** (or install driver if needed). Click **Next**.
-12. Update the **Printer name** to a friendly name (e.g., `Office Printer - Kitchen`) and click **Next**.
+11. Wenn Sie zum Ersetzen von Treibern aufgefordert werden, wählen Sie **Aktuellen Treiber ersetzen** (oder installieren Sie bei Bedarf den Treiber). Klicken Sie auf **Weiter**.
+12. Aktualisieren Sie den **Druckernamen** auf einen benutzerfreundlichen Namen (z. B. `Office Printer - Kitchen`) und klicken Sie auf **Weiter**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 4.09.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-11. Click **Print a test page** to confirm the printer is reachable and prints.
+11. Klicken Sie auf **Testseite drucken**, um zu bestätigen, dass der Drucker erreichbar ist und druckt.
 
-* If the test page prints, click **Finish**.
+* Wenn die Testseite gedruckt wird, klicken Sie auf **Fertig stellen**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-11-21 at 4.11.45 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -44,10 +44,10 @@ description: >-
 
 
 
-We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance.&#x20;
+Gerne richten wir Ihren Drucker auch aus der Ferne für Sie ein. Wir wissen, dass dies ein Schritt ist, der viele Leute zum Stolpern bringen kann, da jeder Drucker ein bisschen anders ist. Bitte kontaktieren Sie uns, wenn Sie Hilfe benötigen.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

@@ -1,80 +1,80 @@
 ---
-description: How to guide to print with a network printer
+description: Anleitung zum Drucken mit einem Netzwerkdrucker
 ---
 
-# Printing - Windows Network Printing
+# Drucken – Windows-Netzwerkdruck
 
-## **Network printing**
+## **Netzwerkdruck**
 
-1. Please go to the Windows Control Panel
+1. Bitte gehen Sie zur Windows-Systemsteuerung
 
 ![](<../../.gitbook/assets/untitled (1).png>)
 
-2\. Open Devices and Printers
+2\. Öffnen Sie Geräte und Drucker
 
 ![](../../.gitbook/assets/untitled-1.png)
 
-3\. Right click and select 'Printer Properties'
+3\. Klicken Sie mit der rechten Maustaste und wählen Sie „Druckereigenschaften“.
 
 ![](<../../.gitbook/assets/untitled-2 (5).png>)
 
-4\. If your printer is not showing use these instructions to set it up [Printer Set up](printing-add-a-printer-to-windows.md).
+4\. Wenn Ihr Drucker nicht angezeigt wird, verwenden Sie diese Anweisungen, um ihn einzurichten [Druckereinrichtung](printing-add-a-printer-to-windows.md).
 
-5\. To test that the printer is working, please press Print Test Page
+5\. Um zu testen, ob der Drucker funktioniert, klicken Sie bitte auf Testseite drucken
 
 ![](<../../.gitbook/assets/untitled-3 (1).png>)
 
-6\. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+6\. Wenn die Testseite nicht gedruckt wird. Anschließend schließen Sie den Drucker bitte korrekt an und installieren ihn. Bitte lesen Sie: [Druckereinrichtung](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-7\. Open the PushPrinter for Windows program application
+7\. Öffnen Sie die Programmanwendung PushPrinter für Windows
 
-8\. Go to the 'settings' cog and select the default provider profile from the dropdown list.
+8\. Gehen Sie zum Zahnrad „Einstellungen“ und wählen Sie das Standardanbieterprofil aus der Dropdown-Liste aus.
 
 ![](<../../.gitbook/assets/untitled-4 (2).png>)
 
-9\. Enable 'Automatically start PushPrinter'. (This allows the application to auto-start when resetting your machine).
+9\. Aktivieren Sie „PushPrinter automatisch starten“. (Dadurch kann die Anwendung automatisch gestartet werden, wenn Ihr Computer zurückgesetzt wird.)
 
-10\. Press the printer button
+10\. Drücken Sie die Druckertaste
 
 ![](../../.gitbook/assets/untitled-6.png)
 
-11\. Using the Create Printer button, create printer
+11\. Erstellen Sie über die Schaltfläche „Drucker erstellen“ einen Drucker
 
 ![](<../../.gitbook/assets/untitled-7 (4).png>)
 
-12\. Add settings including API key from the printer just created.
+12\. Fügen Sie Einstellungen einschließlich API-Schlüssel vom gerade erstellten Drucker hinzu.
 
 {% hint style="info" %}
-**For a network printer:**&#x20;
+**Für einen Netzwerkdrucker:**&#x20;
 
-* Name the printer.&#x20;
-* Add API printer (found in the store printer settings),&#x20;
-* Set number of copies&#x20;
-* Add printer IP address and set port to 9100).
+* Benennen Sie den Drucker.&#x20;
+* API-Drucker hinzufügen (zu finden in den Druckereinstellungen des Shops),&#x20;
+* Anzahl der Kopien festlegen&#x20;
+* Fügen Sie die IP-Adresse des Druckers hinzu und stellen Sie den Port auf 9100 ein.
 {% endhint %}
 
 ![](<../../.gitbook/assets/untitled-8 (3).png>)
 
 {% hint style="danger" %}
-**NOTE:**
+**HINWEIS:**
 
-**Printer name** - This is the name that the printer will show inside of Restoflow.
+**Druckername** – Dies ist der Name, den der Drucker in Restoflow anzeigt.
 
-**API Key** - This needs to be copied from the printer settings inside of Restoflow.
+**API-Schlüssel** – Dieser muss aus den Druckereinstellungen in Restoflow kopiert werden.
 
-**Number of copies** - This will determine how many copies of the are printed.
+**Anzahl der Kopien** – Hiermit wird bestimmt, wie viele Kopien gedruckt werden.
 
-**Printing type** - This needs to be set to Windows Shared Printer (ESCPOS) for this to work.
+**Drucktyp** – Damit dies funktioniert, muss dieser auf Windows Shared Printer (ESCPOS) eingestellt sein.
 
-**Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
+**Windows-Freigabedruckername** – Dieser muss GENAU mit dem zuvor hinzugefügten Freigabedruckernamen übereinstimmen. Leer- und Sonderzeichen sollten Sie vermeiden.
 {% endhint %}
 
-13\. Test print
+13\. Testdruck
 
-14\. Create printer
+14\. Drucker erstellen
 
-15\. Go to your store and place a test order.
+15\. Gehen Sie in Ihr Geschäft und geben Sie eine Testbestellung auf.
 
 
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).

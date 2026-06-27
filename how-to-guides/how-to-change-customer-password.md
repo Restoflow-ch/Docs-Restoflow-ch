@@ -1,33 +1,33 @@
 ---
 description: >-
-  Learn how to reset a customer’s password. This is useful if a customer forgets
-  their password—you can quickly update it for them directly from your
-  dashboard.
+  Erfahren Sie, wie Sie das Passwort eines Kunden zurücksetzen. Dies ist nützlich, wenn ein Kunde es vergisst
+  ihr Passwort – Sie können es schnell direkt von Ihrem aus für sie aktualisieren
+  Armaturenbrett.
 ---
 
-# How to Change Customer Password
+# So ändern Sie das Kundenpasswort
 
-### Steps:
+### Schritte:
 
-1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to the **Customers tab.**
+1. Melden Sie sich bei Ihrem Konto an[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zum **Tab „Kunden“.**
 
 <figure><img src="../.gitbook/assets/unknown (13) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Select the **customer** whose password you want to change.
+3. Wählen Sie den **Kunden** aus, dessen Passwort Sie ändern möchten.
 
 <figure><img src="../.gitbook/assets/unknown (14) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Click **Edit Password.**
+4. Klicken Sie auf **Passwort bearbeiten.**
 
 <figure><img src="../.gitbook/assets/unknown (15) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-5. Enter the new password and click **OK**.
+5. Geben Sie das neue Passwort ein und klicken Sie auf **OK**.
 
 <figure><img src="../.gitbook/assets/unknown (16) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

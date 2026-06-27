@@ -1,30 +1,30 @@
 ---
 description: >-
-  Follow these steps to add or update social media links for a specific
-  Restoflow account.
+  Befolgen Sie diese Schritte, um Social-Media-Links für eine bestimmte Person hinzuzufügen oder zu aktualisieren
+  Restoflow-Konto.
 ---
 
-# How to Add Social Media Links (Restoflow Account) Page
+# So fügen Sie Social-Media-Links hinzu (Restoflow-Konto).
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, find the account you want to edit and click “Manage.”
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Suchen Sie in der Liste der Konten das Konto, das Sie bearbeiten möchten, und klicken Sie auf „Verwalten“.
 
-    ![](<../.gitbook/assets/unknown (7) (1).png>)
-3.  From the left-side menu, click “Settings.”
+![](<../.gitbook/assets/unknown (7) (1).png>)
+3. Klicken Sie im Menü auf der linken Seite auf „Einstellungen“.
 
-    ![](<../.gitbook/assets/unknown (6) (1).png>)
-4.  Go to the “Websites” tab.
+![](<../.gitbook/assets/unknown (6) (1).png>)
+4. Gehen Sie zur Registerkarte „Websites“.
 
-    ![](<../.gitbook/assets/unknown (5) (1).png>)
-5.  Under Additional Settings, look for “Social Media Links.”
+![](<../.gitbook/assets/unknown (5) (1).png>)
+5. Suchen Sie unter „Zusätzliche Einstellungen“ nach „Social-Media-Links“.
 
-    ![](<../.gitbook/assets/unknown (4) (1).png>)
-6.  Copy and paste each social media URL into its corresponding field (e.g., Facebook, Instagram, TikTok).
+![](<../.gitbook/assets/unknown (4) (1).png>)
+6. Kopieren Sie jede Social-Media-URL und fügen Sie sie in das entsprechende Feld ein (z. B. Facebook, Instagram, TikTok).
 
-    **Note:** Make sure each link is valid and complete
+**Hinweis:** Stellen Sie sicher, dass jeder Link gültig und vollständig ist
 
-    (e.g., https://facebook.com/yourpage)
-7. When finished, click Save.
+(z. B. https://facebook.com/yourpage)
+7. Wenn Sie fertig sind, klicken Sie auf Speichern.
 

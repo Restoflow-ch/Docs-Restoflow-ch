@@ -1,9 +1,9 @@
 ---
 description: >-
-  More information on how to use and customise the language settings inside of
+  Weitere Informationen zur Verwendung und Anpassung der Spracheinstellungen darin
   Restoflow.
 ---
 
-# Understanding Languages
+# Sprachen verstehen
 
-[how-users-can-change-languages-on-frontend.md](how-users-can-change-languages-on-frontend.md "mention")
+[wie-Benutzer-die-Sprachen-auf-frontend.md-ändern können](how-users-can-change-languages-on-frontend.md "mention")

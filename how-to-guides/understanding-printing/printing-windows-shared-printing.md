@@ -1,62 +1,62 @@
 ---
-description: how to guide to connect a USB printer
+description: Anleitung zum Anschließen eines USB-Druckers
 ---
 
-# Printing - Windows Shared Printing
+# Drucken – Gemeinsames Windows-Drucken
 
-#### 1. Please go to Windows control Panel&#x20;
+#### 1. Bitte gehen Sie zur Windows-Systemsteuerung&#x20;
 
 ![](<../../.gitbook/assets/untitled (3).png>)
 
-#### 2. Open 'Devices and Printers'
+#### 2. Öffnen Sie „Geräte und Drucker“
 
 ![](<../../.gitbook/assets/untitled-1 (3).png>)
 
-#### 3. Right click and select 'Printer Properties'
+#### 3. Klicken Sie mit der rechten Maustaste und wählen Sie „Druckereigenschaften“.
 
 ![](../../.gitbook/assets/untitled-2.png)
 
-#### 4. If your printer is not showing use these instructions to set it up. [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 4. Wenn Ihr Drucker nicht angezeigt wird, verwenden Sie diese Anweisungen, um ihn einzurichten. [Druckereinrichtung](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-#### 5. To test that the printer is working, please press Print Test Page
+#### 5. Um zu testen, ob der Drucker funktioniert, klicken Sie bitte auf Testseite drucken
 
 ![](<../../.gitbook/assets/untitled-3 (3).png>)
 
-#### 5. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+#### 5. Wenn die Testseite nicht gedruckt wird. Anschließend schließen Sie den Drucker bitte korrekt an und installieren ihn. Bitte lesen Sie: [Druckereinrichtung](https://www.notion.so/restoflowwiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-#### 6. If the test page does print, please share the printer with the following settings;
+#### 6. Wenn die Testseite gedruckt wird, geben Sie bitte den Drucker mit den folgenden Einstellungen frei;
 
 ![](<../../.gitbook/assets/untitled-4 (1).png>)
 
-#### 7. Click apply
+#### 7. Klicken Sie auf „Übernehmen“.
 
-#### 8. Open the [PushPrinter](https://pushprinter.com/#windows) application. Please check that the settings display as follows;
+#### 8. Öffnen Sie die Anwendung [PushPrinter](https://pushprinter.com/#windows). Bitte überprüfen Sie, ob die Einstellungen wie folgt angezeigt werden:
 
 ![](../../.gitbook/assets/untitled-5.png)
 
-#### 7. Now either 'Create Printer' or 'edit' your existing printer:
+#### 7. Wählen Sie nun entweder „Drucker erstellen“ oder „bearbeiten“ Sie Ihren vorhandenen Drucker:
 
 ![](<../../.gitbook/assets/untitled-6 (4).png>)
 
-#### 8. Add settings including: API key from the printer just created, ensure printer type is Windows Shared Printer (ESCPOS). Windows shared printer name must match the shared printer name that was added before.
+#### 8. Fügen Sie Einstellungen hinzu, einschließlich: API-Schlüssel des gerade erstellten Druckers, stellen Sie sicher, dass der Druckertyp Windows Shared Printer (ESCPOS) ist. Der Name des freigegebenen Windows-Druckers muss mit dem zuvor hinzugefügten Namen des freigegebenen Druckers übereinstimmen.
 
 ![](<../../.gitbook/assets/untitled-7 (1).png>)
 
-**NOTE:**
+**HINWEIS:**
 
-**Printer name** - This is the name that the printer will show inside of Restoflow.
+**Druckername** – Dies ist der Name, den der Drucker in Restoflow anzeigt.
 
-**API Key** - This needs to be copied from the printer settings inside of Restoflow.
+**API-Schlüssel** – Dieser muss aus den Druckereinstellungen in Restoflow kopiert werden.
 
-**Number of copies** - This will determine how many copies of the are printed.
+**Anzahl der Kopien** – Hiermit wird bestimmt, wie viele Kopien gedruckt werden.
 
-**Printing type** - This needs to be set to Windows Shared Printer (ESCPOS) for this to work.
+**Drucktyp** – Damit dies funktioniert, muss dieser auf Windows Shared Printer (ESCPOS) eingestellt sein.
 
-**Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
+**Windows-Freigabedruckername** – Dieser muss GENAU mit dem zuvor hinzugefügten Freigabedruckernamen übereinstimmen. Leer- und Sonderzeichen sollten Sie vermeiden.
 
-#### 8. Then press 'Send Test Print' and then press 'Create Printer'.
+#### 8. Klicken Sie dann auf „Testdruck senden“ und dann auf „Drucker erstellen“.
 
 
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).
 

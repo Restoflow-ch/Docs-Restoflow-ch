@@ -1,8 +1,8 @@
-# How to Show/Hide Header Function
+# So zeigen/verbergen Sie die Header-Funktion
 
 
 
-On the Admin Dashboard, go to Settings > click Website > Header
+Gehen Sie im Admin-Dashboard zu Einstellungen > klicken Sie auf Website > Kopfzeile
 
 <figure><img src="../.gitbook/assets/Show.png" alt=""><figcaption></figcaption></figure>
 

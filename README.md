@@ -1,44 +1,44 @@
 ---
 description: >-
-  Welcome to the Restoflow Knowledge Base! Here, you'll find comprehensive
-  articles to help you set up and master our platform, whether you're just
-  starting or looking to optimise your operations.
+  Willkommen in der Restoflow-Wissensdatenbank! Hier finden Sie umfassende Informationen
+  Artikel, die Ihnen bei der Einrichtung und Beherrschung unserer Plattform helfen, egal ob Sie gerade dabei sind
+  Sie beginnen oder möchten Ihren Betrieb optimieren.
 ---
 
-# Overview
+# Übersicht
 
-### **Sections:**
+### **Abschnitte:**
 
 {% content-ref url="getting-started/" %}
-[getting-started](getting-started/)
+[Erste Schritte](getting-started/)
 {% endcontent-ref %}
 
-Quick start guides to help you set up your account and launch your store smoothly.
+Kurzanleitungen, die Ihnen bei der Einrichtung Ihres Kontos und dem reibungslosen Start Ihres Shops helfen.
 
 ***
 
 {% content-ref url="how-to-guides/" %}
-[how-to-guides](how-to-guides/)
+[Anleitungen](how-to-guides/)
 {% endcontent-ref %}
 
-Step-by-step tutorials for various features and functionalities.
+Schritt-für-Schritt-Anleitungen für verschiedene Features und Funktionalitäten.
 
 {% content-ref url="platform-information/" %}
-[platform-information](platform-information/)
+[Plattforminformationen](platform-information/)
 {% endcontent-ref %}
 
-In-depth details about our platform's capabilities and configurations.
+Detaillierte Informationen zu den Funktionen und Konfigurationen unserer Plattform.
 
-### **Featured Articles:**
+### **Ausgewählte Artikel:**
 
-* [Setting Up Online Payments](https://support.restoflow.ch/online-payments): Learn how to integrate and manage payment options.
-* [Customizing Your Store](https://support.restoflow.ch/customize-store): Tips and tricks to personalize your online store for a better customer experience.
-* [Order Management](https://support.restoflow.ch/order-management): Efficiently handle and track orders to ensure customer satisfaction.
+* [Online-Zahlungen einrichten](https://support.restoflow.ch/online-payments): Erfahren Sie, wie Sie Zahlungsoptionen integrieren und verwalten.
+* [Anpassen Ihres Shops](https://support.restoflow.ch/customize-store): Tipps und Tricks zur Personalisierung Ihres Online-Shops für ein besseres Kundenerlebnis.
+* [Auftragsverwaltung](https://support.restoflow.ch/order-management): Effiziente Bearbeitung und Nachverfolgung von Bestellungen, um die Kundenzufriedenheit sicherzustellen.
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).
 
 ***
 
 {% hint style="info" %}
-[Go back to restoflow.ch](https://www.restoflow.ch)
+[Zurück zu restoflow.ch](https://www.restoflow.ch)
 {% endhint %}

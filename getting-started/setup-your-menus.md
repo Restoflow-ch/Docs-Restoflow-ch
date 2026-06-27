@@ -1,31 +1,31 @@
 ---
 description: >-
-  To accept orders online, you need to set up your online menu. You can create
-  and manage all your menus under the "Menus" section in the restaurant
-  dashboard.
+  Um Bestellungen online anzunehmen, müssen Sie Ihr Online-Menü einrichten. Sie können erstellen
+  und verwalten Sie alle Ihre Menüs im Bereich „Menüs“ im Restaurant
+  Armaturenbrett.
 ---
 
-# Setup Your Menus
+# Richten Sie Ihre Menüs ein
 
 {% embed url="https://youtu.be/Nyyr2vwB1Io" %}
-Menu setup video tutorial
+Video-Tutorial zur Menüeinrichtung
 {% endembed %}
 
-## Setup Process
+## Einrichtungsprozess
 
-Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
+Die Menüs sind in einer Baumstruktur organisiert. Menüs enthalten Kategorien und Kategorien enthalten Gerichte. Der allgemeine Einrichtungsprozess ist wie folgt.
 
-1. Create a menu
-2. Create all the categories under the menu
-3. Create dishes under the categories
-4. Create option-sets to add customization to dishes
-5. Create dish tags to highlight attributes of particular dishes
+1. Erstellen Sie ein Menü
+2. Erstellen Sie alle Kategorien im Menü
+3. Erstellen Sie Gerichte unter den Kategorien
+4. Erstellen Sie Optionssätze, um Gerichte individuell anzupassen
+5. Erstellen Sie Gericht-Tags, um die Eigenschaften bestimmter Gerichte hervorzuheben
 
 {% hint style="info" %}
-You will likely only need one menu. Multiple menus are useful if certain items are restricted in particular ways. You may need to create a "Breakfast" menu or a "Delivery" menu depending on your requirements
+Sie benötigen wahrscheinlich nur ein Menü. Mehrere Menüs sind nützlich, wenn bestimmte Elemente auf bestimmte Weise eingeschränkt sind. Abhängig von Ihren Anforderungen müssen Sie möglicherweise ein „Frühstücks“-Menü oder ein „Liefer“-Menü erstellen
 {% endhint %}
 
-## Example Menu Structure
+## Beispiel einer Menüstruktur
 
 ```
 - Menu: Main menu
@@ -42,104 +42,104 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 ---- Dish: Water
 ```
 
-## Menus
+## Menüs
 
-These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
+Diese repräsentieren Ihre tatsächlichen, realen Menüs. Viele Geschäfte haben nur ein Hauptmenü, das immer verfügbar ist. Andere bieten möglicherweise ein Mittags- und Abendmenü oder ein Menü nur zur Abholung an. Damit Ihr Online-Shop funktioniert, benötigen Sie mindestens ein Menü.
 
-Menu availability can depend on certain conditions such as order types (pickups, deliveries or dine-ins), order timings (now, later or pre-order only). They can also be restricted to certain days and timings.
+Die Verfügbarkeit von Menüs kann von bestimmten Bedingungen abhängen, wie z. B. der Art der Bestellung (Abholung, Lieferung oder Abendessen), den Bestellzeiten (jetzt, später oder nur auf Vorbestellung). Sie können auch auf bestimmte Tage und Zeiten beschränkt werden.
 
 {% hint style="warning" %}
-If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
+Wenn Sie nur ein Menü zur Verfügung haben, müssen Sie dieses nicht einschränken. Sie können das System global auf Ihre Geschäftsregeln beschränken und das Menü wird entsprechend funktionieren. Das Einschränken eines Menüs auf bestimmte Bedingungen ist nur erforderlich, wenn Sie über mehrere Menüs verfügen
 {% endhint %}
 
-## Categories
+## Kategorien
 
-Categories represent a sub-section of a menu and consist of dishes. For example, if you have one standard menu, your categories might include:
+Kategorien stellen einen Unterabschnitt eines Menüs dar und bestehen aus Gerichten. Wenn Sie beispielsweise ein Standardmenü haben, könnten Ihre Kategorien Folgendes umfassen:
 
-* Starters
-* Mains
-* Sides
-* Drinks
+* Vorspeisen
+* Netz
+* Seiten
+* Getränke
 * Desserts
 
 {% hint style="warning" %}
-In some instances, you may need to create a separate menu instead of using a category. For example, If you have many different categories of drinks, such as spirits, wines, beers, sodas, etc. You might want to create a separate drinks menu for all those categories instead of adding it to your food menu.
+In einigen Fällen müssen Sie möglicherweise ein separates Menü erstellen, anstatt eine Kategorie zu verwenden. Wenn Sie beispielsweise viele verschiedene Getränkekategorien wie Spirituosen, Weine, Biere, Limonaden usw. haben, möchten Sie möglicherweise eine separate Getränkekarte für alle diese Kategorien erstellen, anstatt sie Ihrer Speisekarte hinzuzufügen.
 {% endhint %}
 
-## Dishes
+## Gerichte
 
-Dishes represent actual items that can be purchased. There are 2 types of dishes.
+Bei Gerichten handelt es sich um tatsächliche Artikel, die gekauft werden können. Es gibt 2 Arten von Gerichten.
 
-#### Standard Dishes
+#### Standardgerichte
 
-A standard dish works as you would expect. You would use it to create items such:
+Ein Standardgericht funktioniert wie erwartet. Sie würden es verwenden, um Elemente zu erstellen wie:
 
-* Ham sandwich
-* Veggie pizza
-* Vanilla ice-cream
+* Schinkensandwich
+* Gemüsepizza
+* Vanilleeis
 
-**Dish Ingredients**
+**Gerichtszutaten**
 
-Standard dishes can contain a list of ingredients. The purpose of this is to allow customers to easily remove certain ingredients. A customer can remove the desired ingredients when they select the dish.
+Standardgerichte können eine Zutatenliste enthalten. Der Zweck besteht darin, den Kunden die einfache Entnahme bestimmter Zutaten zu ermöglichen. Ein Kunde kann bei der Auswahl des Gerichts die gewünschten Zutaten entfernen.
 
-#### Combo Dishes
+#### Kombi-Gerichte
 
-Combos are a special type of dish that contain other dishes. It allows you to create a list of choices for customers to select various standard dishes. For example, you can create:
+Combos sind eine besondere Art von Gerichten, die andere Gerichte enthalten. Sie können damit eine Auswahlliste erstellen, aus der Kunden verschiedene Standardgerichte auswählen können. Sie können beispielsweise Folgendes erstellen:
 
-* Choose 3 pizzas, 2 sides and 2 drinks
-* Choose a burger, side and drink
+* Wählen Sie 3 Pizzen, 2 Beilagen und 2 Getränke
+* Wählen Sie einen Burger, eine Beilage und ein Getränk
 
-To do this you will first need to have created some standard dishes. Then when creating your combo, you can create 4 choices, 3 pizza choices and one drink choice. You can then assign dish choices to the pizzas and drinks for customers to choose from.
+Dazu müssen Sie zunächst einige Standardgerichte erstellt haben. Wenn Sie dann Ihre Kombination zusammenstellen, können Sie 4 Auswahlmöglichkeiten, 3 Pizzaoptionen und eine Getränkeauswahl erstellen. Anschließend können Sie den Pizzen und Getränken eine Auswahl an Gerichten zuweisen, aus denen die Kunden wählen können.
 
 {% hint style="warning" %}
-Combo dishes cannot contain option sets or ingredients directly. Instead when a customer chooses a standard dish within a combo, if the chosen standard dish has any option sets assigned to it, a user can customize it accordingly.
+Kombigerichte können keine Optionssets oder Zutaten direkt enthalten. Wenn ein Kunde stattdessen ein Standardgericht innerhalb einer Kombination auswählt und dem ausgewählten Standardgericht Optionssätze zugewiesen sind, kann ein Benutzer es entsprechend anpassen.
 {% endhint %}
 
-#### Dish Availability & Status
+#### Verfügbarkeit und Status des Gerichts
 
-There are 3 statuses available for a dish. They are:
+Für ein Gericht stehen 3 Status zur Verfügung. Sie sind:
 
-* Hidden - hides dish from the menu
-* Available - shows dish from the menu and allows ordering
-* Out of stock - prevents ordering and shows out of stock on the dish
+* Versteckt – verbirgt das Gericht aus der Speisekarte
+* Verfügbar – zeigt ein Gericht aus der Speisekarte und ermöglicht die Bestellung
+* Nicht vorrätig – verhindert die Bestellung und zeigt „Nicht vorrätig“ auf dem Gericht an
 
-In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
+Im Admin-Dashboard können Sie den Status eines Gerichts bearbeiten, indem Sie das Kontrollkästchen links davon aktivieren. Wählen Sie anschließend im Popup-Menü den gewünschten Status aus.
 
-## Option Sets
+## Optionssätze
 
-All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
+Die gesamte **Anpassung des Gerichts erfolgt mithilfe von Optionssätzen**. Optionssätze sind konfigurierbare Optionen, die einer beliebigen Anzahl von Gerichten zugewiesen werden können. Mit Optionssätzen können Sie Anforderungen erstellen wie:
 
-* Select your pizza crust
-* Select one or more sauces
-* Select at least 4 toppings
+* Wählen Sie Ihren Pizzaboden
+* Wählen Sie eine oder mehrere Saucen aus
+* Wählen Sie mindestens 4 Toppings aus
 
 {% hint style="warning" %}
-To learn how to create an option set that meets your requirements, read the descriptions of each of the settings available when creating an option set. Each setting is explained in detail. Alternatively, watch our menu setup video above to see us create the above examples.
+Um zu erfahren, wie Sie einen Optionssatz erstellen, der Ihren Anforderungen entspricht, lesen Sie die Beschreibungen der einzelnen Einstellungen, die beim Erstellen eines Optionssatzes verfügbar sind. Jede Einstellung wird ausführlich erklärt. Alternativ können Sie sich unser Menü-Setup-Video oben ansehen, um zu sehen, wie wir die oben genannten Beispiele erstellen.
 {% endhint %}
 
-## Dish Tags
+## Geschirr-Tags
 
-Tags allow you to highly particular attributes about a dish with a fully customizable visual indicator. You can create tags for attributes such as:
+Mit Tags können Sie ganz bestimmte Attribute eines Gerichts mit einem vollständig anpassbaren visuellen Indikator festlegen. Sie können Tags für Attribute erstellen wie:
 
-* Spicy
+* Würzig
 * Vegan
-* Gluten free
-* Popular
-* Chef's Recommendation
-* Limited Time
+* Glutenfrei
+* Beliebt
+* Empfehlung des Küchenchefs
+* Begrenzte Zeit
 
-## Common Menu Problems
+## Häufige Menüprobleme
 
-### **No menu or categories showing under the store**
+### **Kein Menü oder Kategorien werden unter dem Shop angezeigt**
 
-For your menu to display in your online store, make sure to add at least one category and one dish to it.
+Damit Ihr Menü in Ihrem Online-Shop angezeigt wird, müssen Sie mindestens eine Kategorie und ein Gericht hinzufügen.
 
-### **Dish images to large**
+### **Dish-Bilder zu groß**
 
-We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
+Wir empfehlen Ihnen dringend, die Website [https://www.birme.net](https://www.birme.net) oder [https://tinypng.com/](https://tinypng.com/) zu verwenden, um alle Ihre Bilder zu optimieren. Da die maximale Bildbreite nur etwa 600 Pixel beträgt, sollten Sie darauf achten, dass alle Ihre Bilder nicht breiter sind. Dies wird die Ladezeit Ihrer Seite erheblich verkürzen, insbesondere für mobile Kunden.
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get any assistance.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe zu erhalten.
 {% endhint %}

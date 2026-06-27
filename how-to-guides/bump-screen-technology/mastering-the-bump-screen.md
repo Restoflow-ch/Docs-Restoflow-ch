@@ -1,67 +1,67 @@
 ---
 description: >-
-  The Bump Screen is a powerful tool that helps your kitchen team track order
-  progress, update statuses, and improve overall efficiency. Here's how to use
-  it:
+  Der Bump Screen ist ein leistungsstarkes Tool, das Ihrem Küchenteam hilft, die Bestellung zu verfolgen
+  Fortschritt, Aktualisierungsstatus und Verbesserung der Gesamteffizienz. Hier erfahren Sie, wie Sie es verwenden
+  es:
 ---
 
-# Mastering the Bump Screen
+# Den Bump Screen meistern
 
 {% embed url="https://youtu.be/ByCrdbSJR5w" %}
 
-### Accessing the Bump Screen
+### Zugriff auf den Bump-Screen
 
-1. Log in to your admin dashboard.
-2. Click the Order icon, then select Bump Screen.
+1. Melden Sie sich bei Ihrem Admin-Dashboard an.
+2. Klicken Sie auf das Bestellsymbol und wählen Sie dann Bump Screen aus.
 
-> 📌 Note: Only orders in _Confirmed_ status will appear on the Bump Screen.
+> 📌 Hinweis: Nur Bestellungen mit dem Status „Bestätigt“ werden auf dem Bump-Bildschirm angezeigt.
 
-### Understanding the Order View
+### Die Bestellansicht verstehen
 
-Each order on the Bump Screen displays:
+Jede Bestellung auf dem Bump-Screen zeigt Folgendes an:
 
-* Service type (Pickup, Dine-In, or Delivery)
-* Estimated time for prep
-* Number of items in the order
+* Servicetyp (Abholung, Abendessen oder Lieferung)
+* Geschätzte Zeit für die Vorbereitung
+* Anzahl der Artikel in der Bestellung
 
-### Updating Dish and Order Statuses&#x20;
+### Gericht- und Bestellstatus aktualisieren&#x20;
 
-* Click on each dish once it’s prepared to mark it as complete.
-* To take further actions, click the three dots next to the “Ready” button. From there, you can:
-  * Change the order status
-  * Add time to the estimated pickup time
-  * Print the order
+* Klicken Sie auf jedes Gericht, sobald es zubereitet ist, um es als fertig zu markieren.
+* Um weitere Maßnahmen zu ergreifen, klicken Sie auf die drei Punkte neben der Schaltfläche „Bereit“. Von dort aus können Sie:
+* Ändern Sie den Bestellstatus
+* Addieren Sie die Zeit zur voraussichtlichen Abholzeit hinzu
+* Drucken Sie die Bestellung aus
 
-When all items are ready, click Ready. The order will move to the _Ready_ section and be removed from the bump screen, keeping your view clean and focused.
+Wenn alle Elemente fertig sind, klicken Sie auf Bereit. Die Bestellung wird in den Abschnitt „Bereit“ verschoben und vom Bump-Bildschirm entfernt, sodass Ihre Ansicht klar und fokussiert bleibt.
 
-### Customizing Your View
+### Anpassen Ihrer Ansicht
 
-* Click the View icon to toggle between Desktop View and Tablet View.
-* Adjust the number of rows and layout to suit your kitchen’s needs.
+* Klicken Sie auf das Ansichtssymbol, um zwischen Desktop-Ansicht und Tablet-Ansicht umzuschalten.
+* Passen Sie die Anzahl der Reihen und das Layout an die Bedürfnisse Ihrer Küche an.
 
-### Filtering Orders
+### Bestellungen filtern
 
-To filter orders by service type:
+So filtern Sie Bestellungen nach Servicetyp:
 
-1. Click the Filter icon next to the View icon.
-2. Choose to view only _Delivery_, _Pickup_, or _Dine-In_ orders.
-
-
-
-With the Bump Screen, you can manage your kitchen more efficiently, reduce errors, and streamline your workflow.
+1. Klicken Sie auf das Filtersymbol neben dem Ansichtssymbol.
+2. Wählen Sie, ob Sie nur _Lieferung_, _Abholung_ oder _Dine-In_-Bestellungen anzeigen möchten.
 
 
 
-### Related Articles
+Mit dem Bump Screen können Sie Ihre Küche effizienter verwalten, Fehler reduzieren und Ihren Arbeitsablauf optimieren.
 
-1. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings) [Restoflow Support](https://support.restoflow.ch/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
-2. **Understanding Printing (overview)** – [https://support.restoflow.ch/how-to-guides/understanding-printing](https://support.restoflow.ch/how-to-guides/understanding-printing)
-3. **Setup Printing for Windows** – [https://support.restoflow.ch/how-to-guides/understanding-printing/setup-printing-for-windows](https://support.restoflow.ch/how-to-guides/understanding-printing/setup-printing-for-windows)
+
+
+### Verwandte Artikel
+
+1. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings) [Restoflow Support](https://support.restoflow.ch/getting-started/managing-orders-and-bookings?utm_source=chatgpt.com)
+2. **Drucken verstehen (Übersicht)** – [https://support.restoflow.ch/how-to-guides/understanding-printing](https://support.restoflow.ch/how-to-guides/understanding-printing)
+3. **Drucken für Windows einrichten** – [https://support.restoflow.ch/how-to-guides/understanding-printing/setup-printing-for-windows](https://support.restoflow.ch/how-to-guides/understanding-printing/setup-printing-for-windows)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

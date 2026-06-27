@@ -1,37 +1,37 @@
 ---
 description: >-
-  Integrate shared loyalty provider to let customers accumulate and spend
-  Walletly points.
+  Integrieren Sie einen Anbieter gemeinsamer Treueprogramme, damit Kunden Geld sammeln und ausgeben können
+  Walletly-Punkte.
 ---
 
-# How To Integrate Walletly with Restoflow
+# So integrieren Sie Walletly mit Restoflow
 
-### Setting up Restoflow > Walletly Integration
+### Restoflow einrichten > Walletly-Integration
 
-1. Log in to your Restoflow account at [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Get API key for Walletly, Go to Developers&#x20;
+1. Melden Sie sich bei Ihrem Restoflow-Konto unter [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login) an.
+2. Holen Sie sich den API-Schlüssel für Walletly. Gehen Sie zu „Entwickler“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-26 at 12.43.02 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Create Api Key > Fill out the required details
+4. API-Schlüssel erstellen > Geben Sie die erforderlichen Details ein
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-26 at 12.44.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Copy the API key generated from Restoflow
+* Kopieren Sie den von Restoflow generierten API-Schlüssel
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 5.03.05 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Create a Walletly account at [https://www.walletly.ai/](https://www.walletly.ai/). Click "Get Started"
+5. Erstellen Sie ein Walletly-Konto unter [https://www.walletly.ai/](https://www.walletly.ai/). Klicken Sie auf „Erste Schritte“
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-28 at 5.08.32 PM.png" alt=""><figcaption></figcaption></figure>
 
-6. Paste the Restoflow API key once signed up.
-7. Your Walletly and Restoflow account will be automatically integrated and you are now ready to start the loyalty rewards program for your customers.&#x20;
+6. Fügen Sie nach der Anmeldung den Restoflow-API-Schlüssel ein.
+7. Ihr Walletly- und Restoflow-Konto werden automatisch integriert und Sie können nun das Treueprämienprogramm für Ihre Kunden starten.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}
 
 

@@ -1,39 +1,39 @@
 ---
-description: This section will guide you on how to integrate the CW online ordering to POS.
+description: In diesem Abschnitt erfahren Sie, wie Sie die CW-Onlinebestellung in POS integrieren.
 ---
 
-# How To Integrate PushPOS with Restoflow
+# So integrieren Sie PushPOS mit Restoflow
 
-Integrating online ordering with your POS system transforms manual system into an automated and efficient operation, making the entire process faster, more reliable, and, ultimately, more profitable.
+Durch die Integration der Online-Bestellung in Ihr POS-System wird das manuelle System in einen automatisierten und effizienten Vorgang umgewandelt, wodurch der gesamte Prozess schneller, zuverlässiger und letztendlich profitabler wird.
 
-### Steps:
+### Schritte:
 
-1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to Settings > Integrations > PushPOS
+1. Melden Sie sich bei Ihrem Konto an [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu Einstellungen > Integrationen > PushPOS
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 10.36.42 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Enter API Key and Enable
+3. Geben Sie den API-Schlüssel ein und aktivieren Sie ihn
 
 <figure><img src="../.gitbook/assets/pushpos.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Go to PushPOS > Click the Sales Icon > Items Menu. Take note of the GroupID, ItemID and ModifierID.
+4. Gehen Sie zu PushPOS > Klicken Sie auf das Verkaufssymbol > Artikelmenü. Notieren Sie sich GroupID, ItemID und ModifierID.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 9.33.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Click the Menu Icon > Menu > Edit Item > POS > Add the POS Item ID > Save
+5. Klicken Sie auf das Menüsymbol > Menü > Artikel bearbeiten > POS > POS-Artikel-ID hinzufügen > Speichern
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 10.56.46 AM.png" alt="" width="322"><figcaption></figcaption></figure>
 
-6. To add the **Modifier ID**, go to Option Sets > Option Sets > POS > Add the POS Item ID > Save
+6. Um die **Modifikator-ID** hinzuzufügen, gehen Sie zu Optionssätze > Optionssätze > POS > POS-Artikel-ID hinzufügen > Speichern
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 1.15.15 PM.png" alt="" width="320"><figcaption></figcaption></figure>
 
-7. To add the POS Group ID, go to Category > Edit Category > POS > Add the POS Category ID > Save
+7. Um die POS-Gruppen-ID hinzuzufügen, gehen Sie zu Kategorie > Kategorie bearbeiten > POS > POS-Kategorie-ID hinzufügen > Speichern
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 1.17.31 PM.png" alt="" width="325"><figcaption></figcaption></figure>
 
-8. Log in to the POS Backoffice > Online Order Auto Accept > Tick the box to enable > Save
+8. Melden Sie sich im POS-Backoffice an > Automatische Annahme von Online-Bestellungen > Aktivieren Sie das Kontrollkästchen > Speichern
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-17 at 1.20.31 PM.png" alt="" width="321"><figcaption></figcaption></figure>
 
@@ -44,7 +44,7 @@ Integrating online ordering with your POS system transforms manual system into a
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}
 
 

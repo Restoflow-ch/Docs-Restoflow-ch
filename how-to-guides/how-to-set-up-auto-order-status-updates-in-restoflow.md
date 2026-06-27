@@ -1,34 +1,34 @@
 ---
 description: >-
-  This feature allows orders to automatically move from one status to the next
-  based on preset wait times.
+  Mit dieser Funktion können Bestellungen automatisch von einem Status zum nächsten wechseln
+  basierend auf voreingestellten Wartezeiten.
 ---
 
-# How to Set Up Auto Order Status Updates in Restoflow
+# So richten Sie automatische Aktualisierungen des Bestellstatus in Restoflow ein
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, find the account you want to configure and click “**Manage**”.
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Suchen Sie in der Liste der Konten das Konto, das Sie konfigurieren möchten, und klicken Sie auf „**Verwalten**“.
 
-    ![](<../.gitbook/assets/unknown (27).png>)
-3.  In the left-side menu, click “Settings”.
+![](<../.gitbook/assets/unknown (27).png>)
+3. Klicken Sie im Menü auf der linken Seite auf „Einstellungen“.
 
-    ![](<../.gitbook/assets/unknown (26) (1).png>)
-4. Select the “**Services**” tab.
-5. Choose the services your store offers (**Pickups, Deliveries, Dine-ins**).
-6.  Scroll to **Wait Times & Auto Statuses**.
+![](<../.gitbook/assets/unknown (26) (1).png>)
+4. Wählen Sie die Registerkarte „**Dienste**“.
+5. Wählen Sie die Dienstleistungen aus, die Ihr Geschäft anbietet (**Abholung, Lieferung, Abendessen**).
+6. Scrollen Sie zu **Wartezeiten und automatische Status**.
 
-    **Note:** This section controls the automated status flow and shows the Estimated Wait Time for each service.
+**Hinweis:** Dieser Abschnitt steuert den automatisierten Statusfluss und zeigt die geschätzte Wartezeit für jeden Dienst an.
 
-    ![](<../.gitbook/assets/unknown (25) (1).png>)
-7.  Toggle Enable Automated Order Statuses to turn it on.
+![](<../.gitbook/assets/unknown (25) (1).png>)
+7. Aktivieren Sie die Option „Automatisierte Bestellstatus aktivieren“.
 
-    * **Pickups**: Confirm → Ready → Complete
-    * **Deliveries**: Confirm → Ready → On Route → Complete
-    * **Dine-ins:** Confirm → Ready → Complete\
-      **Note:** Set the **Time Till (Status)** values in minutes for each stage.\
-      Once all times are set, orders will automatically move through each status and the system will calculate the service’s Estimated Wait Time.
+* **Abholungen**: Bestätigen → Bereit → Abgeschlossen
+* **Lieferungen**: Bestätigen → Bereit → Unterwegs → Abgeschlossen
+* **Dine-ins:** Bestätigen → Bereit → Abgeschlossen\
+**Hinweis:** Legen Sie die **Zeit bis (Status)**-Werte in Minuten für jede Phase fest.\
+Sobald alle Zeiten festgelegt sind, durchlaufen Bestellungen automatisch jeden Status und das System berechnet die geschätzte Wartezeit des Dienstes.
 
-    ![](<../.gitbook/assets/unknown (24) (1).png>)
-8. After configuring all wait times, click Save.
+![](<../.gitbook/assets/unknown (24) (1).png>)
+8. Nachdem Sie alle Wartezeiten konfiguriert haben, klicken Sie auf Speichern.

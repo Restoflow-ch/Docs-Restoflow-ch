@@ -1,30 +1,30 @@
 ---
 description: >-
-  Use this process when the assigned Uber driver cancels, is unresponsive, or
-  when the order needs to be rebooked for delivery.
+  Verwenden Sie diesen Vorgang, wenn der zugewiesene Uber-Fahrer abbricht, nicht reagiert oder
+  wenn die Bestellung zur Lieferung umgebucht werden muss.
 ---
 
-# How to Assign Another Uber Driver
+# So weisen Sie einen anderen Uber-Fahrer zu
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, select the account you want to update and click “**Manage**”.
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Wählen Sie aus der Kontenliste das Konto aus, das Sie aktualisieren möchten, und klicken Sie auf „**Verwalten**“.
 
-    ![](<../.gitbook/assets/unknown (12).png>)
-3.  On the left-side menu, go to the “**Orders**” dashboard.
+![](<../.gitbook/assets/unknown (12).png>)
+3. Gehen Sie im Menü auf der linken Seite zum Dashboard „**Bestellungen**“.
 
-    ![](<../.gitbook/assets/unknown (11).png>)
-4. Locate the Uber order.
-5. When the order popup opens, click “**Actions**”.
-6.  Select “**Request Uber Delivery**”.
+![](<../.gitbook/assets/unknown (11).png>)
+4. Suchen Sie die Uber-Bestellung.
+5. Wenn sich das Bestell-Popup öffnet, klicken Sie auf „**Aktionen**“.
+6. Wählen Sie „**Uber-Lieferung anfordern**“.
 
-    * The system will search for another available Uber driver to take the delivery.
+* Das System sucht nach einem anderen verfügbaren Uber-Fahrer, der die Lieferung entgegennimmt.
 
-    ![](<../.gitbook/assets/unknown (10).png>)
+![](<../.gitbook/assets/unknown (10).png>)
 
-**Important Notes:**
+**Wichtige Hinweise:**
 
-* If the delivery was accidentally cancelled by Uber or the store, or if no driver accepted the delivery, you may set the order back to “**Confirmed**” status and then request another driver.
-* This option is usually available a few minutes after the order is initially created.
-* Once requested, the system will automatically look for a new Uber driver in the area.
+* Wenn die Lieferung versehentlich von Uber oder dem Geschäft storniert wurde oder kein Fahrer die Lieferung angenommen hat, können Sie die Bestellung wieder auf den Status „**Bestätigt**“ zurücksetzen und dann einen anderen Fahrer anfordern.
+* Diese Option ist normalerweise einige Minuten nach der ersten Erstellung der Bestellung verfügbar.
+* Sobald Sie dazu aufgefordert werden, sucht das System automatisch nach einem neuen Uber-Fahrer in der Nähe.

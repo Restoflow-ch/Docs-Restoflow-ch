@@ -1,62 +1,62 @@
 ---
 description: >-
-  Use Option Sets to allow customers to choose from multiple customizations such
-  as sizes, add-ons, and toppings. This section will also guide you on how to
-  setup option sets with free quantity.
+  Verwenden Sie Optionssätze, um Kunden die Auswahl aus mehreren Anpassungen zu ermöglichen, z
+  wie Größen, Zusätze und Beläge. In diesem Abschnitt erfahren Sie auch, wie das geht
+  Einrichtungsoptionssätze mit kostenloser Menge.
 ---
 
-# Setup Option Set With Free Quantity
+# Setup-Option mit freier Menge festgelegt
 
-**1. Create a New Option Set**
+**1. Erstellen Sie einen neuen Optionssatz**
 
-* Go to Menus > Option Sets > Create New Option Set
-* Add a name and optional display name
-* Configure settings: show in menu, hide name on receipts, promo price handling
+* Gehen Sie zu Menüs > Optionssätze > Neuen Optionssatz erstellen
+* Fügen Sie einen Namen und optional einen Anzeigenamen hinzu
+* Einstellungen konfigurieren: Im Menü anzeigen, Namen auf Belegen ausblenden, Handhabung von Aktionspreisen
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-12-01 at 9.43.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**2. Add Options**
+**2. Optionen hinzufügen**
 
-* Click Options > Add Option
-* Add name, price, and print name (optional)
-* Toggle No Stock if temporarily unavailable
-* For required selections, tick Default under Conditions
+* Klicken Sie auf Optionen > Option hinzufügen
+* Name, Preis und Druckname hinzufügen (optional)
+* Schalten Sie „Kein Lagerbestand“ um, wenn die Option vorübergehend nicht verfügbar ist
+* Für erforderliche Auswahlen markieren Sie unter „Bedingungen“ das Kontrollkästchen „Standard“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-12-01 at 9.46.29 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**3. Link to Another Set (Variable Pricing)**
+**3. Link zu einem anderen Set (variable Preise)**
 
-* Choose Regular or Variable Pricing to adjust prices based on size or other selection
-* Learn more: Variable Pricing Guide
+* Wählen Sie „Reguläre“ oder „Variable Preise“, um die Preise basierend auf der Größe oder einer anderen Auswahl anzupassen
+* Erfahren Sie mehr: Leitfaden zur variablen Preisgestaltung
 
-**4. Set Conditions**
+**4. Bedingungen festlegen**
 
-* Toggle Required to force a selection
-* Enable Select Multiple for multiple choice
-* Allow Quantity Selection per Option
-* Set Min/Max Choices or leave blank for no limits
-* Set the quantity that you want to be free&#x20;
+* Umschalten erforderlich, um eine Auswahl zu erzwingen
+* Aktivieren Sie „Mehrere auswählen“ für Mehrfachauswahl
+* Mengenauswahl pro Option zulassen
+* Legen Sie Min/Max-Auswahlmöglichkeiten fest oder lassen Sie das Feld leer, um keine Einschränkungen zu erhalten
+* Legen Sie die Menge fest, die Sie frei haben möchten&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-12-01 at 10.18.08 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**NOTE: When setting up free quantity, make sure to add the price for each options. In this case, if customers will add options more than the set free quantity, they will be charged for the sdditional quantity.**&#x20;
+**HINWEIS: Achten Sie beim Einrichten der kostenlosen Menge darauf, den Preis für jede Option hinzuzufügen. Wenn Kunden in diesem Fall mehr Optionen als die festgelegte kostenlose Menge hinzufügen, wird ihnen die zusätzliche Menge in Rechnung gestellt.**&#x20;
 
-**5. Attach to Items**
+**5. An Elemente anhängen**
 
-* Click Add/Remove from Item
-* Select items to link and click Save
-* Refresh store to see the changes
+* Klicken Sie auf „Zu Element hinzufügen/entfernen“.
+* Wählen Sie die zu verknüpfenden Elemente aus und klicken Sie auf Speichern
+* Aktualisieren Sie den Store, um die Änderungen zu sehen
 
-**6. Rearranging & Managing Option Sets**
+**6. Optionssätze neu anordnen und verwalten**
 
-* Go to settings > click Rearrange
-* Drag sets into preferred order
-* Use Copy or Bin icons to duplicate or delete
+* Gehen Sie zu den Einstellungen > klicken Sie auf Neu anordnen
+* Ziehen Sie die Sätze in die gewünschte Reihenfolge
+* Verwenden Sie zum Duplizieren oder Löschen die Symbole „Kopieren“ oder „Papierkorb“.
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

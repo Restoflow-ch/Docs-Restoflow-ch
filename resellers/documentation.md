@@ -1,62 +1,62 @@
 ---
-description: Learn how to manage your white-labelled support documentation for your clients
+description: Erfahren Sie, wie Sie Ihre White-Label-Supportdokumentation für Ihre Kunden verwalten
 ---
 
-# Documentation
+# Dokumentation
 
-## Creating Your Support Documentation
+## Erstellen Ihrer Supportdokumentation
 
-1. Visit [https://github.com](https://github.com) and create an account.
-2. Visit [https://www.gitbook.com](https://www.gitbook.com) and register an account.
-3. Go to [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) and press the fork button on the top right to create your own copy under your account or use an existing desired repository. **It holds significant importance to fork files prior to initiating synchronization with GitBook.**
+1. Besuchen Sie [https://github.com](https://github.com) und erstellen Sie ein Konto.
+2. Besuchen Sie [https://www.gitbook.com](https://www.gitbook.com) und registrieren Sie ein Konto.
+3. Gehen Sie zu [https://github.com/realfresh/cw-docs](https://github.com/realfresh/cw-docs) und klicken Sie oben rechts auf die Gabel-Schaltfläche, um eine eigene Kopie unter Ihrem Konto zu erstellen oder ein vorhandenes gewünschtes Repository zu verwenden. **Es ist sehr wichtig, Dateien vor der Synchronisierung mit GitBook zu forken.**
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.38.03 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-4. Go back to GitBook and create your first documentation space.
-5. In your documentation space, using the top navigation bar, select integrations.
+4. Gehen Sie zurück zu GitBook und erstellen Sie Ihren ersten Dokumentationsbereich.
+5. Wählen Sie in Ihrem Dokumentationsbereich in der oberen Navigationsleiste Integrationen aus.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.34.14 PM.png" alt=""><figcaption></figcaption></figure>
 
-6. Enable and install GitHub Files in the integrations list.
+6. Aktivieren und installieren Sie GitHub-Dateien in der Integrationsliste.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 12.35.30 PM.png" alt=""><figcaption></figcaption></figure>
 
-7. Go back to the selected documentation space and select “Synchronize with Git”.
+7. Gehen Sie zurück zum ausgewählten Dokumentationsbereich und wählen Sie „Mit Git synchronisieren“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.25.34 PM.png" alt=""><figcaption></figcaption></figure>
 
-8. Then select GitHub as a provider then click Configure.
+8. Wählen Sie dann GitHub als Anbieter aus und klicken Sie auf Konfigurieren.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.29.17 PM.png" alt=""><figcaption></figcaption></figure>
 
-9. Connect your account with GitHub.
+9. Verbinden Sie Ihr Konto mit GitHub.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.30.12 PM.png" alt=""><figcaption></figcaption></figure>
 
-10. Select your account or install GitHub Application. Make sure you are logged in to GitHub to automatically pull the account.
+10. Wählen Sie Ihr Konto aus oder installieren Sie die GitHub-Anwendung. Stellen Sie sicher, dass Sie bei GitHub angemeldet sind, um das Konto automatisch abzurufen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.33.36 PM.png" alt=""><figcaption></figcaption></figure>
 
-11. Select “cw-docs” for the repository and “master” for the branch.
+11. Wählen Sie „cw-docs“ für das Repository und „master“ für den Zweig.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.36.45 PM.png" alt=""><figcaption></figcaption></figure>
 
-12. Scroll down and select “Synchronize”. Make sure GitHub to GitBook is the chosen priority.
+12. Scrollen Sie nach unten und wählen Sie „Synchronisieren“. Stellen Sie sicher, dass GitHub to GitBook die gewählte Priorität ist.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-23 at 1.40.04 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-13. After this, your forked documentation repository will be synced over to GitBook.
-14. At this point, you can follow the editing steps below to make changes.
+13. Danach wird Ihr geforktes Dokumentations-Repository mit GitBook synchronisiert.
+14. An dieser Stelle können Sie die folgenden Bearbeitungsschritte ausführen, um Änderungen vorzunehmen.
 
 
 
-## Editing Your Support Documentation
+## Bearbeiten Ihrer Supportdokumentation
 
-1. Visit https://www.gitbook.com and login to your account
-2. Select your documentation site
-3. Press the edit icon button on the bottom right
-4. Make any changes as needed
-5. Once done, press the save button on the bottom right
-6. On the left nav bar, you will see an active draft with a blue button saying "Merge"
-7. Press merge to update the docs with the draft changes just made
+1. Besuchen Sie https://www.gitbook.com und melden Sie sich bei Ihrem Konto an
+2. Wählen Sie Ihre Dokumentationsseite aus
+3. Klicken Sie unten rechts auf die Schaltfläche zum Bearbeiten des Symbols
+4. Nehmen Sie die erforderlichen Änderungen vor
+5. Wenn Sie fertig sind, klicken Sie unten rechts auf die Schaltfläche „Speichern“.
+6. In der linken Navigationsleiste sehen Sie einen aktiven Entwurf mit einer blauen Schaltfläche mit der Aufschrift „Zusammenführen“.
+7. Klicken Sie auf Zusammenführen, um die Dokumente mit den soeben vorgenommenen Entwurfsänderungen zu aktualisieren
 

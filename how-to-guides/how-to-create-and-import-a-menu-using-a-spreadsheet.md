@@ -1,62 +1,62 @@
 ---
 description: >-
-  You can now create a menu in a spreadsheet and will be able to import it into
-  your online ordering site.
+  Sie können jetzt ein Menü in einer Tabelle erstellen und es importieren
+  Ihre Online-Bestellseite.
 ---
 
-# How to Create & Import a Menu Using a Spreadsheet
+# So erstellen und importieren Sie ein Menü mithilfe einer Tabellenkalkulation
 
-Here's a guide on how this feature works&#x20;
+Hier finden Sie eine Anleitung zur Funktionsweise dieser Funktion&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=JbWCiMX4o7I" %}
 
-### Steps:
+### Schritte:
 
-1. Log in to your dashboard. Once you're logged in, navigate to the 'Staff Account' section
+1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, navigieren Sie zum Abschnitt „Mitarbeiterkonto“.
 
-* It's important to ensure that the 'Import/Export' feature is enabled when creating a staff account. If this feature isn't toggled on, the store won’t have access to import or export menus.&#x20;
+* Es ist wichtig sicherzustellen, dass die Funktion „Import/Export“ aktiviert ist, wenn Sie ein Mitarbeiterkonto erstellen. Wenn diese Funktion nicht aktiviert ist, hat der Shop keinen Zugriff auf Import- oder Exportmenüs.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-02-14 at 1.48.19 PM.png" alt="" width="347"><figcaption></figcaption></figure>
 
-2\.  Go to your dashboard's "Menus" section. Here, you have the option of using one of the provided templates or creating a custom menu.\
+2\.  Gehen Sie zum Abschnitt „Menüs“ Ihres Dashboards. Hier haben Sie die Möglichkeit, eine der bereitgestellten Vorlagen zu verwenden oder ein individuelles Menü zu erstellen.\
 \
-\- You will see the list of menus, categories, and dish names when the initial menu has been created. Option sets will also be generated.&#x20;
+\- Sie sehen die Liste der Menüs, Kategorien und Gerichtnamen, wenn das erste Menü erstellt wurde. Optionssätze werden ebenfalls generiert.&#x20;
 
-3.  To edit your menu in a spreadsheet. Click the 'CSV Export' option to extract the menu data. The exported CSV file will contain several columns that you need to fill in with the correct information. \
+3. Um Ihr Menü in einer Tabelle zu bearbeiten. Klicken Sie auf die Option „CSV-Export“, um die Menüdaten zu extrahieren. Die exportierte CSV-Datei enthält mehrere Spalten, die Sie mit den richtigen Informationen ausfüllen müssen. \
     \
-    \- The important coumns to fill out are as follows:
+\- Die wichtigen auszufüllenden Felder sind wie folgt:
 
-    * Menu Name
-    * Category Name
-    * Dish Name
-    * Dish Type (Standard or Combo)
-    * Dish Description<br>
+* Menüname
+* Kategoriename
+* Name des Gerichts
+* Gerichttyp (Standard oder Combo)
+* Beschreibung des Gerichts<br>
 
-    <mark style="color:red;">Note:</mark>  You can delete the Menu ID, Category ID, and Dish ID. These can be deleted as they are not required for editing.
+<mark style="color:red;">Hinweis:</mark> Sie können die Menü-ID, die Kategorie-ID und die Gericht-ID löschen. Diese können gelöscht werden, da sie für die Bearbeitung nicht benötigt werden.
 
     \
-    4\. Begin adding your new menu data. Once completed, save the file in CSV format. \
+4\. Beginnen Sie mit dem Hinzufügen Ihrer neuen Menüdaten. Wenn Sie fertig sind, speichern Sie die Datei im CSV-Format. \
     \
-    5\. After saving the new menu on the spreadsheet, you can now return to the menus and erase the original /current menu generated previously. \
+5\. Nachdem Sie das neue Menü in der Tabelle gespeichert haben, können Sie nun zu den Menüs zurückkehren und das zuvor erstellte ursprüngliche/aktuelle Menü löschen. \
     \
-    6\. Then Import  the updated CSV file into your ordering site by clicking the "CSV Import" button.
+6\. Importieren Sie dann die aktualisierte CSV-Datei in Ihre Bestellseite, indem Sie auf die Schaltfläche „CSV-Import“ klicken.
 
-    * Once the import is successful, the dishes will be created based on the information you entered in the spreadsheet.<br>
+* Sobald der Import erfolgreich war, werden die Gerichte basierend auf den Informationen erstellt, die Sie in die Tabelle eingegeben haben.<br>
 
-    <mark style="color:red;">Note:</mark> Option sets and tags are not included in the CSV file. After completing the export and import process, you’ll need to manually create the option sets and link them to each dish.
+<mark style="color:red;">Hinweis:</mark> Optionssätze und Tags sind nicht in der CSV-Datei enthalten. Nach Abschluss des Export- und Importvorgangs müssen Sie die Optionssätze manuell erstellen und sie mit jedem Gericht verknüpfen.
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Public Holiday Surcharge** - [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
-2. **Managing Orders & Bookings** - [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
-3. How to Create & Manage Your Menus - [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Feiertagszuschlag** – [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
+2. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. So erstellen und verwalten Sie Ihre Menüs – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance maaging this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Unterstützung bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

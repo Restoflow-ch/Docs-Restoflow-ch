@@ -1,23 +1,23 @@
-# Make Menu Available for Logged-in Customers Only
+# Menü nur für angemeldete Kunden verfügbar machen
 
-With this feature, your menu is visible only to customers who are logged in. It’s perfect for offering exclusive access to VIPs, loyalty members, or special customer groups. You can showcase premium items, limited-time offers, or special pricing without exposing them to the general public. This not only helps you reward loyal customers but also gives you control over who can see and order certain items, creating a more personalized and secure ordering experience.
+Mit dieser Funktion ist Ihr Menü nur für eingeloggte Kunden sichtbar. Es eignet sich perfekt, um VIPs, Treuemitgliedern oder speziellen Kundengruppen exklusiven Zugang zu bieten. Sie können Premiumartikel, zeitlich begrenzte Angebote oder Sonderpreise präsentieren, ohne sie der breiten Öffentlichkeit zugänglich zu machen. Dies hilft Ihnen nicht nur, treue Kunden zu belohnen, sondern gibt Ihnen auch die Kontrolle darüber, wer bestimmte Artikel sehen und bestellen kann, was zu einem persönlicheren und sichereren Bestellerlebnis führt.
 
-### Steps:
+### Schritte:
 
-1. On your admin dashboard, go to **Settings** > **System**
+1. Gehen Sie in Ihrem Admin-Dashboard zu **Einstellungen** > **System**
 
 <figure><img src="../.gitbook/assets/unknown (16) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Select “**Misc,**” enable “**Logged in Only**,” and then click **Save**.
+2. Wählen Sie „**Verschiedenes,**“, aktivieren Sie „**Nur angemeldet**“ und klicken Sie dann auf **Speichern**.
 
 <figure><img src="../.gitbook/assets/unknown (17) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. View your store to verify the changes you’ve made. Below is what your online ordering store should look like once the “Logged-In Only” feature is enabled.
+3. Sehen Sie sich Ihren Shop an, um die von Ihnen vorgenommenen Änderungen zu überprüfen. Nachfolgend sehen Sie, wie Ihr Online-Bestellshop aussehen sollte, wenn die Funktion „Nur angemeldet“ aktiviert ist.
 
 <figure><img src="../.gitbook/assets/unknown (18) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

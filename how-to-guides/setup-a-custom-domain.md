@@ -1,39 +1,39 @@
 ---
 description: >-
-  Learn how to connect your own custom domain name to your online store for
-  better branding and SEO
+  Erfahren Sie, wie Sie Ihren eigenen benutzerdefinierten Domainnamen mit Ihrem Online-Shop verbinden
+  besseres Branding und SEO
 ---
 
-# Setup A Custom Domain
+# Richten Sie eine benutzerdefinierte Domäne ein
 
-## Setup Process
+## Einrichtungsprozess
 
-1. In the restaurant dashboard, see "Settings &gt; Website &gt; Domains &gt; Custom Domain"
-2. Enter your domain name and press save
-3. Go to your domain management panel where you registered your domain
-4. Access your DNS records and add the DNS records listed below
-5. After adding the DNS records, wait 10 minutes for it to take effect
-6. Then press the "Generate SSL Certificate" button under your custom domain settings. 
+1. Sehen Sie im Restaurant-Dashboard „Einstellungen &gt; Website &gt; Domains &gt; Benutzerdefinierte Domain“.
+2. Geben Sie Ihren Domainnamen ein und klicken Sie auf Speichern
+3. Gehen Sie zu Ihrem Domain-Verwaltungsbereich, in dem Sie Ihre Domain registriert haben
+4. Greifen Sie auf Ihre DNS-Einträge zu und fügen Sie die unten aufgeführten DNS-Einträge hinzu
+5. Warten Sie nach dem Hinzufügen der DNS-Einträge 10 Minuten, bis sie wirksam werden
+6. Klicken Sie dann unter Ihren benutzerdefinierten Domain-Einstellungen auf die Schaltfläche „SSL-Zertifikat generieren“.
 
-If your DNS settings have taken effect, it will indicate the SSL certificate has generated successfully. Once generated, your site will be accessible on your custom domain name. If you are unable to generate the certificate, allow more time for your DNS settings to take effect.
+Wenn Ihre DNS-Einstellungen wirksam wurden, wird angezeigt, dass das SSL-Zertifikat erfolgreich generiert wurde. Nach der Erstellung ist Ihre Website über Ihren benutzerdefinierten Domainnamen zugänglich. Wenn Sie das Zertifikat nicht generieren können, warten Sie länger, bis Ihre DNS-Einstellungen wirksam werden.
 
-## DNS Record To Add
+## DNS-Eintrag zum Hinzufügen
 
-| Record Type | Host | Value |
+| Datensatztyp | Gastgeber | Wert |
 | :--- | :--- | :--- |
-| A Record | www / order / anything | 35.238.2 .132 |
+| Ein Rekord | www / bestellen / irgendetwas | 35.238.2 .132 |
 
 {% hint style="info" %}
-The host value is the subdomain of your domain that your customer will need to visit to access the site. If the host value is "order" and your domain is "business.com", then your store URL will be "order.business.com"
+Der Hostwert ist die Subdomain Ihrer Domain, die Ihr Kunde besuchen muss, um auf die Website zuzugreifen. Wenn der Hostwert „order“ lautet und Ihre Domain „business.com“ lautet, lautet Ihre Shop-URL „order.business.com“.
 {% endhint %}
 
 {% hint style="warning" %}
-**If you use "www" for your host value, then please add the following record as well**
+**Wenn Sie „www“ als Hostwert verwenden, fügen Sie bitte auch den folgenden Eintrag hinzu**
 {% endhint %}
 
-| Record Type | Host | Value |
+| Datensatztyp | Gastgeber | Wert |
 | :--- | :--- | :--- |
-| A Record | @ / blank | 35.238.2 .132 |
+| Ein Rekord | @ / leer | 35.238.2 .132 |
 
-Setting this will ensure if someone types in your root domain, i.e. example.com, they will be redirected to www.example.com
+Wenn Sie dies festlegen, wird sichergestellt, dass jemand, der Ihre Stammdomäne, z. B. example.com, eingibt, zu www.example.com weitergeleitet wird
 

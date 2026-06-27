@@ -1,44 +1,44 @@
 ---
 description: >-
-  Learn how to update your subscription, add a payment method and manage your
-  account billing.
+  Erfahren Sie, wie Sie Ihr Abonnement aktualisieren, eine Zahlungsmethode hinzufügen und Ihr Abonnement verwalten
+  Kontoabrechnung.
 ---
 
-# Your Subscription & Billing
+# Ihr Abonnement und Ihre Abrechnung
 
-## Changing Subscription Plan
+## Abonnementplan ändern
 
-1. Visit [https://admin.restoflow.ch](https://admin.restoflow.ch) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select your subscription plan and press "Edit Subscription"
-4. Choose your plan from the drop down and press "Update Subscription"
+1. Besuchen Sie [https://admin.restoflow.ch](https://admin.restoflow.ch) und melden Sie sich an
+2. Klicken Sie bei einem Restaurant in Ihrer Restaurantliste auf **Abrechnung**
+3. Wählen Sie im Popup Ihr Abonnement aus und klicken Sie auf „Abonnement bearbeiten“.
+4. Wählen Sie Ihren Plan aus der Dropdown-Liste aus und klicken Sie auf „Abonnement aktualisieren“.
 
-|| You will need to add a payment method before switching to a paid plan
+|| Sie müssen eine Zahlungsmethode hinzufügen, bevor Sie zu einem kostenpflichtigen Plan wechseln können
 
-## Add A Payment Method
+## Fügen Sie eine Zahlungsmethode hinzu
 
-We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
+Wir akzeptieren derzeit nur Visa, MasterCard und American Express. Um eine Zahlungsmethode hinzuzufügen, müssen Sie:
 
-1. Visit [https://admin.restoflow.ch](https://admin.restoflow.ch) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select "Payment Methods" and enter your card details
+1. Besuchen Sie [https://admin.restoflow.ch](https://admin.restoflow.ch) und melden Sie sich an
+2. Klicken Sie bei einem Restaurant in Ihrer Restaurantliste auf **Abrechnung**
+3. Wählen Sie im Popup „Zahlungsmethoden“ und geben Sie Ihre Kartendaten ein
 
-## Billing Cycle
+## Abrechnungszyklus
 
-You will be billed on the same day that your account was activated every month.
+Die Rechnung wird Ihnen jeden Monat am selben Tag in Rechnung gestellt, an dem Ihr Konto aktiviert wurde.
 
-## Failed Payments
+## Fehlgeschlagene Zahlungen
 
-If your payment fails, we will inform you and attempt to charge your card again in 24 hours. If it fails again, we will retry in 3 days and 3 days after if that fails. If the 3rd payment retry fails within 7 days of your initial failed payment, your account will be cancelled.
+Sollte Ihre Zahlung fehlschlagen, werden wir Sie informieren und innerhalb von 24 Stunden versuchen, Ihre Karte erneut zu belasten. Wenn es erneut fehlschlägt, werden wir es in 3 Tagen erneut versuchen, und 3 Tage danach, wenn dies fehlschlägt. Wenn der dritte Zahlungswiederholungsversuch innerhalb von 7 Tagen nach Ihrer ersten fehlgeschlagenen Zahlung fehlschlägt, wird Ihr Konto gekündigt.
 
-## Cancelled Accounts
+## Gekündigte Konten
 
-If your account has been cancelled due to a failed payment, you will no longer be able to accept orders. However, your store will still remain online and all your information will be kept.
+Wenn Ihr Konto aufgrund einer fehlgeschlagenen Zahlung gekündigt wurde, können Sie keine Bestellungen mehr annehmen. Ihr Shop bleibt jedoch weiterhin online und alle Ihre Daten bleiben erhalten.
 
-## Re-Activating Your Subscription
+## Erneute Aktivierung Ihres Abonnements
 
-If your account is cancelled, add a valid payment method to re-active your subscription.
+Wenn Ihr Konto gekündigt wird, fügen Sie eine gültige Zahlungsmethode hinzu, um Ihr Abonnement erneut zu aktivieren.
 
-## Refunds
+## Rückerstattungen
 
-Refunds will only be provided if our platform fails to meet its stated role when being used. Please contact us to discuss this.
+Rückerstattungen erfolgen nur, wenn unsere Plattform bei der Nutzung ihre angegebene Funktion nicht erfüllt. Bitte kontaktieren Sie uns, um dies zu besprechen.

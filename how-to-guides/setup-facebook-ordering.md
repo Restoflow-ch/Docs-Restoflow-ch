@@ -1,37 +1,37 @@
 ---
 description: >-
-  Enabling Facebook ordering will allow your customers to order from your
-  Facebook page.
+  Durch die Aktivierung der Facebook-Bestellung können Ihre Kunden bei Ihnen bestellen
+  Facebook-Seite.
 ---
 
-# Setup Facebook Ordering
+# Facebook-Bestellung einrichten
 
 {% hint style="danger" %}
-As much as this feature sounds great, it's honestly not very pleasant for people to order through Facebook. These tabs are also only available in desktop versions of Facebook further limiting them. That means it won't work on for users on their mobile phones. Facebook also makes regular updates and sometimes things break unexpectedly. As such, overall we recommend against using this feature. Simply directing people to your ordering domain is a far more reliable option.
+So großartig diese Funktion auch klingt, für die Leute ist es ehrlich gesagt nicht sehr angenehm, über Facebook zu bestellen. Diese Registerkarten sind außerdem nur in Desktop-Versionen von Facebook verfügbar, was sie noch weiter einschränkt. Das bedeutet, dass es für Benutzer auf ihren Mobiltelefonen nicht funktioniert. Facebook führt auch regelmäßig Updates durch und manchmal geht etwas unerwartet kaputt. Daher raten wir insgesamt davon ab, diese Funktion zu verwenden. Eine weitaus zuverlässigere Option ist die einfache Weiterleitung von Personen zu Ihrer Bestelldomäne.
 {% endhint %}
 
-Visit [https://developers.facebook.com](https://developers.facebook.com). If you are not already signed into Facebook, you can sign in with your regular Facebook account.
+Besuchen Sie [https://developers.facebook.com](https://developers.facebook.com). Wenn Sie noch nicht bei Facebook angemeldet sind, können Sie sich mit Ihrem regulären Facebook-Konto anmelden.
 
-Once done, select the "My Apps" button on the top right and select "create new app".
+Wenn Sie fertig sind, klicken Sie oben rechts auf die Schaltfläche „Meine Apps“ und wählen Sie „Neue App erstellen“.
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_f92n5y.png)
 
-Enter your business name for your app name along with your email address and press create
+Geben Sie Ihren Firmennamen für Ihren App-Namen zusammen mit Ihrer E-Mail-Adresse ein und klicken Sie auf „Erstellen“.
 
-After creating the app, you will be taken to the app dashboard. On the left menu, go to "Settings > Basic"
+Nach dem Erstellen der App gelangen Sie zum App-Dashboard. Gehen Sie im linken Menü zu „Einstellungen > Allgemein“
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_wtsxiz.png)
 
-Choose "Page Tab". You will now need to fill in your store URL under "Secure Page Tab URL" and what you want to call your page tab under "Page Tab Name". Your store URL can either be your Restoflow subdomain such as "[https://yourdomain.restoflow.ch](https://yourdomain.restoflow.ch)" or your custom domain name if setup
+Wählen Sie „Seitenregisterkarte“. Sie müssen nun Ihre Shop-URL unter „URL des sicheren Seiten-Tabs“ und unter „Name des Seiten-Tabs“ eingeben, wie Sie Ihren Seiten-Tab nennen möchten. Ihre Shop-URL kann entweder Ihre Restoflow-Subdomain wie „[https://yourdomain.restoflow.ch](https://yourdomain.restoflow.ch)“ oder Ihr benutzerdefinierter Domainname sein, falls eingerichtet
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_cb565a.png)
 
-To add the page tab to your Facebook page, you will need your Facebook App ID which you will see highlighted in orange in the previous photo at the top of the page
+Um den Seiten-Tab zu Ihrer Facebook-Seite hinzuzufügen, benötigen Sie Ihre Facebook-App-ID, die Sie auf dem vorherigen Foto oben auf der Seite orange hervorgehoben sehen
 
-Next, you need to visit the following URL into your browser making sure to replace  with your Facebook app ID and  with the store URL that you entered previously
+Als Nächstes müssen Sie die folgende URL in Ihrem Browser aufrufen und diese durch Ihre Facebook-App-ID und die zuvor eingegebene Store-URL ersetzen
 
-[https://www.facebook.com/dialog/pagetab?app\_id=\{{YOUR\_APP\_ID\}}\&redirect\_uri=\{{YOUR\_STORE\_URL\}}](https://www.facebook.com/dialog/pagetab?app\_id=\{{YOUR\_APP\_ID\}}\&redirect\_uri=\{{YOUR\_STORE\_URL\}})
+[https://www.facebook.com/dialog/pagetab?app\_id=\{{YOUR\_APP\_ID\}}\&redirect\_uri=\{{IHR\_STORE\_URL\}}](https://www.facebook.com/dialog/pagetab?app\_id=\{{YOUR\_APP\_ID\}}\&redirect\_uri=\{{YOUR\_STORE\_URL\}})
 
-If done correctly, you will see a page on Facebook saying "Add Page Tab" and you will be able to select one of your Facebook pages
+Wenn Sie es richtig gemacht haben, wird auf Facebook eine Seite mit der Aufschrift „Seiten-Tab hinzufügen“ angezeigt und Sie können eine Ihrer Facebook-Seiten auswählen
 
-If done correctly, you will see a page on Facebook saying "Add Page Tab" and you will be able to select one of your Facebook pages
+Wenn Sie es richtig gemacht haben, wird auf Facebook eine Seite mit der Aufschrift „Seiten-Tab hinzufügen“ angezeigt und Sie können eine Ihrer Facebook-Seiten auswählen

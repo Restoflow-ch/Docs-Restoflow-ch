@@ -1,58 +1,58 @@
 ---
 description: >-
-  Delivery Zones ensures delivery orders are accepted only within set areas.
-  Take note that adding delivery zones will override existing delivery fee and
+  Lieferzonen stellen sicher, dass Lieferaufträge nur innerhalb festgelegter Gebiete angenommen werden.
+  Beachten Sie, dass durch das Hinzufügen von Lieferzonen die bestehenden Liefergebühren außer Kraft gesetzt werden
   max driving distance settings.
 ---
 
-# Adding Delivery Zones
+# Lieferzonen hinzufügen
 
-Here are the steps to create a delivery zones:<br>
+Hier sind die Schritte zum Erstellen einer Lieferzone:<br>
 
-1\. Go to Settings > Services > Deliveries > Zones > Click "Custom Google Maps"
+1\. Gehen Sie zu Einstellungen > Dienste > Lieferungen > Zonen > Klicken Sie auf „Benutzerdefiniertes Google Maps“.
 
 <figure><img src="../.gitbook/assets/Delivery pic 1.png" alt=""><figcaption></figcaption></figure>
 
-2. Click "+Create A New Map" once you're on the Google Map Page.
+2. Klicken Sie auf „+Neue Karte erstellen“, sobald Sie sich auf der Google Maps-Seite befinden.
 
 <figure><img src="../.gitbook/assets/Delivery pic2.png" alt=""><figcaption></figcaption></figure>
 
-3. Search for your store address
+3. Suchen Sie nach Ihrer Geschäftsadresse
 
 <figure><img src="../.gitbook/assets/delivery pic3.png" alt=""><figcaption></figcaption></figure>
 
-4. Click "Draw a Line" and Select "Add line or shape"
+4. Klicken Sie auf „Linie zeichnen“ und wählen Sie „Linie oder Form hinzufügen“.
 
 <figure><img src="../.gitbook/assets/Delivery pic4.png" alt=""><figcaption></figcaption></figure>
 
-5\. Draw a point to point line to enclose your delivery zone.
+5\. Zeichnen Sie eine Punkt-zu-Punkt-Linie, um Ihre Lieferzone einzuschließen.
 
 <figure><img src="../.gitbook/assets/Del pic5 (3).png" alt=""><figcaption></figcaption></figure>
 
-6\. Once the zone is mapped, re-name it to your desired zone name and click save.
+6\. Sobald die Zone zugeordnet ist, benennen Sie sie in den gewünschten Zonennamen um und klicken Sie auf „Speichern“.
 
 <figure><img src="../.gitbook/assets/Del pic6 (1).png" alt=""><figcaption></figcaption></figure>
 
-7\. Click the 3 Dot button and select "Export to KML/KMZ" to export the file.
+7\. Klicken Sie auf die Schaltfläche mit den drei Punkten und wählen Sie „Nach KML/KMZ exportieren“, um die Datei zu exportieren.
 
 <figure><img src="../.gitbook/assets/Del pic7 (1).png" alt=""><figcaption></figcaption></figure>
 
-8\. Make sure to select only the Layer and not the entire map and don't forget to check the "Export as KML instead of KMZ. Does not support all icons." option.
+8\. Stellen Sie sicher, dass Sie nur die Ebene und nicht die gesamte Karte auswählen und vergessen Sie nicht, die Option „Als KML statt KMZ exportieren. Unterstützt nicht alle Symbole“ zu aktivieren. Option.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 10.02.07 AM.png" alt=""><figcaption></figcaption></figure>
 
-9\. Download the file and upload it here:
+9\. Laden Sie die Datei herunter und laden Sie sie hier hoch:
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 10.02.25 AM (1).png" alt=""><figcaption></figcaption></figure>
 
-10\. Once the file is uploaded, the mapped zones will appear here. You can set desired fees for certain zones.
+10\. Sobald die Datei hochgeladen ist, werden die zugeordneten Zonen hier angezeigt. Sie können für bestimmte Zonen gewünschte Gebühren festlegen.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-23 at 10.02.49 AM.png" alt=""><figcaption></figcaption></figure>
 
-Take note that you can create multiple zones in one map. Utilize it to achieve the perfect delivery zones for you.
+Beachten Sie, dass Sie mehrere Zonen in einer Karte erstellen können. Nutzen Sie es, um die für Sie perfekten Lieferzonen zu finden.
 
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

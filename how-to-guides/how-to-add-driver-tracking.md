@@ -1,25 +1,25 @@
 ---
 description: >-
-  Driver Tracking powered by QuestTag.com provides customer notifications with
-  real-time delivery driver tracking for Restoflow delivery orders.
+  Driver Tracking powered by QuestTag.com bietet Kundenbenachrichtigungen mit
+  Echtzeit-Verfolgung der Lieferfahrer für Restoflow-Lieferaufträge.
 ---
 
-# How to add Driver Tracking
+# So fügen Sie Driver Tracking hinzu
 
-## Features
+## Funktionen
 
 ![](../.gitbook/assets/screen-shot-2020-08-29-at-8.20.24-pm.png)
 
-* Easy-to-use dashboard
-* Restoflow orders automatically added
-* Real-time tracking of drivers for restaurant and customer
-* Mobile app for drivers
-* Customer email notifications
-* Driver payments and tips tracking
-* Customer text notifcations \(paid\)
-* Auto-dispatching \(paid\)
+* Einfach zu bedienendes Dashboard
+* Restoflow-Bestellungen werden automatisch hinzugefügt
+* Echtzeitverfolgung von Fahrern für Restaurant und Kunden
+* Mobile App für Fahrer
+* E-Mail-Benachrichtigungen des Kunden
+* Fahrerzahlungen und Trinkgeldverfolgung
+* Textbenachrichtigungen für Kunden \(kostenpflichtig\)
+* Automatischer Versand \(kostenpflichtig\)
 
-## Set-up QuestTag Integration
+## QuestTag-Integration einrichten
 
 
 

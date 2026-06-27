@@ -1,14 +1,14 @@
-# Changing Bank Account / Debit Card Details Associated with an Express Account
+# Bankkonto-/Debitkartendetails ändern, die mit einem Express-Konto verknüpft sind
 
-To update bank account details, an Express user should head to the **Account Tab** in their Dashboar&#x64;**.** Under **Payout Details**, they will see the platforms tied to their account. Once a platform is selected, they will be able to update:
+Um die Bankkontodaten zu aktualisieren, sollte ein Express-Benutzer in seinem Dashboard zum **Konto-Tab** gehen.** Unter **Auszahlungsdetails** werden ihm die mit seinem Konto verknüpften Plattformen angezeigt. Sobald eine Plattform ausgewählt ist, können sie Folgendes aktualisieren:
 
-* Where to send their payouts (debit card or bank account)
-* Their bank account or card details
+* Wohin sie ihre Auszahlungen senden können (Debitkarte oder Bankkonto)
+* Ihre Bankkonto- oder Kartendaten
 
-If the external account (debit card or bank account) in question has previously received a successful payout, **Express** users will be required to enter their previous external bank account details and a 6-digit SMS verification code to make any edits.
+Wenn das betreffende externe Konto (Debitkarte oder Bankkonto) zuvor eine erfolgreiche Auszahlung erhalten hat, müssen **Express**-Benutzer ihre vorherigen externen Bankkontodaten und einen 6-stelligen SMS-Bestätigungscode eingeben, um Änderungen vorzunehmen.
 
-**Note** that keeping payout details up to date helps to prevent any delay in receiving payouts. To avoid delays, we strongly encourage **Express** users to update their payout information in advance of any changes and to update their debit card details before the card expires.
+**Beachten Sie**, dass die Aktualisierung der Auszahlungsdetails dazu beiträgt, Verzögerungen beim Erhalt von Auszahlungen zu vermeiden. Um Verzögerungen zu vermeiden, empfehlen wir **Express**-Benutzern dringend, ihre Auszahlungsinformationen vor etwaigen Änderungen und ihre Debitkartendaten vor Ablauf der Karte zu aktualisieren.
 
 
 
-For further assistance, feel free to [contact us](https://restoflow.ch/contact).
+Für weitere Unterstützung können Sie uns gerne [kontaktieren](https://restoflow.ch/contact).

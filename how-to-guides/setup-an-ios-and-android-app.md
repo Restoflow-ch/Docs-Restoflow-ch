@@ -1,20 +1,20 @@
 ---
 description: >-
-  With our native mobile app solution, we are able to package your online store
-  into your own custom branded mobile application.
+  Mit unserer nativen mobilen App-Lösung sind wir in der Lage, Ihren Online-Shop zu verpacken
+  in Ihre eigene, individuell gestaltete mobile Anwendung integrieren.
 ---
 
-# Setup an iOS & Android App
+# Richten Sie eine iOS- und Android-App ein
 
-## Custom App Setup Process
+## Benutzerdefinierter App-Setup-Prozess
 
-1. Contact us using our live-chat to let us know that you would like us to start the process
-2. We send you further instructions and request some digital graphics
-3. We will create and send you pictures of your app icon and splash screen for you to approve
-4. Finally, we publish the apps to your Apple and Android store accounts
+1. Kontaktieren Sie uns über unseren Live-Chat, um uns mitzuteilen, dass Sie möchten, dass wir den Prozess starten
+2. Wir senden Ihnen weitere Anweisungen und fordern einige digitale Grafiken an
+3. Wir erstellen und senden Ihnen Bilder Ihres App-Symbols und Begrüßungsbildschirms zur Genehmigung
+4. Abschließend veröffentlichen wir die Apps in Ihren Apple- und Android-Store-Konten
 
 {% hint style="info" %}
-This application is compatible with Android and iOS platforms.
+Diese Anwendung ist mit Android- und iOS-Plattformen kompatibel.
 {% endhint %}
 
 

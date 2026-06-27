@@ -1,35 +1,35 @@
-# How To Process Refund
+# So bearbeiten Sie die Rückerstattung
 
-### Steps on How to do Refunds
+### Schritte zur Durchführung von Rückerstattungen
 
-1. Log in to your dashboard. Once you're logged in, click "Manage"
+1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, klicken Sie auf „Verwalten“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.38.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Click the Order Icon
+2. Klicken Sie auf das Bestellsymbol
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.40.17 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Go to List
+3. Gehen Sie zur Liste
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.42.25 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Look for the Order/Transaction
-5. Click Action
+4. Suchen Sie nach der Bestellung/Transaktion
+5. Klicken Sie auf Aktion
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.43.52 PM.png" alt="" width="335"><figcaption></figcaption></figure>
 
-4. Click Refund
-5. Fill out the Details
+4. Klicken Sie auf Rückerstattung
+5. Füllen Sie die Details aus
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.51.14 PM.png" alt="" width="332"><figcaption></figcaption></figure>
 
 
 
-Note: Funds might take a couple of days to reach the customer's account.&#x20;
+Hinweis: Es kann einige Tage dauern, bis das Geld auf dem Konto des Kunden eingeht.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

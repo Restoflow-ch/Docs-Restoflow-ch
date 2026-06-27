@@ -1,90 +1,90 @@
 ---
 description: >-
-  Learn about our reseller platform's features, pricing, prerequisites, and
-  setup process.
+  Erfahren Sie mehr über die Funktionen, Preise, Voraussetzungen usw. unserer Reseller-Plattform
+  Einrichtungsprozess.
 ---
 
-# Overview
+# Übersicht
 
-With a reseller account, you will get access to your own white-labelled and customized online admin interface hosted under your own domain. Any customer accounts created through this admin interface will be tagged under your main reseller account. These accounts are not tied into the Restoflow billing system at all and they will not receive any marketing e-mail from us. While you manage the billing of your customers, we will only bill you.
+Mit einem Reseller-Konto erhalten Sie Zugriff auf Ihre eigene White-Label- und individuelle Online-Administratoroberfläche, die unter Ihrer eigenen Domain gehostet wird. Alle über diese Admin-Oberfläche erstellten Kundenkonten werden Ihrem Haupt-Reseller-Konto zugeordnet. Diese Konten sind überhaupt nicht an das Abrechnungssystem von Restoflow gebunden und erhalten keine Marketing-E-Mails von uns. Während Sie die Abrechnung Ihrer Kunden verwalten, stellen wir nur Ihnen Rechnungen aus.
 
-## What's Included
+## Was ist im Lieferumfang enthalten?
 
-### Online Admin Interface
+### Online-Administratoroberfläche
 
-The online admin interface we provide is the exact same as the one found on our website at [https://admin.restoflow.ch](https://admin.restoflow.ch), but as stated it is modified to your business and any references to Restoflow are stripped out. Any customer accounts created through your admin portal will be tagged as part of your reseller account. This admin interface is also where your customers will go to manage their account information and orders. This can be hosted at any domain name of your choice.
+Die von uns bereitgestellte Online-Administratoroberfläche ist genau die gleiche wie die auf unserer Website unter [https://admin.restoflow.ch](https://admin.restoflow.ch), ist aber, wie bereits erwähnt, an Ihr Unternehmen angepasst und alle Verweise auf Restoflow wurden entfernt. Alle über Ihr Admin-Portal erstellten Kundenkonten werden als Teil Ihres Reseller-Kontos gekennzeichnet. Über diese Admin-Oberfläche können Ihre Kunden auch ihre Kontoinformationen und Bestellungen verwalten. Dies kann unter jedem Domainnamen Ihrer Wahl gehostet werden.
 
-### Custom Domain Name Integration
+### Benutzerdefinierte Domainnamen-Integration
 
-Under Restoflow, all new accounts can select a subdomain name under the main 'restoflow.ch' domain. As part of your reseller account, all online stores created will instead be assigned a sub-domain under your custom domain name.
+Unter Restoflow können alle neuen Konten einen Subdomainnamen unter der Hauptdomain „restoflow.ch“ auswählen. Als Teil Ihres Reseller-Kontos wird allen erstellten Online-Shops stattdessen eine Subdomain unter Ihrem benutzerdefinierten Domainnamen zugewiesen.
 
-### Comprehensive Support
+### Umfassender Support
 
-All our resellers can attest to the level of commitment we put into supporting them and their customers. We work very closely with them and see to it that they always get the support required. We also regularly take new feature requests.
+Alle unsere Wiederverkäufer können das Maß an Engagement bestätigen, mit dem wir sie und ihre Kunden unterstützen. Wir arbeiten sehr eng mit ihnen zusammen und sorgen dafür, dass sie stets die erforderliche Unterstützung erhalten. Wir nehmen auch regelmäßig Anfragen zu neuen Funktionen entgegen.
 
-### Access To All Platform Updates
+### Zugriff auf alle Plattform-Updates
 
-Every update and fix that we release will be automatically added to your configuration and sites ensuring that you always have the most up to date system.
+Jedes Update und jeder Fix, den wir veröffentlichen, wird automatisch zu Ihrer Konfiguration und Ihren Websites hinzugefügt, um sicherzustellen, dass Sie immer über das aktuellste System verfügen.
 
-### Personalized System Customizations
+### Personalisierte Systemanpassungen
 
-Here are some of the things we can customize for you:
+Hier sind einige der Dinge, die wir für Sie anpassen können:
 
-* Login / signup logo
-* Application name
-* Disable website sign up’s
-* Auto-verify email addresses
-* Pre-set store design & settings
-* Custom chat widget integration
-* Marketplace builder (optional)
+* Login-/Anmeldelogo
+* Anwendungsname
+* Website-Anmeldungen deaktivieren
+* E-Mail-Adressen automatisch überprüfen
+* Voreingestelltes Ladendesign und -einstellungen
+* Benutzerdefinierte Chat-Widget-Integration
+* Marktplatz-Builder (optional)
 
-## Pricing
+## Preise
 
-We only charge a low flat monthly cost per restaurant. Please get in touch with us to find out the exact amount. There are no other fees involved.
+Wir berechnen nur geringe monatliche Pauschalkosten pro Restaurant. Bitte kontaktieren Sie uns, um den genauen Betrag zu erfahren. Es fallen keine weiteren Gebühren an.
 
-We can support a revenue share model in specific circumstances.  Please contact us to discuss.
+Unter bestimmten Umständen können wir ein Umsatzbeteiligungsmodell unterstützen.  Bitte kontaktieren Sie uns, um dies zu besprechen.
 
-## Requirements
+## Anforderungen
 
-### Domain Name
+### Domainname
 
-You will need your own domain name to set up a reseller account. A domain name is used to host your admin dashboard application and your customer's online stores.
+Sie benötigen Ihren eigenen Domainnamen, um ein Reseller-Konto einzurichten. Ein Domänenname wird zum Hosten Ihrer Admin-Dashboard-Anwendung und der Online-Shops Ihrer Kunden verwendet.
 
-For example, the admin interface can be located at "admin.example.com". All your online stores can be found at "(name).example.com". Optionally, a separate custom domain can be connected to your individual online stores.
+Die Admin-Oberfläche kann sich beispielsweise unter „admin.example.com“ befinden. Alle Ihre Online-Shops finden Sie unter „(name).example.com“. Optional kann eine separate benutzerdefinierte Domain mit Ihren individuellen Online-Shops verbunden werden.
 
-### Support E-mail Address
+### Support-E-Mail-Adresse
 
-We require one support email address to white-label all support and system emails sent to customers. This includes order notification e-mails. If this is not provided, your customers will receive emails from "info@restoflow.ch".
+Wir benötigen eine Support-E-Mail-Adresse, um alle an Kunden gesendeten Support- und System-E-Mails mit einem White-Label zu versehen. Hierzu zählen auch Bestellbenachrichtigungs-E-Mails. Ist dies nicht vorgesehen, erhalten Ihre Kunden E-Mails von „info@restoflow.ch“.
 
-Please note, Gmail, Hotmail and other e-mail hosting providers will not work for this. A custom domain email address is mandatory.
+Bitte beachten Sie, dass Gmail, Hotmail und andere E-Mail-Hosting-Anbieter hierfür nicht funktionieren. Eine benutzerdefinierte Domain-E-Mail-Adresse ist obligatorisch.
 
-### Billing System (Optional)
+### Abrechnungssystem (optional)
 
-You will need a way to bill your clients as their subscription is not managed by us. We provide a system to manage you own billing and we also can provide an integration with Stripe for resellers to automate client billing.  Please note that extra fees and charges apply for Stipe processing.
+Sie benötigen eine Möglichkeit, Ihren Kunden Rechnungen zu stellen, da deren Abonnement nicht von uns verwaltet wird. Wir bieten ein System zur Verwaltung Ihrer eigenen Abrechnungen und können Wiederverkäufern auch eine Integration mit Stripe anbieten, um die Kundenabrechnungen zu automatisieren.  Bitte beachten Sie, dass für die Stipe-Bearbeitung zusätzliche Gebühren und Entgelte anfallen.
 
-We also support the collection of commissions from payments should you want to charge a percentage of sales or a fee per order.
+Wir unterstützen auch die Erhebung von Provisionen aus Zahlungen, wenn Sie einen Prozentsatz des Umsatzes oder eine Gebühr pro Bestellung berechnen möchten.
 
-## Setup Process
+## Einrichtungsprozess
 
-On average, it takes 7 days to complete the reseller account set up once we have gotten all the information required from you. Here are the steps involved:
+Im Durchschnitt dauert die Einrichtung des Reseller-Kontos 7 Tage, nachdem wir alle erforderlichen Informationen von Ihnen erhalten haben. Hier sind die Schritte:
 
-1. Contact us and we will send you the online reseller sign up form
-2. Complete the form to start the process
-3. We will request your billing information along with the initial deposit.
-4. Once the deposit is confirmed, we will configure your reseller account&#x20;
-5. We will provide you with the necessary details to configure your web domain and to set up the platform
-6. After this, you can review your setup, create a demo account and make any post set up modifications
+1. Kontaktieren Sie uns und wir senden Ihnen das Online-Anmeldeformular für Wiederverkäufer
+2. Füllen Sie das Formular aus, um den Vorgang zu starten
+3. Wir werden Ihre Rechnungsinformationen zusammen mit der ersten Anzahlung anfordern.
+4. Sobald die Anzahlung bestätigt ist, konfigurieren wir Ihr Reseller-Konto&#x20;
+5. Wir stellen Ihnen die notwendigen Details zur Verfügung, um Ihre Web-Domain zu konfigurieren und die Plattform einzurichten
+6. Danach können Sie Ihre Einrichtung überprüfen, ein Demokonto erstellen und nach der Einrichtung etwaige Änderungen vornehmen
 
 ## FAQ
 
-#### Difference between standard accounts and accounts created under your reseller system
+#### Unterschied zwischen Standardkonten und Konten, die unter Ihrem Reseller-System erstellt wurden
 
-Reseller customer accounts do not have any subscription with Restoflow. This means they do not receive any bills, invoices or charges from us.
+Reseller-Kundenkonten haben kein Abonnement bei Restoflow. Das bedeutet, dass sie von uns keine Rechnungen, Rechnungen oder Gebühren erhalten.
 
-Reseller customer accounts are not tied into our mailing systems meaning they do not receive any marketing/help emails from us.
+Reseller-Kundenkonten sind nicht an unsere Mailing-Systeme gebunden, was bedeutet, dass sie keine Marketing-/Hilfe-E-Mails von uns erhalten.
 
-#### What should I charge my customers?
+#### Was soll ich meinen Kunden in Rechnung stellen?
 
-We want to have a mutually beneficial relationship with our resellers. We see our role as being able to provide a reliable and robust online ordering system that is always being improved. The role of the reseller lies in the implementation and packaging of the system for businesses.
+Wir möchten eine für beide Seiten vorteilhafte Beziehung zu unseren Wiederverkäufern pflegen. Wir sehen unsere Aufgabe darin, ein zuverlässiges und robustes Online-Bestellsystem bereitzustellen, das ständig verbessert wird. Die Rolle des Wiederverkäufers liegt in der Implementierung und Paketierung des Systems für Unternehmen.
 
-To avoid the issue of your clients potentially being upset at a difference in pricing from resellers and Restoflow itself, it's best to take a value-added pricing approach. What this means is to find ways to add value on top of the bare online ordering system. For example, you can offer packages that include system setup, facebook ad designs, printers, staff training, ongoing support and much more.
+Um zu vermeiden, dass Ihre Kunden möglicherweise über Preisunterschiede zwischen Wiederverkäufern und Restoflow selbst verärgert werden, ist es am besten, einen Mehrwertpreisansatz zu wählen. Das bedeutet, Wege zu finden, um über das reine Online-Bestellsystem hinaus einen Mehrwert zu schaffen. Sie können beispielsweise Pakete anbieten, die Systemeinrichtung, Facebook-Anzeigendesigns, Drucker, Mitarbeiterschulung, fortlaufenden Support und vieles mehr umfassen.

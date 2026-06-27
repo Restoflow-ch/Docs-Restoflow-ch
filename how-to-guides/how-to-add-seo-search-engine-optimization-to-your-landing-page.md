@@ -1,22 +1,22 @@
 ---
 description: >-
-  Learn how to optimize your landing page for search engines to improve
-  visibility and help potential customers find your business more easily.
+  Erfahren Sie, wie Sie Ihre Zielseite für Suchmaschinen optimieren
+  Erhöhen Sie die Sichtbarkeit und helfen Sie potenziellen Kunden, Ihr Unternehmen leichter zu finden.
 ---
 
-# How to Add SEO (Search Engine Optimization to Your Landing Page
+# So fügen Sie Ihrer Landingpage SEO (Suchmaschinenoptimierung) hinzu
 
-### Steps:
+### Schritte:
 
-1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Landing Page**
+1. Melden Sie sich bei Ihrem Konto an[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zur **Landingpage**
 
 <figure><img src="../.gitbook/assets/unknown (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Click **Search Engine Optimization**
+3. Klicken Sie auf **Suchmaschinenoptimierung**
 
 <figure><img src="../.gitbook/assets/unknown (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Enter the **Website Title** and **Website Meta Description**, then **Save**.
+4. Geben Sie den **Website-Titel** und die **Website-Meta-Beschreibung** ein und klicken Sie dann auf **Speichern**.
 
 <figure><img src="../.gitbook/assets/unknown (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -1,58 +1,58 @@
 ---
 description: >-
-  Customers will not be required to provide their basic information when placing
-  an order.
+  Kunden müssen bei der Platzierung keine grundlegenden Informationen angeben
+  eine Bestellung.
 ---
 
-# Make Customer Information Optional
+# Machen Sie Kundeninformationen optional
 
-### Steps (Pickups & Deliveries)
+### Schritte (Abholung und Lieferung)
 
-1. Log in to your dashboard. Once you're logged in, click "**Manage**"
+1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, klicken Sie auf „**Verwalten**“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.38.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Go to **Settings**&#x20;
+2. Gehen Sie zu **Einstellungen**&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Go to **Services**. Choose the service where you want this feature to be applied (Pickup/ Deliveries).
+3. Gehen Sie zu **Dienste**. Wählen Sie den Dienst aus, bei dem diese Funktion angewendet werden soll (Abholung/Lieferungen).
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.49.41 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Click "**Customer Info**"
+4. Klicken Sie auf „**Kundeninformationen**“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.48.32 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Uncheck the **info field** that you want to set as optional&#x20;
-5. Click **Save**
+4. Deaktivieren Sie das **Infofeld**, das Sie als optional festlegen möchten&#x20;
+5. Klicken Sie auf **Speichern**
 
-#### Note:
+#### Hinweis:
 
-Some or all fields may be required to process certain payment methods. Unchecking the info field means it will show as `Optional` on the checkout page.
+Für die Verarbeitung bestimmter Zahlungsmethoden können einige oder alle Felder erforderlich sein. Wenn Sie das Kontrollkästchen im Infofeld deaktivieren, wird es auf der Checkout-Seite als `Optional` angezeigt.
 
 
 
-### Steps (Dine-ins)
+### Schritte (Dine-Ins)
 
-1. Log in to your dashboard. Once you're logged in, click "**Manage**"
+1. Melden Sie sich bei Ihrem Dashboard an. Sobald Sie angemeldet sind, klicken Sie auf „**Verwalten**“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-11 at 1.38.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Go to **Settings**&#x20;
+2. Gehen Sie zu **Einstellungen**&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.36.55 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Go to Services > Dine - ins
-4. Go to General >  **Make Customer Information Optional** > Toggle to set as optional
+3. Gehen Sie zu Services > Dine-ins
+4. Gehen Sie zu Allgemein > **Kundeninformationen optional machen** > Aktivieren Sie diese Option, um sie als optional festzulegen
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-13 at 3.58.18 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Click **Save**
+5. Klicken Sie auf **Speichern**
 
-#### Important:&#x20;
+#### Wichtig:&#x20;
 
-Some payment methods might not work if customer information is not provided. Customers will be prompted of what info is required to proceed with their chosen payment method.
+Einige Zahlungsmethoden funktionieren möglicherweise nicht, wenn keine Kundeninformationen angegeben werden. Kunden werden gefragt, welche Informationen erforderlich sind, um mit der von ihnen gewählten Zahlungsmethode fortzufahren.
 
 
 
@@ -63,5 +63,5 @@ Some payment methods might not work if customer information is not provided. Cus
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

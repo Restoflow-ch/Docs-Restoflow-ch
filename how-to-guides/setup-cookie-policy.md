@@ -1,28 +1,28 @@
 ---
 description: >-
-  Have you ever visited a website and received a pop-up asking you to "Accept
-  Cookies"? Entering Cookie Policy will add the link at the bottom of the front
-  store for end-users to access it any time.
+  Haben Sie jemals eine Website besucht und ein Popup-Fenster mit der Aufforderung „Akzeptieren“ erhalten?
+  „Cookies“? Wenn Sie die Cookie-Richtlinie eingeben, wird der Link unten auf der Vorderseite hinzugefügt
+  speichern, damit Endbenutzer jederzeit darauf zugreifen können.
 ---
 
-# Setup Cookie Policy
+# Cookie-Richtlinie einrichten
 
-**Cookies** are files with a small amount of date that help the website to remember information about you.  These are sent to your browser from the website that you visit and are stored on your computer's hard drive.<br>
+**Cookies** sind Dateien mit geringem Datum, die der Website helfen, sich Informationen über Sie zu merken.  Diese werden von der Website, die Sie besuchen, an Ihren Browser gesendet und auf der Festplatte Ihres Computers gespeichert.<br>
 
-**Cookie Banner**\
-A cookie consent banner is a notice that is displayed on websites and other apps upon the user's visit. It is designed to inform the users of the use of cookies, consumer rights in regards to those cookies, and to request the user to grant consent to activate those cookies and process their personal data.
+**Cookie-Banner**\
+Ein Cookie-Zustimmungsbanner ist ein Hinweis, der beim Besuch des Benutzers auf Websites und anderen Apps angezeigt wird. Es dient dazu, die Benutzer über die Verwendung von Cookies und die Verbraucherrechte in Bezug auf diese Cookies zu informieren und den Benutzer aufzufordern, seine Einwilligung zur Aktivierung dieser Cookies und zur Verarbeitung seiner personenbezogenen Daten zu erteilen.
 
 \
-To set up **Cookie Policy**, go to Settings > System > Privacy Policy > Save.&#x20;
+Um **Cookie-Richtlinien** einzurichten, gehen Sie zu Einstellungen > System > Datenschutzrichtlinie > Speichern.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.14.15 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-A **Cookie Policy Template** is available if you opt to use it.&#x20;
+Eine **Cookie-Richtlinienvorlage** ist verfügbar, wenn Sie sich für deren Verwendung entscheiden.&#x20;
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

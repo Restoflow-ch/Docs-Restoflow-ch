@@ -1,25 +1,25 @@
 ---
-description: Follow the steps below to add a custom link to your website’s navigation bar.
+description: Führen Sie die folgenden Schritte aus, um der Navigationsleiste Ihrer Website einen benutzerdefinierten Link hinzuzufügen.
 ---
 
-# How to Add a Custom Link to Your Restoflow Landing Page
+# So fügen Sie einen benutzerdefinierten Link zu Ihrer Restoflow-Landingpage hinzu
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch
-2.  On the top navigation tabs, look for and click “Landing Page.”
+1. Melden Sie sich als Admin unter admin.restoflow.ch an
+2. Suchen Sie auf den oberen Navigationsregisterkarten nach „Landing Page“ und klicken Sie darauf.
 
-    ![](<../.gitbook/assets/unknown (3) (1).png>)
-3. Under the Website Sections, click “Nav Bar.”
-4.  In the Links area, change Select Link Type to “Custom.”
+![](<../.gitbook/assets/unknown (3) (1).png>)
+3. Klicken Sie unter den Website-Abschnitten auf „Navigationsleiste“.
+4. Ändern Sie im Bereich „Links“ die Option „Linktyp auswählen“ in „Benutzerdefiniert“.
 
-    ![](<../.gitbook/assets/unknown (2) (1).png>)
-5. Click “Add Link.”
-6. In the Link Text field, enter the label you want to appear on the top navigation bar
-7.  In the Links To field, paste the full custom URL you want the link to open.
+![](<../.gitbook/assets/unknown (2) (1).png>)
+5. Klicken Sie auf „Link hinzufügen“.
+6. Geben Sie im Feld „Linktext“ die Beschriftung ein, die in der oberen Navigationsleiste angezeigt werden soll
+7. Fügen Sie im Feld „Links zu“ die vollständige benutzerdefinierte URL ein, die der Link öffnen soll.
 
-    ![](<../.gitbook/assets/unknown (1) (1).png>)
-8. Click Save to apply the changes.
-9.  It will now show the Text you created on the frontend of the Landing Page
+![](<../.gitbook/assets/unknown (1) (1).png>)
+8. Klicken Sie auf Speichern, um die Änderungen zu übernehmen.
+9. Der von Ihnen erstellte Text wird nun im Frontend der Landing Page angezeigt
 
-    ![](<../.gitbook/assets/unknown (26).png>)
+![](<../.gitbook/assets/unknown (26).png>)

@@ -1,24 +1,24 @@
 ---
 description: >-
-  Entering Terms and Conditions will enable the "Accept Terms & Conditions"
-  checkbox in the customer checkout process. We highly recommend that you set
-  your Terms and Conditions.
+  Durch die Eingabe der Allgemeinen Geschäftsbedingungen wird die Option „Allgemeine Geschäftsbedingungen akzeptieren“ aktiviert.
+  Checkbox im Kunden-Checkout-Prozess. Wir empfehlen Ihnen dringend, diese Einstellung vorzunehmen
+  Ihre Allgemeinen Geschäftsbedingungen.
 ---
 
-# Setup Terms & Conditions
+# Allgemeine Geschäftsbedingungen einrichten
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.42.29 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Terms and Conditions** are a legally binding agreement between a service provider (such as a website, app, or online store) and the user. They specify the rules, rights, and duties of both parties regarding the usage of the service.
+**Allgemeine Geschäftsbedingungen** sind eine rechtsverbindliche Vereinbarung zwischen einem Dienstanbieter (z. B. einer Website, App oder einem Online-Shop) und dem Benutzer. Sie legen die Regeln, Rechte und Pflichten beider Parteien hinsichtlich der Nutzung des Dienstes fest.
 
-To set up **Terms and Conditions**, go to Settings > System > Policies & Agreements > Terms & Conditions > Save.&#x20;
+Um **Allgemeine Geschäftsbedingungen** einzurichten, gehen Sie zu Einstellungen > System > Richtlinien & Vereinbarungen > Allgemeine Geschäftsbedingungen > Speichern.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-25 at 10.12.24 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-A Terms & Conditions Template is available if you opt to use it. <br>
+Eine Vorlage für Geschäftsbedingungen ist verfügbar, wenn Sie sich für deren Verwendung entscheiden. <br>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

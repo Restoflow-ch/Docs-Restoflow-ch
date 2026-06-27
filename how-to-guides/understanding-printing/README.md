@@ -1,12 +1,12 @@
 ---
 description: >-
-  Use our guides below for assistance on connecting up your Restoflow online
-  ordering store to your printer.
+  Nutzen Sie unsere Anleitungen unten, um Hilfe bei der Online-Verbindung Ihres Restoflow zu erhalten
+  Bestellspeicher an Ihren Drucker übertragen.
 ---
 
-# Understanding Printing
+# Drucken verstehen
 
-[setup-printing-for-android.md](setup-printing-for-android.md "mention")
+[Drucken-für-Android.md einrichten](setup-printing-for-android.md "mention")
 
 [setup-printing-for-windows.md](../setup-printing-for-windows.md "mention")
 
@@ -20,8 +20,8 @@ description: >-
 
 [setup-split-printing.md](setup-split-printing.md "mention")
 
-To review all our printing features, visit our [printing features page](https://www.restoflow.ch/features/windows-or-linux-based-printing).
+Um alle unsere Druckfunktionen zu überprüfen, besuchen Sie unsere [Seite mit den Druckfunktionen](https://www.restoflow.ch/features/windows-or-linux-based-printing).
 
 
 
-[Go back to restoflow.ch](https://www.restoflow.ch)
+[Zurück zu restoflow.ch](https://www.restoflow.ch)

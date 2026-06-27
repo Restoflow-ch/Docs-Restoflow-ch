@@ -1,114 +1,114 @@
 ---
-description: Postmates is a last mile delivery services operating in the USA.
+description: Postmates ist ein in den USA tätiger Last-Mile-Lieferdienst.
 ---
 
-# How to integrate Postmates with Restoflow
+# So integrieren Sie Postmates mit Restoflow
 
-## POSTMATES Integration
+## POSTMATES-Integration
 
 {% hint style="info" %}
-**Which cities is Postmates available in?**
+**In welchen Städten ist Postmates verfügbar?**
 
-[This is the updated list of cities where Postmates is available](https://www.notion.so/restoflowwiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
+[Dies ist die aktualisierte Liste der Städte, in denen Postmates verfügbar ist](https://www.notion.so/restoflowwiki/POSTMATES-Integration-ca913853d3ad493eb935d2a5f1120c30#8f10f90feb7a4b94ab35dfdbe0b14158)
 {% endhint %}
 
 
 
-## How to set-up Restoflow > Postmates integration
+## So richten Sie die Restoflow > Postmates-Integration ein
 
 {% tabs %}
 {% tab title="How to generate the Webhook?" %}
 
 
-1 - Login to Postmates account at - partner.postmates.com
+1 - Melden Sie sich beim Postmates-Konto unter - partner.postmates.com an
 
-2 - Click Developer > Webhooks > Create Webhook
+2 – Klicken Sie auf Entwickler > Webhooks > Webhook erstellen
 
-3 - Paste the API URL into the Production and Sandbox 'Webhooks' section. The API URL for the webhook can be found in your restaurant dasboard under settings > integrations > Postmates > Postmates Webhook URL
+3 – Fügen Sie die API-URL in den Abschnitt „Webhooks“ für Produktion und Sandbox ein. Die API-URL für den Webhook finden Sie in Ihrem Restaurant-Dashboard unter Einstellungen > Integrationen > Postmates > Postmates-Webhook-URL
 
 ![](../.gitbook/assets/generate-postmates-webhook.png)
 {% endtab %}
 
 {% tab title="Settings for testing" %}
-For testing please make sure the 'wait times & auto statuses' are set as below;
+Stellen Sie zum Testen sicher, dass die „Wartezeiten und automatischen Status“ wie folgt eingestellt sind.
 
-Confirm = On at 0mins
+Bestätigen = Ein bei 0 Min
 
-Ready= On at 0min
+Bereit = Ein bei 0 Min
 
 ![](../.gitbook/assets/postmates-testing-settings-restoflow.png)
 {% endtab %}
 
 {% tab title="Required keys" %}
-Below are the keys in Postmates that you will need to use when adding to the Shipday integration settings within the restaurant (Settings > Integrations > Postmates);
+Nachfolgend finden Sie die Schlüssel in Postmates, die Sie verwenden müssen, wenn Sie die Shipday-Integrationseinstellungen im Restaurant hinzufügen (Einstellungen > Integrationen > Postmates);
 
-* Sandbox Key (Authentication Key for testing)
-* Production Key (Authentication Key for live)
-* Customer ID
-* Signature Secret
+* Sandbox-Schlüssel (Authentifizierungsschlüssel zum Testen)
+* Produktionsschlüssel (Authentifizierungsschlüssel für Live)
+* Kundennummer
+* Signaturgeheimnis
 
 ![](../.gitbook/assets/postmates-required-keys.png)
 
-Add the values from your Postmates account as per below (Settings > Integrations > Postmates);
+Fügen Sie die Werte aus Ihrem Postmates-Konto wie unten beschrieben hinzu (Einstellungen > Integrationen > Postmates);
 
 ![](../.gitbook/assets/settings-integration-postmates.png)
 {% endtab %}
 
 {% tab title="UI for ordering" %}
-Post mates will show during the checkout;
+Die Postkollegen werden während des Bezahlvorgangs angezeigt.
 
 ![Postmates delivery estimation in checkout](../.gitbook/assets/postmates-checkout-ui.png)
 
-Postmates deliveries will show on the dashboard with the Postmates logo;
+Postmates-Lieferungen werden auf dem Dashboard mit dem Postmates-Logo angezeigt.
 
 ![Postmates logo shows in the Restoflow order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
 {% endtab %}
 {% endtabs %}
 
-## **Creating Postmates account**
+## **Postmates-Konto erstellen**
 
-Adding Postmates as your delivery driving service is simple and it will help increase your sales to customers who want order delivered right to their door.
+Das Hinzufügen von Postmates als Lieferservice ist einfach und trägt dazu bei, Ihren Umsatz mit Kunden zu steigern, die eine Lieferung direkt an ihre Haustür wünschen.
 
-**Setting up the Account and Payment method**
+**Einrichten des Kontos und der Zahlungsmethode**
 
-You will first need to create a Postmates Developer account which can be found at this link: [https://postmates.com/developer](https://postmates.com/developer)
+Sie müssen zunächst ein Postmates-Entwicklerkonto erstellen, das Sie unter diesem Link finden: [https://postmates.com/developer](https://postmates.com/developer)
 
-Once you enter in your restaurant information, you will be redirected to the Postmates Dashboard. In order to get the Postmates information we need, you have to enter a payment method so Postmates can charge it once an order is complete. To do this, click on “Add Payment Card”, enter your credit card information, and “Save”. Now that you have entered your credit card information, you will see some different “keys” show up on the screen.
+Sobald Sie Ihre Restaurantinformationen eingegeben haben, werden Sie zum Postmates-Dashboard weitergeleitet. Um die von uns benötigten Postmates-Informationen zu erhalten, müssen Sie eine Zahlungsmethode angeben, damit Postmates diese nach Abschluss einer Bestellung belasten kann. Klicken Sie dazu auf „Zahlungskarte hinzufügen“, geben Sie Ihre Kreditkarteninformationen ein und klicken Sie auf „Speichern“. Nachdem Sie nun Ihre Kreditkarteninformationen eingegeben haben, werden auf dem Bildschirm verschiedene „Schlüssel“ angezeigt.
 
-## ESSENTIAL SETTINGS
+## WESENTLICHE EINSTELLUNGEN
 
 {% hint style="warning" %}
-IMPORTANT - The following settings must be applied for the Postmates integration to work.
+WICHTIG – Die folgenden Einstellungen müssen angewendet werden, damit die Postmates-Integration funktioniert.
 {% endhint %}
 
-**In Restoflow the following settings must be applied;**
+**In Restoflow müssen die folgenden Einstellungen angewendet werden;**
 
-1\. Generate and add the webhook to Postmates (details above)
+1\. Generieren Sie den Webhook und fügen Sie ihn zu Postmates hinzu (Details oben).
 
-2\. Add the Postmates keys into restaurant dashboard. Settings > Integrations > Postmates.
+2\. Fügen Sie die Postmates-Schlüssel zum Restaurant-Dashboard hinzu. Einstellungen > Integrationen > Postmates.
 
-3\. Settings > Services > Deliveries > Fees > None
+3\. Einstellungen > Dienste > Lieferungen > Gebühren > Keine
 
 ![](../.gitbook/assets/postmates-essential-settings-1.png)
 
-4\. Settings > Services > Deliveries > General > Default Delivery Provider = Postmates
+4\. Einstellungen > Dienste > Lieferungen > Allgemein > Standard-Lieferanbieter = Postmates
 
 ![](../.gitbook/assets/postmates-essential-settings-2.png)
 
-5\. Settings > Services > Deliveries > Wait Times & Auto Statuses
+5\. Einstellungen > Dienste > Lieferungen > Wartezeiten und automatische Status
 
-The following settings MUST be enabled;
+Die folgenden Einstellungen MÜSSEN aktiviert sein;
 
-* Time till confirm (minutes)
-* Time Till Ready (minutes)
-* Time till on route (mins)
+* Zeit bis zur Bestätigung (Minuten)
+* Zeit bis zur Fertigstellung (Minuten)
+* Zeit bis zur Route (Minuten)
 
-Note: You can set different timings for these fields and you can use the other fields within this section, however this wont impact the Postmates integration.
+Hinweis: Sie können für diese Felder unterschiedliche Zeiten festlegen und die anderen Felder in diesem Abschnitt verwenden, dies hat jedoch keine Auswirkungen auf die Postmates-Integration.
 
 ![](../.gitbook/assets/postmates-essential-settings-3.png)
 
 ## FAQ
 
-*   **What if I already have a Postmates account and are on their app? Do I still need a developer account?**
+* **Was ist, wenn ich bereits ein Postmates-Konto habe und deren App verwende? Benötige ich weiterhin ein Entwicklerkonto?**
 
-    You should already have access to the Developer section of Postmates, and all you will need to do is copy the existing keys into the Restoflow Admin Dashboard.
+Sie sollten bereits Zugriff auf den Entwicklerbereich von Postmates haben und müssen lediglich die vorhandenen Schlüssel in das Restoflow Admin Dashboard kopieren.

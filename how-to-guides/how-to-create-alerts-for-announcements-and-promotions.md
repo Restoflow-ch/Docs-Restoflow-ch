@@ -1,25 +1,25 @@
 ---
 description: >-
-  Use these steps to add an alert banner for announcements or promotions on your
-  Restoflow website.
+  Verwenden Sie diese Schritte, um ein Warnbanner für Ankündigungen oder Werbeaktionen auf Ihrem hinzuzufügen
+  Restoflow-Website.
 ---
 
-# How to Create Alerts for Announcements and Promotions
+# So erstellen Sie Benachrichtigungen für Ankündigungen und Werbeaktionen
 
-### Steps:
+### Schritte:
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, find the account where you want to add the alert and click “Manage”.
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Suchen Sie in der Liste der Konten das Konto, dem Sie die Warnung hinzufügen möchten, und klicken Sie auf „Verwalten“.
 
-    ![](<../.gitbook/assets/unknown (14) (1).png>)
-3.  From the left-side menu, select “Settings”.
+![](<../.gitbook/assets/unknown (14) (1).png>)
+3. Wählen Sie im Menü auf der linken Seite „Einstellungen“ aus.
 
-    ![](<../.gitbook/assets/unknown (13) (1).png>)
-4. Click the “Websites” tab.
-5.  Look for the “Alert” section.
+![](<../.gitbook/assets/unknown (13) (1).png>)
+4. Klicken Sie auf die Registerkarte „Websites“.
+5. Suchen Sie nach dem Abschnitt „Benachrichtigung“.
 
-    ![](<../.gitbook/assets/unknown (12) (1).png>)
-6. Enter a brief description or message for your announcement or promotion (e.g., “Opening Special – 20% Off!”).
-7.  Click Save to apply the alert. And it will show up as an Alert or banner on the frontend.
+![](<../.gitbook/assets/unknown (12) (1).png>)
+6. Geben Sie eine kurze Beschreibung oder Nachricht für Ihre Ankündigung oder Werbeaktion ein (z. B. „Eröffnungsangebot – 20 % Rabatt!“).
+7. Klicken Sie auf Speichern, um die Warnung anzuwenden. Und es wird als Benachrichtigung oder Banner im Frontend angezeigt.
 
-    ![](<../.gitbook/assets/unknown (11) (1).png>)
+![](<../.gitbook/assets/unknown (11) (1).png>)

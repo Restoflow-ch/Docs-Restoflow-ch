@@ -1,118 +1,118 @@
 ---
 description: >-
-  Once the orders start coming in, you need to be prepared to fulfill them. As
-  such, it's important that you understand the order management workflow for
-  everything to operate smoothly.
+  Sobald die Bestellungen eingehen, müssen Sie darauf vorbereitet sein, diese auszuführen. Als
+  Daher ist es wichtig, dass Sie den Workflow für die Auftragsverwaltung verstehen
+  alles für einen reibungslosen Ablauf.
 ---
 
-# Managing Orders & Bookings
+# Bestellungen und Buchungen verwalten
 
-## Receiving Orders
+## Bestellungen entgegennehmen
 
-### In-Store Setup
+### In-Store-Einrichtung
 
-To completely manage the orders lifecycle, you will need to have an internet enabled device in-store. We highly recommend using a Windows laptop or tablet with either Chrome or Firefox for the greatest compatibility.
+Um den Bestelllebenszyklus vollständig verwalten zu können, benötigen Sie ein internetfähiges Gerät im Geschäft. Für größtmögliche Kompatibilität empfehlen wir dringend die Verwendung eines Windows-Laptops oder -Tablets mit Chrome oder Firefox.
 
-This device will need to be placed in an area where whoever is responsible for online orders can easily check, access and update orders.
+Dieses Gerät muss an einem Ort aufgestellt werden, an dem jeder, der für Online-Bestellungen verantwortlich ist, Bestellungen problemlos überprüfen, darauf zugreifen und aktualisieren kann.
 
-### Order Management Interface
+### Auftragsverwaltungsschnittstelle
 
-Visit your restaurant dashboard and navigate to the orders page. The interface updates in real-time with new orders so you do not need to refresh the page.
+Besuchen Sie Ihr Restaurant-Dashboard und navigieren Sie zur Bestellseite. Die Benutzeroberfläche wird bei neuen Bestellungen in Echtzeit aktualisiert, sodass Sie die Seite nicht aktualisieren müssen.
 
-There are several key features of the order management interfaces:
+Es gibt mehrere Hauptfunktionen der Auftragsverwaltungsschnittstellen:
 
-* You can easily see whether an order is a pickup, delivery or dine-in by the icon on the left.&#x20;
-* The colour of the icon is a representation of the order's current status.
-* You can click an order to view the details of it and make updates
+* Anhand des Symbols auf der linken Seite können Sie leicht erkennen, ob es sich bei einer Bestellung um eine Abholung, eine Lieferung oder eine Bestellung handelt.&#x20;
+* Die Farbe des Symbols stellt den aktuellen Status der Bestellung dar.
+* Sie können auf eine Bestellung klicken, um deren Details anzuzeigen und Aktualisierungen vorzunehmen
 
-### **Board View**
+### **Boardansicht**
 
 ![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1l3lo9y.png)
 
-The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along the different status columns.
+Die Board-Ansicht ist fantastisch, um Bestellungen tatsächlich in Echtzeit zu verwalten. Die Bestellungen fließen von links nach rechts entlang der verschiedenen Statusspalten.
 
-In the board view, the **due** time is the time when the customer will be coming to collect the order. For deliveries, the **start delivery** time is when the order must leave your store to reach the customer at their selected time.
+In der Board-Ansicht ist die **Fälligkeitszeit** der Zeitpunkt, zu dem der Kunde kommt, um die Bestellung abzuholen. Bei Lieferungen gilt als **Lieferbeginn** die Zeit, zu der die Bestellung Ihr Geschäft verlassen muss, um den Kunden zum gewählten Zeitpunkt zu erreichen.
 
-### **List View**
+### **Listenansicht**
 
 ![List view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_11088vc.png)
 
-The list view provides you with an overview of your latest orders 10, 25, 50 or 100 orders. This view is perfect for filtering through orders and searching for specific ones. It is not well suited to actively managing orders.
+Die Listenansicht bietet Ihnen einen Überblick über Ihre letzten Bestellungen (10, 25, 50 oder 100 Bestellungen). Diese Ansicht eignet sich perfekt zum Filtern von Bestellungen und zum Suchen nach bestimmten Bestellungen. Für die aktive Verwaltung von Aufträgen ist es nicht gut geeignet.
 
-### Viewing An Order's Details
+### Anzeigen der Details einer Bestellung
 
-Once you select an order, you will see a popup showing you the details of your order.
+Sobald Sie eine Bestellung ausgewählt haben, wird ein Popup mit den Details Ihrer Bestellung angezeigt.
 
 ![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_8eby9d.png)
 
-Here you are able to do the following functions
+Hier können Sie folgende Funktionen ausführen
 
-* Change status - update the order status
-* Modify est ready time - update on the customer's receipt how long till the order is ready
-* Other actions - print orders, book for delivery, refund payments, delete the order
+* Status ändern – Bestellstatus aktualisieren
+* Geschätzte Bereitschaftszeit ändern – Aktualisieren Sie auf dem Kundenbeleg, wie lange es dauert, bis die Bestellung fertig ist
+* Andere Aktionen – Bestellungen drucken, Lieferung buchen, Zahlungen erstatten, Bestellung löschen
 
-## How To Manage Orders
+## So verwalten Sie Bestellungen
 
-To actively manage orders, use the board view and follow the process below.
+Um Bestellungen aktiv zu verwalten, nutzen Sie die Board-Ansicht und folgen Sie dem untenstehenden Prozess.
 
-1. Confirm or cancel any new orders received in the **Un-Confirmed** column.
-2. Orders in the **Confirmed (Due Soon)** column are due in the next 2 orders. Simply prepare the orders from the top to bottom to meet the time they are due
-3. Orders in the **Confirmed (Up-Coming)** section are due any time after 2 hours. You can keep an eye on what's upcoming with this.
-4. When the order has been prepared, move it to the **Ready** column for customer or driver collection.
-5. If it is a delivery, move it to the **On Route** column once the driver has taken it.
-6. Finally, mark orders as complete when the customer collects it or the food has been delivered.
+1. Bestätigen oder stornieren Sie alle neuen Bestellungen, die in der Spalte **Nicht bestätigt** eingehen.
+2. Bestellungen in der Spalte **Bestätigt (bald fällig)** sind in den nächsten beiden Bestellungen fällig. Bereiten Sie die Bestellungen einfach von oben bis unten vor, um den Fälligkeitszeitpunkt einzuhalten
+3. Bestellungen im Bereich **Bestätigt (in Vorbereitung)** sind jederzeit nach 2 Stunden fällig. Damit können Sie im Auge behalten, was auf Sie zukommt.
+4. Wenn die Bestellung vorbereitet wurde, verschieben Sie sie zur Abholung durch den Kunden oder Fahrer in die Spalte **Bereit**.
+5. Wenn es sich um eine Lieferung handelt, verschieben Sie sie in die Spalte **Unterwegs**, sobald der Fahrer sie entgegengenommen hat.
+6. Markieren Sie abschließend Bestellungen als abgeschlossen, wenn der Kunde sie abholt oder das Essen geliefert wurde.
 
-|| If you are unable to prepare an order by the due time, you increase the due time manually. Click an order to view the details. Using the "Modify Est. Ready Time" select bar, add the extra time required to prepare the order. This way your customers are aware of any delays.
+|| Wenn Sie eine Bestellung nicht rechtzeitig vorbereiten können, erhöhen Sie die Fälligkeitszeit manuell. Klicken Sie auf eine Bestellung, um die Details anzuzeigen. Fügen Sie mithilfe der Auswahlleiste „Geschätzte Bereitschaftszeit ändern“ die zusätzliche Zeit hinzu, die zum Vorbereiten der Bestellung erforderlich ist. So sind Ihre Kunden über etwaige Verzögerungen informiert.
 
-### Order Statuses
+### Bestellstatus
 
-There are 6 different order statuses as indicated by the columns on the order management board.
+Es gibt 6 verschiedene Bestellstatus, die durch die Spalten auf der Bestellverwaltungstafel angezeigt werden.
 
-* Un-confirmed - new orders that are not accepted yet
-* Confirmed - orders that you have accepted and will fulfil
-* Ready - prepared orders ready for customer or driver collection
-* On Route - orders currently with the delivery driver (delivery only)
-* Complete - orders that have been completed fulfilled
-* Cancelled - orders that will not be fulfilled
+* Unbestätigt – neue Bestellungen, die noch nicht angenommen wurden
+* Bestätigt – Bestellungen, die Sie angenommen haben und ausführen werden
+* Bereit – vorbereitete Bestellungen stehen zur Abholung durch Kunden oder Fahrer bereit
+* Unterwegs – Bestellungen derzeit beim Lieferfahrer (nur Lieferung)
+* Abgeschlossen – Bestellungen, die abgeschlossen wurden, wurden erfüllt
+* Storniert – Bestellungen, die nicht ausgeführt werden
 
-Updating the order status will update your customers in real-time about the status of their order.
+Durch die Aktualisierung des Bestellstatus werden Ihre Kunden in Echtzeit über den Status ihrer Bestellung informiert.
 
-### What Happens When An Order Is Placed
+### Was passiert, wenn eine Bestellung aufgegeben wird?
 
-Every time a new order is received, several things will happen.
+Jedes Mal, wenn eine neue Bestellung eingeht, passieren mehrere Dinge.
 
-* A sound notification will play if enabled
-* If device notifications are enabled, you will receive one
-* If automated printing is configured, the order will be printed at the respective printer
-* You will receive an e-mail notification if configured
-* The new order will automatically be loaded into the orders interface
+* Bei Aktivierung wird eine akustische Benachrichtigung abgespielt
+* Wenn Gerätebenachrichtigungen aktiviert sind, erhalten Sie eine
+* Wenn der automatische Druck konfiguriert ist, wird die Bestellung auf dem jeweiligen Drucker gedruckt
+* Sie erhalten eine E-Mail-Benachrichtigung, sofern konfiguriert
+* Die neue Bestellung wird automatisch in die Bestelloberfläche geladen
 
-## Notifications
+## Benachrichtigungen
 
-### Device Notifications
+### Gerätebenachrichtigungen
 
-We highly recommend that you have device notifications enabled if your device supports it. When you first load the admin dashboard, your web browser will ask you if you would like to allow notifications. Please make sure that you allow this.
+Wir empfehlen Ihnen dringend, Gerätebenachrichtigungen zu aktivieren, sofern Ihr Gerät dies unterstützt. Wenn Sie das Admin-Dashboard zum ersten Mal laden, werden Sie von Ihrem Webbrowser gefragt, ob Sie Benachrichtigungen zulassen möchten. Bitte stellen Sie sicher, dass Sie dies zulassen.
 
-If you did not, you will need to manually enable them from your web browser settings. This is different for every browser. For chrome on a PC, you can do this by clicking the secure lock icon beside the website URL in the address bar. This will drop down the permissions window where you can enable notifications for the current page you are on.
+Wenn Sie dies nicht getan haben, müssen Sie sie manuell in den Einstellungen Ihres Webbrowsers aktivieren. Dies ist bei jedem Browser unterschiedlich. Für Chrome auf einem PC können Sie dies tun, indem Sie auf das sichere Schlosssymbol neben der Website-URL in der Adressleiste klicken. Dadurch wird das Berechtigungsfenster geöffnet, in dem Sie Benachrichtigungen für die aktuelle Seite, auf der Sie sich befinden, aktivieren können.
 
-### E-Mail Notifications
+### E-Mail-Benachrichtigungen
 
-You can configure up to 3 email addresses to receive notifications on. Simply visit "Settings > E-mail Notifications" and configure the settings there. E-mail notifications will also include a PDF copy of the order receipt.
+Sie können bis zu drei E-Mail-Adressen konfigurieren, an die Sie Benachrichtigungen erhalten möchten. Gehen Sie einfach zu „Einstellungen > E-Mail-Benachrichtigungen“ und konfigurieren Sie dort die Einstellungen. E-Mail-Benachrichtigungen enthalten auch eine PDF-Kopie des Bestellbelegs.
 
-### Audio Notifications
+### Audio-Benachrichtigungen
 
-Audio notifications can be configured at "Settings > Audio Notifications". One useful aspect to this is you can configure a sound to play until someone has tapped / clicked the screen. This is helpful to get someones attention that a new order has come through.
+Audiobenachrichtigungen können unter „Einstellungen > Audiobenachrichtigungen“ konfiguriert werden. Ein nützlicher Aspekt dabei ist, dass Sie einen Ton so konfigurieren können, dass er so lange abgespielt wird, bis jemand auf den Bildschirm getippt/geklickt hat. Dies ist hilfreich, um jemanden darauf aufmerksam zu machen, dass eine neue Bestellung eingegangen ist.
 
-### Automated Printing
+### Automatisierter Druck
 
-If you have automated printing set up, this serves as a valuable notification for new orders. Learn how to set it up through our printing setup guide.
+Wenn Sie den automatischen Druck eingerichtet haben, dient dies als wertvolle Benachrichtigung für neue Bestellungen. Erfahren Sie in unserem Leitfaden zur Druckeinrichtung, wie Sie es einrichten.
 
-## Train Your Staff
+## Schulen Sie Ihre Mitarbeiter
 
-Implementing an online ordering system if you have never done so before requires some changes. Most importantly all staff must be aware that new orders can come through and must be attended to.
+Die Implementierung eines Online-Bestellsystems, falls Sie dies noch nie zuvor getan haben, erfordert einige Änderungen. Am wichtigsten ist, dass sich alle Mitarbeiter darüber im Klaren sind, dass neue Aufträge eingehen können und bearbeitet werden müssen.
 
-## Managing Bookings
+## Buchungen verwalten
 
-Bookings are managed very similarly through the bookings page. When a new booking is placed, it will start as unconfirmed. Verify that you can accept it and then manually update the booking status to confirmed or cancelled.
+Buchungen werden ganz ähnlich über die Buchungsseite verwaltet. Wenn eine neue Buchung vorgenommen wird, gilt diese zunächst als unbestätigt. Stellen Sie sicher, dass Sie es akzeptieren können, und aktualisieren Sie dann manuell den Buchungsstatus auf „Bestätigt“ oder „Storniert“.
 
-This will notify your customer respectively. You can then pencil this booking into your calendar if needed.
+Dadurch wird Ihr Kunde entsprechend benachrichtigt. Sie können diese Buchung dann bei Bedarf in Ihren Kalender eintragen.

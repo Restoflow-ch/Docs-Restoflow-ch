@@ -1,47 +1,48 @@
 ---
 description: >-
-  Custom fields allow you to collect extra information from customers during
-  checkout or table booking.
+  Mit benutzerdefinierten Feldern können Sie während des Vorgangs zusätzliche Informationen von Kunden sammeln
+  Kasse oder Tischreservierung.
 ---
 
-# How to Configure Custom Fields at Checkout
+# So konfigurieren Sie benutzerdefinierte Felder an der Kasse
 
-### Steps
+### Schritte
 
-1. Log in as Admin at admin.restoflow.ch.
-2.  From the list of accounts, find the account where you want to add a custom checkout field and click “**Manage**”.
+1. Melden Sie sich als Admin unter admin.restoflow.ch an.
+2. Suchen Sie in der Liste der Konten das Konto, dem Sie ein benutzerdefiniertes Checkout-Feld hinzufügen möchten, und klicken Sie auf „**Verwalten**“.
 
-    ![](<../.gitbook/assets/unknown (1).png>)
-3.  In the left-side menu, click “**Settings**”.
+![](<../.gitbook/assets/unknown (1).png>)
+3. Klicken Sie im Menü auf der linken Seite auf „**Einstellungen**“.
 
-    ![](<../.gitbook/assets/unknown (2).png>)
-4. Go to the “**Services**” tab.
-5.  Select the services you offer (**Pickups, Deliveries, Dine-ins, Table Bookings**).
+![](<../.gitbook/assets/unknown (2).png>)
+4. Gehen Sie zur Registerkarte „**Dienste**“.
+5. Wählen Sie die von Ihnen angebotenen Dienstleistungen aus („Abholungen, Lieferungen, Abendessen, Tischreservierungen**).
 
-    ![](<../.gitbook/assets/unknown (3).png>)
-6.  Go to:
+![](<../.gitbook/assets/unknown (3).png>)
+6. Gehen Sie zu:
 
-    * **Custom Checkout Fields** for **Pickups, Deliveries**, and **Dine-ins**
+* **Benutzerdefinierte Checkout-Felder** für **Abholungen, Lieferungen** und **Dine-Ins**
 
-    ![](<../.gitbook/assets/unknown (4).png>)
+![](<../.gitbook/assets/unknown (4).png>)
 
-    * **Custom Booking Fields** for **Table Bookings**
+* **Benutzerdefinierte Buchungsfelder** für **Tischreservierungen**
 
-    ![](<../.gitbook/assets/unknown (5).png>)
-7.  Click “Add New Field.”
+![](<../.gitbook/assets/unknown (5).png>)
+7. Klicken Sie auf „Neues Feld hinzufügen“.
 
-    **Note**: Make sure to toggle **Enable** so the field appears on the checkout page.
+**Hinweis**: Stellen Sie sicher, dass Sie **Aktivieren** aktivieren, damit das Feld auf der Checkout-Seite angezeigt wird.
 
-    * **Label**: Name of the field (what customers will see).
-    * **Icon**: Optional icon to display beside the field.
-    * **Description**: A short explanation or instruction.
+* **Label**: Name des Feldes (was Kunden sehen werden).
+* **Symbol**: Optionales Symbol, das neben dem Feld angezeigt wird.
+* **Beschreibung**: Eine kurze Erklärung oder Anleitung.
 
-    ![](<../.gitbook/assets/unknown (9).png>)
+![](<../.gitbook/assets/unknown (9).png>)
 
-    * **Type**: Choose Dropdown, Checkbox, or Text Input. Each option will require different setup details.
+* **Typ**: Wählen Sie Dropdown, Kontrollkästchen oder Texteingabe. Für jede Option sind unterschiedliche Einrichtungsdetails erforderlich.
 
-    ![](<../.gitbook/assets/unknown (8).png>)
+![](<../.gitbook/assets/unknown (8).png>)
 
-    * **Required**: Enable this if customers must complete this field before submitting their order.
-8. Once all details are completed, click “**Update**.”   \
-   **Note**: You can create up to two custom **checkout fields** per order.
+* **Erforderlich**: Aktivieren Sie diese Option, wenn Kunden dieses Feld ausfüllen müssen, bevor sie ihre Bestellung absenden.
+8. Sobald alle Angaben abgeschlossen sind, klicken Sie auf „**Aktualisieren**“.
+   \
+**Hinweis**: Sie können pro Bestellung bis zu zwei benutzerdefinierte **Checkout-Felder** erstellen.

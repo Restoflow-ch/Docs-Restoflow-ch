@@ -1,37 +1,37 @@
-# Configure Dine-in (QR/Table Numbers)
+# Dine-in konfigurieren (QR/Tischnummern)
 
-Setting up QR table ordering lets customers scan table-specific QR codes to browse the menu, place orders, and pay directly from their phones. This streamlines service, reduces errors, and helps avoid long queues by enabling faster ordering.
+Durch die Einrichtung der QR-Tischbestellung können Kunden tischspezifische QR-Codes scannen, um im Menü zu stöbern, Bestellungen aufzugeben und direkt von ihrem Telefon aus zu bezahlen. Dies optimiert den Service, reduziert Fehler und hilft, lange Warteschlangen zu vermeiden, indem eine schnellere Bestellung ermöglicht wird.
 
-### Steps:
+### Schritte:
 
-1. On the Admin Dashboard, navigate to **Settings** > **Services** > **Dine-In.**
+1. Navigieren Sie im Admin-Dashboard zu **Einstellungen** > **Dienste** > **Dine-In.**
 
 <figure><img src="../.gitbook/assets/unknown (5) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Select the **Tables** tab, then choose between **Add Table** or **Add Multiple Tables**:
-   * **Add Table**: Allows you to add one table at a time.
-   * **Add Multiple Tables**: Allows you to add several tables at once, which is especially helpful if your restaurant has many tables.
+2. Wählen Sie die Registerkarte **Tabellen** und wählen Sie dann zwischen **Tabelle hinzufügen** oder **Mehrere Tabellen hinzufügen**:
+* **Tabelle hinzufügen**: Ermöglicht das Hinzufügen jeweils einer Tabelle.
+* **Mehrere Tische hinzufügen**: Ermöglicht das gleichzeitige Hinzufügen mehrerer Tische, was besonders hilfreich ist, wenn Ihr Restaurant über viele Tische verfügt.
 
 <figure><img src="../.gitbook/assets/unknown (7) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Enter a **name** for the table based on your preference
+3. Geben Sie je nach Wunsch einen **Namen** für die Tabelle ein
 
 <figure><img src="../.gitbook/assets/unknown (8) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. You can also add **Table Password**, which adds a layer of security and control to dine-in ordering. It ensures that only customers at a specific table can access and place orders for that table.
+4. Sie können auch ein **Tischpasswort** hinzufügen, das der Bestellung beim Essen zusätzliche Sicherheit und Kontrolle verleiht. Es stellt sicher, dass nur Kunden an einem bestimmten Tisch auf diesen Tisch zugreifen und Bestellungen aufgeben können.
 
 <figure><img src="../.gitbook/assets/unknown (9) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-5. Once all the tables are added and saved, you can **copy the Order URL** for each table and **paste it into a QR code generator** to create QR codes that customers can scan to place orders directly from their table.
+5. Sobald alle Tische hinzugefügt und gespeichert sind, können Sie für jeden Tisch **die Bestell-URL kopieren** und **in einen QR-Code-Generator einfügen**, um QR-Codes zu erstellen, die Kunden scannen können, um direkt von ihrem Tisch aus Bestellungen aufzugeben.
 
 <figure><img src="../.gitbook/assets/unknown (10) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-6. Check your store to ensure all added tables are displayed correctly.
+6. Überprüfen Sie Ihren Shop, um sicherzustellen, dass alle hinzugefügten Tabellen korrekt angezeigt werden.
 
 <figure><img src="../.gitbook/assets/unknown (11) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

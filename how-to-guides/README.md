@@ -1,8 +1,8 @@
 ---
 description: >-
-  This section will take you through how to set-up specific features within
+  In diesem Abschnitt erfahren Sie, wie Sie bestimmte Funktionen einrichten
   restoflow.ch.
 ---
 
-# How to Guides
+# Anleitungen
 

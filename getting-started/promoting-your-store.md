@@ -1,67 +1,67 @@
 ---
 description: >-
-  Once you have set up your online store settings and menus, you are ready to
-  start taking orders. Getting online orders requires you to drive customers to
-  your website to place orders.
+  Sobald Sie die Einstellungen und Menüs Ihres Online-Shops eingerichtet haben, können Sie loslegen
+  Fangen Sie an, Befehle entgegenzunehmen. Um Online-Bestellungen zu erhalten, müssen Sie Kunden anlocken
+  Ihre Website, um Bestellungen aufzugeben.
 ---
 
-# Promoting Your Store
+# Werbung für Ihren Shop
 
 
 
 {% hint style="info" %}
-Promoting your store goes well beyond the scope of our software. This single page does not do justice to the vast number of promotion strategies available. The below suggestions are here to help you get started.
+Die Werbung für Ihren Shop geht weit über den Rahmen unserer Software hinaus. Diese einzelne Seite wird der Vielzahl der verfügbaren Werbestrategien nicht gerecht. Die folgenden Vorschläge sollen Ihnen den Einstieg erleichtern.
 {% endhint %}
 
-## Let Your Customers Know
+## Informieren Sie Ihre Kunden
 
-Initially, your customers will not be aware of your new online ordering system. It's important that you let them know this exists. You can do this by:
+Ihre Kunden werden Ihr neues Online-Bestellsystem zunächst nicht kennen. Es ist wichtig, dass Sie ihnen mitteilen, dass dies der Fall ist. Sie können dies tun, indem Sie:
 
-* Handing out cards or flyers when customers make in-store purchases
-* Putting up a board or sign on your store window
-* Inform customers who call in that they can now order online.&#x20;
-* Add a link from your website to your ordering page
-* Posting the ordering link on your social media channels
-* Add the ordering link to your in-store receipts
+* Verteilen von Karten oder Flyern, wenn Kunden im Geschäft einkaufen
+* Anbringen einer Tafel oder eines Schildes an Ihrem Schaufenster
+* Kunden, die anrufen, darüber informieren, dass sie jetzt online bestellen können.&#x20;
+* Fügen Sie einen Link von Ihrer Website zu Ihrer Bestellseite hinzu
+* Veröffentlichung des Bestelllinks auf Ihren Social-Media-Kanälen
+* Fügen Sie den Bestelllink zu Ihren Quittungen im Geschäft hinzu
 
-## Paid Advertising
+## Bezahlte Werbung
 
-You can consider paying for Facebook or Google ads. Both of these are ways to create new customers. We strongly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
+Sie können erwägen, für Facebook- oder Google-Anzeigen zu bezahlen. Beides sind Möglichkeiten, neue Kunden zu gewinnen. Wir empfehlen dringend, Facebook-Werbung zu nutzen, da diese spottbillig ist und sich leicht lokale Verbraucher ansprechen lässt.
 
-## Create A Google Places Listing
+## Erstellen Sie einen Google Places-Eintrag
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
+Mit einem Google-Ortseintrag können lokale Kunden Sie viel einfacher finden, da er sich auf Ihren Standort konzentriert. Dies bedeutet, dass Sie mit größerer Wahrscheinlichkeit einen hohen Rang erreichen, wenn sich die Person, die nach Ihnen sucht, in der Nähe Ihres Geschäfts befindet. Folgen Sie diesem Link [https://www.google.com.au/business/](https://www.google.com.au/business/), um Ihren Eintrag zu erstellen oder zu verwalten.
 
-Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
+Vergessen Sie nicht, Ihrer Ortsliste den Link „Bestellung aufgeben“ hinzuzufügen. Wie das geht, erfahren Sie im folgenden Artikel [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
-## Search Engine Optimization
+## Suchmaschinenoptimierung
 
-SEO which stands for search engine optimization is the process of making your site discoverable and rank high on search engines such as Google.
+Unter SEO (Suchmaschinenoptimierung) versteht man den Prozess, Ihre Website auffindbar zu machen und bei Suchmaschinen wie Google einen hohen Rang einzunehmen.
 
-### Setup A Custom Domain Name
+### Richten Sie einen benutzerdefinierten Domänennamen ein
 
-By default, your online store can be found on a sub-domain of "restoflow.ch". It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+Standardmäßig ist Ihr Online-Shop auf einer Subdomain von „restoflow.ch“ zu finden. Es ist wichtig, dass Sie diese Subdomain so einrichten, dass sie den Kunden leicht einprägsam und wiedererkennbar ist.
 
-While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
+Während die Subdomain nur dazu dient, Ihnen schnell den Einstieg zu erleichtern, ist es am besten, einen eigenen Domainnamen für Ihr Unternehmen zu erwerben. Anschließend können Sie Ihren Shop mit Ihrem eigenen benutzerdefinierten Domänennamen konfigurieren.
 
-Once you have purchased your own domain name, visit "Settings > Website > Domains > Custom Domain" in your restaurant dashboard to configure it.
+Sobald Sie Ihren eigenen Domainnamen erworben haben, gehen Sie in Ihrem Restaurant-Dashboard zu „Einstellungen > Website > Domains > Benutzerdefinierte Domain“, um ihn zu konfigurieren.
 
-### Basic SEO Settings
+### Grundlegende SEO-Einstellungen
 
-Under the "Settings > Website > SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
+Im Abschnitt „Einstellungen > Website > SEO“ können Sie den Titel und die Meta-Beschreibung Ihrer Website bearbeiten. Dies sind die Informationen, die Google in seinen Sucheinträgen anzeigt. Es wird empfohlen, diese auf einen äußerst lokalen Wert einzustellen.
 
-Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
+Angenommen, Sie besitzen ein indisches Restaurant namens Red Turban in einem Vorort namens Townsville in New York. Ihr Titel sollte „Red Turban – Authentic Indian Townsville New York“ lauten.
 
-Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
+Ihre Meta-Beschreibung sollte dies noch weiter vertiefen, aber stellen Sie sicher, dass Sie Ihre Schlüsselwörter treffen, die Ihren Standort und Ihre Küche betreffen. Der Grund dafür ist, dass die Lokalität die massive Konkurrenz und den Lärm anderer Websites in Suchmaschinen verringert und es höchstwahrscheinlich das ist, wonach Kunden in Ihrer Region suchen.
 
-### Submit Your Website To Google, Bing etc
+### Senden Sie Ihre Website an Google, Bing usw
 
-Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
+Sobald Sie eine benutzerdefinierte Domäne haben, besuchen Sie [https://search.google.com/search-console](https://search.google.com/search-console). Registrieren Sie dort ein Konto, fügen Sie Ihre Website hinzu und verwenden Sie dann das „URL Inspection Tool“, um Ihre Website zu überprüfen. Dort können Sie es zur Indexierung an Google senden.
 
-## Additional Reading
+## Zusätzliche Lektüre
 
-We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
+Auf unserem Blog haben wir einige hilfreiche Ratgeber für das Restaurantmarketing erstellt. Wir empfehlen Ihnen, sie zu lesen, um weitere Ideen und Strategien zu erhalten.
 
-* [Online Marketing - Google My Business](https://www.restoflow.ch/blog/online-restaurant-marketing-google-my-business)
-* [Online Marketing - Facebook](https://www.restoflow.ch/blog/online-restaurant-marketing-facebook-advertising)
-* [Creative Marketing Ideas For Restaurants](https://www.restoflow.ch/blog/creative-marketing-ideas-restaurants)
+* [Online-Marketing – Google My Business](https://www.restoflow.ch/blog/online-restaurant-marketing-google-my-business)
+* [Online-Marketing – Facebook](https://www.restoflow.ch/blog/online-restaurant-marketing-facebook-advertising)
+* [Kreative Marketingideen für Restaurants](https://www.restoflow.ch/blog/creative-marketing-ideas-restaurants)

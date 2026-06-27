@@ -1,34 +1,34 @@
 ---
 description: >-
-  Activating this feature will  limit the customer's access to a certain promo
-  or deals.
+  Durch die Aktivierung dieser Funktion wird der Zugriff des Kunden auf eine bestimmte Aktion eingeschränkt
+  oder Angebote.
 ---
 
-# Use "Logged in Only" Feature
+# Verwenden Sie die Funktion „Nur angemeldet“.
 
-### Steps:
+### Schritte:
 
-1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Settings**
+1. Melden Sie sich bei Ihrem Konto an [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu **Einstellungen**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-19 at 2.37.27 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Go to **Promo Codes** > Click the type of promo you want to set up
+3. Gehen Sie zu **Aktionscodes** > Klicken Sie auf die Art der Aktion, die Sie einrichten möchten
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-19 at 2.37.27 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Go to **Logged in Customers Only** > Toggle to enable&#x20;
+4. Gehen Sie zu **Nur angemeldete Kunden** > Aktivieren Sie den Schalter, um&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-19 at 2.41.39 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Click **Save**
+5. Klicken Sie auf **Speichern**
 
 
 
-Note: Follow the same steps in setting up all types of Promos
+Hinweis: Befolgen Sie beim Einrichten aller Arten von Werbeaktionen die gleichen Schritte
 
 <br>
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

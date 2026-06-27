@@ -1,59 +1,59 @@
 ---
 description: >-
-  It is sometimes too busy at the restaurant/store and you need to stop
-  accepting online orders. Use this simple feature and temporarily pause online
-  orders.
+  Manchmal ist es im Restaurant/Laden zu voll und Sie müssen anhalten
+  Annahme von Online-Bestellungen. Nutzen Sie diese einfache Funktion und pausieren Sie sie vorübergehend online
+  Bestellungen.
 ---
 
-# Pause Ordering Feature
+# Bestellfunktion pausieren
 
-### Temporary Pause Online Ordering&#x20;
+### Vorübergehende Pause der Online-Bestellung&#x20;
 
-If your store is temporarily closed during normal business hours, you can use this feature to suspend online and mobile app orders. When customers try to place an order, a message will show that your store is currently closed.
+Wenn Ihr Geschäft während der normalen Geschäftszeiten vorübergehend geschlossen ist, können Sie mit dieser Funktion Online- und mobile App-Bestellungen aussetzen. Wenn Kunden versuchen, eine Bestellung aufzugeben, wird eine Meldung angezeigt, dass Ihr Geschäft derzeit geschlossen ist.
 
 
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-11 at 7.22.39 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-When you pause online ordering, your platform will not allow any connected devices to place an order. This feature is effective instantly and will be automatically undone after the set time.  If your store is permanently closed on a certain day, set closed hours instead [https://support.restoflow.ch/how-to-guides/adding-closed-hours](https://support.restoflow.ch/how-to-guides/adding-closed-hours)
+Wenn Sie die Online-Bestellung pausieren, lässt Ihre Plattform nicht zu, dass angeschlossene Geräte eine Bestellung aufgeben. Diese Funktion ist sofort wirksam und wird nach der eingestellten Zeit automatisch rückgängig gemacht.  Wenn Ihr Geschäft an einem bestimmten Tag dauerhaft geschlossen ist, legen Sie stattdessen die Schließzeiten fest [https://support.restoflow.ch/how-to-guides/adding-closed-hours](https://support.restoflow.ch/how-to-guides/adding-closed-hours)
 
-### Steps :
+### Schritte:
 
-1. On the Admin Dashboard, click on the Order Icon&#x20;
+1. Klicken Sie im Admin-Dashboard auf das Bestellsymbol&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 6.20.24 AM (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Click on "Pause Services"
+2. Klicken Sie auf „Dienste pausieren“
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 7.07.45 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Set services you want to pause and how many minutes
+3. Legen Sie die Dienste fest, die Sie pausieren möchten, und die Anzahl der Minuten
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 7.08.53 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Click on "Resume Services" if you are ready to accept online orders again even prior to the time set.&#x20;
+4. Klicken Sie auf „Dienste fortsetzen“, wenn Sie bereit sind, Online-Bestellungen auch vor Ablauf der festgelegten Zeit wieder anzunehmen.&#x20;
 
 <figure><img src="../.gitbook/assets/Screen Shot 2024-01-10 at 7.06.49 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-5. To pause an item or make it unavailable, on the Admin Dashboard, click on the Menu icon
+5. Um ein Element anzuhalten oder nicht verfügbar zu machen, klicken Sie im Admin-Dashboard auf das Menüsymbol
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 1.56.45 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-6. Look for the item that's currently out of stock or not available. Click on the pause icon.
+6. Suchen Sie nach dem Artikel, der derzeit nicht vorrätig oder nicht verfügbar ist. Klicken Sie auf das Pause-Symbol.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 12.09.20 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-7. Set the timer and the reason, then click confirm.
+7. Stellen Sie den Timer und den Grund ein und klicken Sie dann auf „Bestätigen“.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 12.20.51 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-8. The item will then show on "Pause" and will automatically resume after the time set.  It will also show "Out of Stock" on the ordering page.
+8. Das Element wird dann auf „Pause“ angezeigt und nach der eingestellten Zeit automatisch fortgesetzt.  Auf der Bestellseite wird außerdem „Nicht vorrätig“ angezeigt.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 12.21.27 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 12.32.03 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-9. Click on the "Play" icon to make the item available again even prior to the time set, then confirm.&#x20;
+9. Klicken Sie auf das „Play“-Symbol, um den Artikel auch vor der eingestellten Zeit wieder verfügbar zu machen, und bestätigen Sie dann.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-27 at 12.22.53 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -1,106 +1,106 @@
-# How to add Restoflow to your Google Business Profile
+# So fügen Sie Restoflow zu Ihrem Google-Unternehmensprofil hinzu
 
-**Time estimate:** 5 minutes
+**Zeitschätzung:** 5 Minuten
 
-**Prerequisites:** You must be the owner of the Google Business Profile to grant access to other users.
-
-***
-
-### Getting Started
-
-1. Navigate to [business.google.com](http://business.google.com/) and sign in with your Google account
-2. Select your business location if you have multiple listings
+**Voraussetzungen:** Sie müssen der Inhaber des Google-Unternehmensprofils sein, um anderen Nutzern Zugriff zu gewähren.
 
 ***
 
-### Granting Access to Restoflow
+### Erste Schritte
 
-#### Step 1: Access Google Account Settings
+1. Navigieren Sie zu [business.google.com](http://business.google.com/) und melden Sie sich mit Ihrem Google-Konto an
+2. Wählen Sie Ihren Unternehmensstandort aus, wenn Sie mehrere Einträge haben
+
+***
+
+### Zugriff auf Restoflow gewähren
+
+#### Schritt 1: Greifen Sie auf die Google-Kontoeinstellungen zu
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Step 2: Click Business Profile Settings
+#### Schritt 2: Klicken Sie auf Unternehmensprofileinstellungen
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Step 3: Navigate to People and Access
+#### Schritt 3: Navigieren Sie zu Personen und Zugriff
 
-* Look for the "People and Access" option in the left sidebar or settings menu
-* Click on "People and Access" to open the user management section
+* Suchen Sie in der linken Seitenleiste oder im Einstellungsmenü nach der Option „Personen und Zugriff“.
+* Klicken Sie auf „Personen und Zugriff“, um den Bereich „Benutzerverwaltung“ zu öffnen
 
 <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Step 4: Add Restoflow as a Manager
+#### Schritt 4: Restoflow als Manager hinzufügen
 
-* Click the "Add people" or "Invite" button
-* Enter the email: [info@restoflow.ch](mailto:info@restoflow.ch)
-* Select **"Manager"** from the permission level dropdown
-* Click "Invite" or "Send invitation"
+* Klicken Sie auf die Schaltfläche „Personen hinzufügen“ oder „Einladen“.
+* Geben Sie die E-Mail-Adresse ein: [info@restoflow.ch](mailto:info@restoflow.ch)
+* Wählen Sie **„Manager“** aus dem Dropdown-Menü „Berechtigungsstufe“ aus
+* Klicken Sie auf „Einladen“ oder „Einladung senden“
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Step 5: Verify the Access
+#### Schritt 5: Überprüfen Sie den Zugriff
 
-You should see [info@restoflow.ch](mailto:info@restoflow.ch) listed as a "Manager" in your People and Access list with a "Pending" or "Active" status.
+In Ihrer Personen- und Zugriffsliste sollte [info@restoflow.ch](mailto:info@restoflow.ch) als „Manager“ mit dem Status „Ausstehend“ oder „Aktiv“ aufgeführt sein.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
-#### Why This Matters
+#### Warum das wichtig ist
 
-By granting Manager permissions, you maintain full ownership and control of your Google Business Profile. Restoflow can access your profile to:
+Durch die Erteilung von Managerberechtigungen behalten Sie die volle Kontrolle über Ihr Google-Unternehmensprofil. Restoflow kann auf Ihr Profil zugreifen, um:
 
-* Optimize your listing for better visibility
-* Run promotions and special offers
-* Update business information
-* Respond to reviews
-* Add posts and updates
-* Improve your profile for better sales performance
+* Optimieren Sie Ihren Eintrag für eine bessere Sichtbarkeit
+* Führen Sie Werbeaktionen und Sonderangebote durch
+* Geschäftsinformationen aktualisieren
+* Auf Bewertungen antworten
+* Beiträge und Updates hinzufügen
+* Verbessern Sie Ihr Profil für eine bessere Verkaufsleistung
 
-**Important:** You retain owner access and can revoke Restoflow permissions at any time.
-
-***
-
-### Troubleshooting
-
-**Don't see "People and Access"?**
-
-* Make sure you're logged in as the business owner
-* Try refreshing the page
-* Ensure you've selected the correct business location
-
-**Email address not accepted?**
-
-* Double-check the email: [info@restoflow.ch](mailto:info@restoflow.ch)
-* Make sure there are no extra spaces
-* Try using the "Add by email" option instead of searching
-
-**Only see "Owner" as an option?**
-
-* You may need to confirm your business ownership first
-* Contact Google Business support to verify your account status
-
-**Invitation not going through?**
-
-* Check your internet connection
-* Try a different browser (Chrome recommended)
-* Clear your browser cache and try again
+**Wichtig:** Sie behalten den Eigentümerzugriff und können Restoflow-Berechtigungen jederzeit widerrufen.
 
 ***
 
-### What Happens Next?
+### Fehlerbehebung
 
-1. Restoflow will receive an email invitation to access your profile
-2. Once accepted, you'll see the status change from "Pending" to "Active"
-3. Restoflow will reach out to confirm access and discuss optimization plans
-4. You can monitor all changes Restoflow makes through your owner dashboard
+**Sie sehen „Personen und Zugriff“ nicht?**
+
+* Stellen Sie sicher, dass Sie als Geschäftsinhaber angemeldet sind
+* Versuchen Sie, die Seite zu aktualisieren
+* Stellen Sie sicher, dass Sie den richtigen Unternehmensstandort ausgewählt haben
+
+**E-Mail-Adresse nicht akzeptiert?**
+
+* Überprüfen Sie die E-Mail noch einmal: [info@restoflow.ch](mailto:info@restoflow.ch)
+* Stellen Sie sicher, dass keine zusätzlichen Leerzeichen vorhanden sind
+* Versuchen Sie, die Option „Per E-Mail hinzufügen“ zu verwenden, anstatt zu suchen
+
+**Nur „Eigentümer“ als Option sehen?**
+
+* Möglicherweise müssen Sie zunächst die Inhaberschaft Ihres Unternehmens bestätigen
+* Wenden Sie sich an den Google Business-Support, um Ihren Kontostatus zu überprüfen
+
+**Einladung geht nicht durch?**
+
+* Überprüfen Sie Ihre Internetverbindung
+* Versuchen Sie es mit einem anderen Browser (Chrome empfohlen)
+* Leeren Sie Ihren Browser-Cache und versuchen Sie es erneut
 
 ***
 
-### Need Help?
+### Was passiert als nächstes?
 
-If you encounter any issues completing these steps, contact the Restoflow support team at [info@restoflow.ch](mailto:info@restoflow.ch) or reach out to your account manager.
+1. Restoflow erhält eine E-Mail-Einladung zum Zugriff auf Ihr Profil
+2. Nach der Annahme sehen Sie, wie sich der Status von „Ausstehend“ in „Aktiv“ ändert.
+3. Restoflow wird sich mit Ihnen in Verbindung setzen, um den Zugriff zu bestätigen und Optimierungspläne zu besprechen
+4. Sie können alle Änderungen, die Restoflow vornimmt, über Ihr Besitzer-Dashboard überwachen
+
+***
+
+### Brauchen Sie Hilfe?
+
+Wenn beim Ausführen dieser Schritte Probleme auftreten, wenden Sie sich an das Restoflow-Supportteam unter [info@restoflow.ch](mailto:info@restoflow.ch) oder wenden Sie sich an Ihren Account Manager.
 
 
 

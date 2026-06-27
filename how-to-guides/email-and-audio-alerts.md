@@ -1,65 +1,65 @@
 ---
-description: 'Mastering Notifications: Real-Time Alerts'
+description: „Benachrichtigungen Meister: Echtzeitwarnungen“
 ---
 
-# Email & Audio Alerts
+# E-Mail- und Audio-Benachrichtigungen
 
 {% embed url="https://youtu.be/4YkfhJCt2ZY" %}
 
 
 
-### Accessing Notification Settings
+### Zugreifen auf Benachrichtigungseinstellungen
 
-1. From your Dashboard, navigate to Settings > Functionality
-2. Here, you'll find the Email Notifications and Audio Notifications sections.&#x20;
+1. Navigieren Sie in Ihrem Dashboard zu Einstellungen > Funktionalität
+2. Hier finden Sie die Abschnitte E-Mail-Benachrichtigungen und Audio-Benachrichtigungen.&#x20;
 
-### Setting up Email Notifications
+### E-Mail-Benachrichtigungen einrichten
 
-Email notifications keep you informed about orders and store activities even when you're not logged into your dashboard.
+E-Mail-Benachrichtigungen halten Sie über Bestellungen und Geschäftsaktivitäten auf dem Laufenden, auch wenn Sie nicht in Ihrem Dashboard angemeldet sind.
 
-1. **Verify Your Email Address**
-   * Ensure the Primary Email Address field is accurate. This is where order receipts and notifications will be sent.
-2. **Configure Report Emails**
-   * Add up to 4 additional email addresses under Report Emails for daily, weekly, or monthly summaries of orders and sales performance.
-   * Ideal for owners, managers, or team leads who need regular performance updates.
-3. **Select Events for Email Alerts**
-   * You can enable or disable alerts for:
-     * New Orders – Get notified when a customer places an order.
-     * New Bookings – For table reservations (if dine-in is enabled).
-     * Age Verification Requests – If your store sells age-restricted products.
-4. **PDF Order Receipts**
-   * Each order email includes a PDF copy of the receipt for easy printing or reference.
+1. **Bestätigen Sie Ihre E-Mail-Adresse**
+* Stellen Sie sicher, dass das Feld „Primäre E-Mail-Adresse“ korrekt ist. Hier werden Bestellbelege und Benachrichtigungen verschickt.
+2. **Berichts-E-Mails konfigurieren**
+* Fügen Sie unter Berichts-E-Mails bis zu 4 zusätzliche E-Mail-Adressen hinzu, um tägliche, wöchentliche oder monatliche Zusammenfassungen der Bestellungen und der Verkaufsleistung zu erhalten.
+* Ideal für Eigentümer, Manager oder Teamleiter, die regelmäßige Leistungsaktualisierungen benötigen.
+3. **Ereignisse für E-Mail-Benachrichtigungen auswählen**
+* Sie können Benachrichtigungen aktivieren oder deaktivieren für:
+* Neue Bestellungen – Werden Sie benachrichtigt, wenn ein Kunde eine Bestellung aufgibt.
+* Neue Buchungen – Für Tischreservierungen (wenn das Abendessen aktiviert ist).
+* Anfragen zur Altersüberprüfung – Wenn Ihr Geschäft Produkte mit Altersbeschränkung verkauft.
+4. **PDF-Bestellbelege**
+* Jede Bestell-E-Mail enthält eine PDF-Kopie der Quittung zum einfachen Ausdrucken oder Nachschlagen.
 
-Click Save to apply your email settings.
+Klicken Sie auf Speichern, um Ihre E-Mail-Einstellungen zu übernehmen.
 
-### Configuring Audio Notications
+### Konfigurieren von Audiobenachrichtigungen
 
-Audio alerts help your team stay responsive to real-time events, especially during busy hours.
+Audiowarnungen helfen Ihrem Team, auf Ereignisse in Echtzeit zu reagieren, insbesondere während der Stoßzeiten.
 
-1. **Choose an Alert Sound**
-   * Select from the available list of alert tones.
-   * Click Test Sound to preview it. Make sure your browser has sound enabled and your device volume is up.
-2. **Set Repeat Count**
-   * Control how many times the sound plays per alert (e.g., repeat 3 times for emphasis).
-3. **Enable Stop On Click**
-   * Turn this on if you want the sound to stop immediately when someone clicks the screen (useful for fast acknowledgment).
-4. **Enable Audio Alerts For:**
-   * New Orders
-   * Bookings (if applicable)
-   * Age Verification Requests
+1. **Wählen Sie einen Alarmton**
+* Wählen Sie aus der verfügbaren Liste von Warntönen aus.
+* Klicken Sie auf „Sound testen“, um eine Vorschau anzuzeigen. Stellen Sie sicher, dass in Ihrem Browser der Ton aktiviert ist und die Lautstärke Ihres Geräts hoch ist.
+2. **Wiederholungsanzahl festlegen**
+* Steuern Sie, wie oft der Ton pro Alarm abgespielt wird (z. B. zur Betonung dreimal wiederholen).
+3. **Bei Klick stoppen aktivieren**
+* Aktivieren Sie diese Option, wenn Sie möchten, dass der Ton sofort stoppt, wenn jemand auf den Bildschirm klickt (nützlich für eine schnelle Bestätigung).
+4. **Audio-Benachrichtigungen aktivieren für:**
+* Neue Bestellungen
+* Buchungen (falls zutreffend)
+* Anfragen zur Altersüberprüfung
 
-Click Save to activate your audio settings.
+Klicken Sie auf Speichern, um Ihre Audioeinstellungen zu aktivieren.
 
-### Testing Your Notifications
+### Testen Sie Ihre Benachrichtigungen
 
-1. Place a Test Order from your store’s front end to confirm email and sound notifications are working.
-2. Ensure the email receipt is received at the correct addresses.
-3. Verify the alert sound triggers properly in your browser or POS setup.
+1. Geben Sie im Frontend Ihres Shops eine Testbestellung auf, um zu bestätigen, dass E-Mail- und Tonbenachrichtigungen funktionieren.
+2. Stellen Sie sicher, dass die E-Mail-Bestätigung an den richtigen Adressen eingeht.
+3. Überprüfen Sie in Ihrem Browser oder im POS-Setup, ob der Alarmton ordnungsgemäß ausgelöst wird.
 
 <br>
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

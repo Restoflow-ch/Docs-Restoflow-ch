@@ -1,69 +1,69 @@
 ---
 description: >-
-  Conditional Fees in Restoflow allow you to apply additional charges based
-  on specific order conditions such as payment methods, order times, and special
+  Mit den bedingten Gebühren in Restoflow können Sie zusätzliche Gebühren erheben
+  auf bestimmte Bestellkonditionen wie Zahlungsarten, Bestellzeiten und Besonderheiten
   days.
 ---
 
-# How to Set Up Conditional Fees in Restoflow
+# So richten Sie bedingte Gebühren in Restoflow ein
 
-This feature helps businesses manage surcharges effectively and automate pricing adjustments.\
+Diese Funktion hilft Unternehmen, Zuschläge effektiv zu verwalten und Preisanpassungen zu automatisieren.\
 \
 \
-Here's a video on how to set up this feature.
+Hier ist ein Video zur Einrichtung dieser Funktion.
 
 {% embed url="https://youtu.be/LVZGVFHK8UA" %}
 
-### Step 1: Log In to Restoflow
+### Schritt 1: Melden Sie sich bei Restoflow an
 
-1. Go to [Restoflow](https://restoflow.ch/) and log into your account.
-2. Navigate to your **Dashboard**.
+1. Gehen Sie zu [Restoflow](https://restoflow.ch/) und melden Sie sich bei Ihrem Konto an.
+2. Navigieren Sie zu Ihrem **Dashboard**.
 
-### Step 2: Access Conditional Fees Settings
+### Schritt 2: Greifen Sie auf die Einstellungen für bedingte Gebühren zu
 
-1. Click on **Settings** in the left-hand menu.
-2. Select **System**.
-3. Click on **Conditional Fees**.
+1. Klicken Sie im linken Menü auf **Einstellungen**.
+2. Wählen Sie **System**.
+3. Klicken Sie auf **Bedingte Gebühren**.
 
-### Step 3: Create a New Conditional Fee
+### Schritt 3: Erstellen Sie eine neue bedingte Gebühr
 
-1. Click the **Create Fee** button.
-2. Enter a descriptive **Fee Name** (e.g., "Public Holiday Surcharge").
-3. Choose the **Fee Amount**, either as a fixed value or a percentage.
+1. Klicken Sie auf die Schaltfläche **Gebühr erstellen**.
+2. Geben Sie einen aussagekräftigen **Gebührennamen** ein (z. B. „Feiertagszuschlag“).
+3. Wählen Sie den **Gebührenbetrag**, entweder als Festwert oder als Prozentsatz.
 
-### Step 4: Define Conditions for the Fee
+### Schritt 4: Konditionen für die Gebühr festlegen
 
-1. Choose whether the fee applies to **Any** order or **Specific** conditions.
-2. Configure conditions such as:
-   * **Order Time**: Apply the fee to orders placed for "Now" or "Later."
-   * **Services**: Restrict fees to specific services like delivery or pickup.
-   * **Payment Methods**: Apply surcharges based on cash or card payments.
-   * **Applicable Hours:** Set specific days or timeframes (e.g., weekends or public holidays).
+1. Wählen Sie, ob die Gebühr für **jede** Bestellung oder **spezifische** Bedingungen gilt.
+2. Konfigurieren Sie Bedingungen wie:
+* **Bestellzeitpunkt**: Wenden Sie die Gebühr auf Bestellungen an, die „Jetzt“ oder „Später“ aufgegeben werden.
+* **Dienste**: Beschränken Sie die Gebühren auf bestimmte Dienste wie Lieferung oder Abholung.
+* **Zahlungsmethoden**: Bei Bar- oder Kartenzahlungen fallen Zuschläge an.
+* **Geltende Öffnungszeiten:** Legen Sie bestimmte Tage oder Zeitrahmen fest (z. B. Wochenenden oder Feiertage).
 
-### Step 5: Save and Test Your Fee
+### Schritt 5: Speichern und testen Sie Ihre Gebühr
 
-1. Click **Save** to apply the fee.
-2. Visit your **Online Ordering Page** to verify that the fee is correctly applied based on the set conditions.
+1. Klicken Sie auf **Speichern**, um die Gebühr zu übernehmen.
+2. Besuchen Sie Ihre **Online-Bestellseite**, um zu überprüfen, ob die Gebühr basierend auf den festgelegten Bedingungen korrekt angewendet wird.
 
-### Additional Resources
+### Zusätzliche Ressourcen
 
-* How to configure Payment Method
-* Managing Service Types in Restoflow
-* Customizing Your Online Ordering Page
+* So konfigurieren Sie die Zahlungsmethode
+* Verwalten von Servicetypen in Restoflow
+* Anpassen Ihrer Online-Bestellseite
 
 
 
-### Related Articles
+### Verwandte Artikel
 
-1. **Public Holiday Surcharge** – [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
-2. **Managing Orders & Bookings** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
-3. **How to Create & Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+1. **Feiertagszuschlag** – [https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge](https://support.restoflow.ch/platform-information/special-features/public-holiday-surcharge)
+2. **Bestellungen und Buchungen verwalten** – [https://support.restoflow.ch/getting-started/managing-orders-and-bookings](https://support.restoflow.ch/getting-started/managing-orders-and-bookings)
+3. **So erstellen und verwalten Sie Ihre Menüs** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
 
 
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie den Chat-Support, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}
 

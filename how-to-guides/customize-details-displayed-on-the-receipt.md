@@ -1,52 +1,52 @@
 ---
 description: >-
-  You can choose which order details appear on your receipts and how items are
-  presented. This helps streamline information—for example, cooks don’t need to
-  see item costs.
+  Sie können wählen, welche Bestelldetails auf Ihren Quittungen erscheinen und wie die Artikel aussehen
+  präsentiert. Dies trägt dazu bei, Informationen zu optimieren – Köche müssen dies beispielsweise nicht tun
+  siehe Artikelkosten.
 ---
 
-# Customize Details Displayed on the Receipt
+# Passen Sie die auf der Quittung angezeigten Details an
 
-### Steps:
+### Schritte:
 
-1. Log in to your account[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Settings** > **System**
+1. Melden Sie sich bei Ihrem Konto an[ https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu **Einstellungen** > **System**
 
 <figure><img src="../.gitbook/assets/unknown (19) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Navigate to **Receipt Printing**, then click the printer you want to edit to view its details.
+3. Navigieren Sie zu **Quittungsdruck** und klicken Sie dann auf den Drucker, den Sie bearbeiten möchten, um dessen Details anzuzeigen.
 
 <figure><img src="../.gitbook/assets/unknown (20) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Click **Customization**
+4. Klicken Sie auf **Anpassung**
 
 <figure><img src="../.gitbook/assets/unknown (21) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-5. **Detail Customization:**
+5. **Detailanpassung:**
 
-* Enable the details you want displayed on the receipt (e.g., customer name, order due date, estimated ready time) and disable the ones you don’t need (e.g., order status, order placement time).
+* Aktivieren Sie die Details, die auf dem Beleg angezeigt werden sollen (z. B. Kundenname, Fälligkeitsdatum der Bestellung, voraussichtliche Bereitschaftszeit) und deaktivieren Sie diejenigen, die Sie nicht benötigen (z. B. Bestellstatus, Zeitpunkt der Auftragserteilung).
 
 <figure><img src="../.gitbook/assets/unknown (22) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* You can rearrange the order using the drag handles.
+* Sie können die Reihenfolge mithilfe der Ziehpunkte ändern.
 
 <figure><img src="../.gitbook/assets/unknown (23) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-6. **Highlight Details Fields:**&#x20;
-   * Select which detail fields should be highlighted for better readability.
+6. **Detailfelder hervorheben:**&#x20;
+* Wählen Sie aus, welche Detailfelder zur besseren Lesbarkeit hervorgehoben werden sollen.
 
 <figure><img src="../.gitbook/assets/unknown (24) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-7. **Item Customization:**
+7. **Artikelanpassung:**
 
-* Enable the items you want to display on your receipts. This is useful for removing unnecessary information.
+* Aktivieren Sie die Artikel, die Sie auf Ihren Belegen anzeigen möchten. Dies ist nützlich, um unnötige Informationen zu entfernen.
 
 <figure><img src="../.gitbook/assets/unknown (25) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-8. Don’t forget to click **Save** when you’re done.
+8. Vergessen Sie nicht, auf **Speichern** zu klicken, wenn Sie fertig sind.
 
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}

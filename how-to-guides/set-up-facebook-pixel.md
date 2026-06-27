@@ -1,59 +1,59 @@
 ---
-description: Add Facebook Pixel tracking to your website to track visitors and conversions
+description: Fügen Sie Facebook-Pixel-Tracking zu Ihrer Website hinzu, um Besucher und Conversions zu verfolgen
 ---
 
-# Set Up Facebook Pixel
+# Facebook-Pixel einrichten
 
-The Facebook pixel is an excellent tool for measuring your return on investment (ROI) from Facebook advertising. The pixel will record the following events:
+Das Facebook-Pixel ist ein hervorragendes Tool zur Messung Ihres Return on Investment (ROI) aus Facebook-Werbung. Das Pixel zeichnet die folgenden Ereignisse auf:
 
-* Add To Cart
-* Complete Registration
-* Initiate Checkout
-* Page View
-* Purchase
-* Schedule (Table Booking)
-* View Content
+* In den Warenkorb legen
+* Vollständige Registrierung
+* Kasse einleiten
+* Seitenansicht
+* Kauf
+* Zeitplan (Tischreservierung)
+* Inhalt anzeigen
 
-### Steps:
+### Schritte:
 
-1. Log in to your account [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
-2. Go to **Settings** > **Integrations** > **Facebook Pixel**
+1. Melden Sie sich bei Ihrem Konto an [https://admin.restoflow.ch/login](https://admin.restoflow.ch/login)
+2. Gehen Sie zu **Einstellungen** > **Integrationen** > **Facebook Pixel**
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-20 at 12.50.46 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-3. Add Pixel ID > Save
+3. Pixel-ID hinzufügen > Speichern
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-11-21 at 2.18.04 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### How to get the Facebook Pixel ID
+### So erhalten Sie die Facebook-Pixel-ID
 
-You can get your Facebook Pixel ID directly from the Meta Events Manager (formerly known as the Facebook Ads Manager).
+Sie können Ihre Facebook-Pixel-ID direkt vom Meta Events Manager (früher bekannt als Facebook Ads Manager) erhalten.
 
-Here is the step-by-step process:
+Hier ist der Schritt-für-Schritt-Prozess:
 
-#### Step 1: Access Meta Events Manager
+#### Schritt 1: Greifen Sie auf den Meta Events Manager zu
 
-1. Go to your Facebook/Meta Business Settings or your Ads Manager.
-2. Navigate to the Events Manager.
-   * _Tip: You can usually find this in the left-hand navigation menu under "Data Sources" or "Measure & Report."_
+1. Gehen Sie zu Ihren Facebook/Meta Business-Einstellungen oder Ihrem Werbeanzeigenmanager.
+2. Navigieren Sie zum Veranstaltungsmanager.
+* _Tipp: Diese finden Sie normalerweise im linken Navigationsmenü unter „Datenquellen“ oder „Messen und Berichten“._
 
-#### Step 2: Find Your Pixel ID
+#### Schritt 2: Finden Sie Ihre Pixel-ID
 
-1. In the Events Manager dashboard, look for the list of your data sources.
-2. If you already have a Pixel created:
-   * Click on the Pixel name you want to use.
-   * The Pixel ID will be prominently displayed at the top of the page, usually right below the Pixel's name. It is a long string of numbers (e.g., `1234567890123456`).
+1. Suchen Sie im Events Manager-Dashboard nach der Liste Ihrer Datenquellen.
+2. Wenn Sie bereits ein Pixel erstellt haben:
+* Klicken Sie auf den Pixelnamen, den Sie verwenden möchten.
+* Die Pixel-ID wird gut sichtbar oben auf der Seite angezeigt, normalerweise direkt unter dem Namen des Pixels. Es handelt sich um eine lange Zahlenfolge (z. B. `1234567890123456`).
 
-#### Step 3: If You Don't Have a Pixel
+#### Schritt 3: Wenn Sie kein Pixel haben
 
-If you don't see any Pixels listed, you'll need to create one first:
+Wenn keine Pixel aufgelistet sind, müssen Sie zuerst eines erstellen:
 
-1. Click the green "Connect Data Sources" or "Add New Data Source" button (usually a green plus sign).
-2. Select "Web".
-3. Choose "Facebook Pixel" (or "Meta Pixel" in newer interfaces).
-4. Follow the prompts to name your Pixel and enter your website URL. Meta will then generate the Pixel ID for you, and it will appear on the setup screen.
+1. Klicken Sie auf die grüne Schaltfläche „Datenquellen verbinden“ oder „Neue Datenquelle hinzufügen“ (normalerweise ein grünes Pluszeichen).
+2. Wählen Sie „Web“.
+3. Wählen Sie „Facebook Pixel“ (oder „Meta Pixel“ in neueren Schnittstellen).
+4. Befolgen Sie die Anweisungen, um Ihrem Pixel einen Namen zu geben und die URL Ihrer Website einzugeben. Meta generiert dann die Pixel-ID für Sie und sie erscheint auf dem Einrichtungsbildschirm.
 
 
 
@@ -62,5 +62,5 @@ If you don't see any Pixels listed, you'll need to create one first:
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance activating this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Aktivierung dieser Funktion zu erhalten.
 {% endhint %}

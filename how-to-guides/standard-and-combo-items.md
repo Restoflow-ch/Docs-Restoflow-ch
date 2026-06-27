@@ -1,116 +1,116 @@
 ---
 description: >-
-  Easily set up both standard and combo items to build out your online menu and
-  streamline customer ordering.
+  Richten Sie ganz einfach sowohl Standard- als auch Kombinationselemente ein, um Ihr Online-Menü zu erstellen
+  Optimieren Sie die Kundenbestellung.
 ---
 
-# Standard and Combo Items
+# Standard- und Kombinationsartikel
 
-### Create Standard and Combo Menu Items
+### Erstellen Sie Standard- und Kombinationsmenüelemente
 
 {% embed url="https://youtu.be/Kxbr5Yob8LM" %}
 
-### Accessing the Menu Section
+### Zugriff auf den Menübereich
 
-1. From your **Dashboard**, go to **Menu**.
-2. Click the specific **menu** you want to edit.&#x20;
-3. Select a **category**, the click **Create New Item**. <br>
+1. Gehen Sie in Ihrem **Dashboard** zum **Menü**.
+2. Klicken Sie auf das spezifische **Menü**, das Sie bearbeiten möchten.&#x20;
+3. Wählen Sie eine **Kategorie** aus und klicken Sie auf **Neuen Artikel erstellen**. <br>
 
-**Creating a Standard Item**
+**Erstellen eines Standardartikels**
 
-1. Choose "**Standard**" as the item type.&#x20;
-2. Fill in the following details:
+1. Wählen Sie „**Standard**“ als Artikeltyp.&#x20;
+2. Geben Sie die folgenden Details ein:
 
-* **Name** (required)
-* **Price** (required)
-* **Display Name**: Overrides how the name appears to customers
-* **Print Name**: Used for kitchen printing
-* **Subtitle/Description:** Optional - great for promos or item notes
+* **Name** (erforderlich)
+* **Preis** (erforderlich)
+* **Anzeigename**: Überschreibt die Darstellung des Namens für Kunden
+* **Druckname**: Wird für den Küchendruck verwendet
+* **Untertitel/Beschreibung:** Optional – ideal für Werbeaktionen oder Artikelnotizen
 
-3. **Select applicable tax**.&#x20;
-4. Click **Save**.&#x20;
+3. **Anwendbare Steuer auswählen**.&#x20;
+4. Klicken Sie auf **Speichern**.&#x20;
 
 {% hint style="success" %}
-The item will now appear on your front end. You may need to refresh to see updates.
+Der Artikel wird nun auf Ihrem Frontend angezeigt. Möglicherweise müssen Sie eine Aktualisierung durchführen, um Aktualisierungen anzuzeigen.
 {% endhint %}
 
-**Add an Image and Tags**
+**Bild und Tags hinzufügen**
 
-1. Go to the Image & Tags tab.
-2. Upload an image from:
+1. Gehen Sie zur Registerkarte „Bild & Tags“.
+2. Laden Sie ein Bild hoch von:
 
-* Your Device
+* Ihr Gerät
 * Facebook
 * Google Drive
-* Paste and image URL
+* Einfügen und Bild-URL
 
-3. Choose Tags to help organize and filter items.&#x20;
+3. Wählen Sie Tags aus, um Elemente zu organisieren und zu filtern.&#x20;
 
 {% hint style="info" %}
-If you haven't created tags yet, go to your **Menu Tags** settings to add them.&#x20;
+Wenn Sie noch keine Tags erstellt haben, gehen Sie zu Ihren **Menü-Tags**-Einstellungen, um sie hinzuzufügen.&#x20;
 {% endhint %}
 
-**Add Options and Ingredients**
+**Optionen und Zutaten hinzufügen**
 
-1. Click Edit on the item, then go to Options and ingredients.&#x20;
-2. Assign Option Sets like pizza sizes or drink add-ons.
+1. Klicken Sie bei dem Artikel auf „Bearbeiten“ und gehen Sie dann zu „Optionen und Zutaten“.&#x20;
+2. Weisen Sie Optionssätze wie Pizzagrößen oder Getränkezusätze zu.
 
-* Use **Points** to limit free choices and apply extra charges.
-* Set a **Primary Option Set** to show variable prices (e.g., Small, Medium, Large).
+* Verwenden Sie **Punkte**, um die freie Auswahl einzuschränken und zusätzliche Gebühren zu erheben.
+* Legen Sie einen **primären Optionssatz** fest, um variable Preise anzuzeigen (z. B. Klein, Mittel, Groß).
 
-3. Under **Ingredients**, list all components so customers can remove or modify them.&#x20;
+3. Listen Sie unter **Zutaten** alle Komponenten auf, damit Kunden sie entfernen oder ändern können.&#x20;
 
 
 
-**Creating a Combo Item**
+**Kombinationselement erstellen**
 
-1. Choose "**Combo**" as the item type.&#x20;
-2. Enter:
+1. Wählen Sie „**Combo**“ als Artikeltyp.&#x20;
+2. Geben Sie ein:
 
 * **Name**
-* **Price**
-* **Combo Price Type**:
-  * **Standard**: Fixed price
-  * **Difference**: Adjusted based on selected items
+* **Preis**
+* **Kombi-Preistyp**:
+* **Standard**: Festpreis
+* **Unterschied**: Basierend auf ausgewählten Elementen angepasst
 
-3. Add optional fields:
+3. Fügen Sie optionale Felder hinzu:
 
-* **Display Name**
-* **Description**
-* **Subtitle**
+* **Anzeigename**
+* **Beschreibung**
+* **Untertitel**
 
-4. Use **Blacklist Option Sets** to exclude unwanted customizations (e.g., size or extras).
-5. Set the **tax,** upload an **image**, and add **tags** as needed.&#x20;
-
-
-
-**Add items to the Combo**
-
-1. Click **Item Choice**.&#x20;
-2. Click **Add Choice** for each item in the combo.
-
-* For example, if it's 2 pizzas and 1 drink, create 3 choices.&#x20;
-* Ensure those standard items already exist.&#x20;
-
-3. Click **Save** when done.&#x20;
+4. Verwenden Sie **Blacklist-Optionssätze**, um unerwünschte Anpassungen (z. B. Größe oder Extras) auszuschließen.
+5. Legen Sie die **Steuer** fest, laden Sie ein **Bild** hoch und fügen Sie nach Bedarf **Tags** hinzu.&#x20;
 
 
 
-**Front-End Behaviour**
+**Elemente zur Combo hinzufügen**
 
-* Combo item displays with your selected standard items.&#x20;
-* Blacklisted Options will not appear.&#x20;
-* Pricing follows your selected **Combo Price Type**.&#x20;
+1. Klicken Sie auf **Artikelauswahl**.&#x20;
+2. Klicken Sie für jedes Element in der Kombination auf **Auswahl hinzufügen**.
+
+* Wenn es sich beispielsweise um 2 Pizzen und 1 Getränk handelt, erstellen Sie 3 Auswahlmöglichkeiten.&#x20;
+* Stellen Sie sicher, dass diese Standardartikel bereits vorhanden sind.&#x20;
+
+3. Klicken Sie abschließend auf **Speichern**.&#x20;
+
+
+
+**Front-End-Verhalten**
+
+* Kombinationsartikel werden mit Ihren ausgewählten Standardartikeln angezeigt.&#x20;
+* Optionen auf der schwarzen Liste werden nicht angezeigt.&#x20;
+* Die Preise richten sich nach dem von Ihnen gewählten **Kombi-Preistyp**.&#x20;
 
 {% hint style="success" %}
-Try placing a test order to confirm everything looks right.&#x20;
+Versuchen Sie, eine Testbestellung aufzugeben, um sicherzustellen, dass alles richtig aussieht.&#x20;
 {% endhint %}
 
-### Related Articles
+### Verwandte Artikel
 
-1. **How to Create and Manage Your Menus** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
-2. **Setup Your Menus** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
-3. **Export/Import Menu Feature** – [https://support.restoflow.ch/how-to-guides/export-import-menu-feature](https://support.restoflow.ch/how-to-guides/export-import-menu-feature)
+1. **So erstellen und verwalten Sie Ihre Menüs** – [https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus](https://support.restoflow.ch/how-to-guides/how-to-create-and-manage-your-menus)
+2. **Richten Sie Ihre Menüs ein** – [https://support.restoflow.ch/getting-started/setup-your-menus](https://support.restoflow.ch/getting-started/setup-your-menus)
+3. **Menüfunktion „Exportieren/Importieren“** – [https://support.restoflow.ch/how-to-guides/export-import-menu-feature](https://support.restoflow.ch/how-to-guides/export-import-menu-feature)
 
 
 
@@ -119,5 +119,5 @@ Try placing a test order to confirm everything looks right.&#x20;
 
 
 {% hint style="danger" %}
-Please email [info@restoflow.ch](mailto:info@restoflow.ch) or use the chat support feature to get assistance managing this feature.
+Bitte senden Sie eine E-Mail an [info@restoflow.ch](mailto:info@restoflow.ch) oder nutzen Sie die Chat-Support-Funktion, um Hilfe bei der Verwaltung dieser Funktion zu erhalten.
 {% endhint %}
