@@ -1,5 +1,5 @@
 ---
-description: „Benachrichtigungen Meister: Echtzeitwarnungen“
+description: "Benachrichtigungen Meister: Echtzeitwarnungen"
 ---
 
 # E-Mail- und Audio-Benachrichtigungen
